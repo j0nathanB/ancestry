@@ -1,0 +1,7153 @@
+0 HEAD
+1 SUBM @SUBM1@
+1 SOUR Ancestry.com Family Trees
+2 NAME Ancestry.com Member Trees
+2 VERS 2022.08
+2 _TREE Bradshaw Family Tree
+3 RIN 166297665
+3 _ENV prd
+2 CORP Ancestry.com
+3 PHON 801-705-7000
+3 WWW www.ancestry.com
+3 ADDR 1300 West Traverse Parkway
+4 CONT Lehi, UT  84043
+4 CONT USA
+1 DATE 13 Jul 2023
+2 TIME 03:02:51
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+0 @SUBM1@ SUBM
+1 NAME Ancestry.com Member Trees Submitter
+0 @I372157460647@ INDI
+1 NAME Jonathan /Bradshaw/
+2 GIVN Jonathan
+2 SURN Bradshaw
+1 SEX U
+1 FAMC @F79@
+1 BIRT
+2 DATE 1 Jun 1982
+2 PLAC Watseka, Iroquois, Illinois, USA
+0 @I372157460734@ INDI
+1 NAME Jay D /Bradshaw/
+2 GIVN Jay D
+2 SURN Bradshaw
+2 SOUR @S1394132693@
+3 _APID 1,60525::150577353
+1 SEX M
+1 FAMC @F84@
+1 FAMS @F79@
+1 BIRT
+2 DATE 25 Aug 1956
+2 PLAC Watseka, Iroquois, Illinois, USA
+2 SOUR @S1394132693@
+3 _APID 1,60525::150577353
+1 DEAT
+2 DATE 2 Jan 2018
+2 PLAC Sandy, Clackamas, Oregon, USA
+2 SOUR @S1394132693@
+3 _APID 1,60525::150577353
+1 BURI
+2 PLAC Onarga, Iroquois County, Illinois, United States of America
+2 SOUR @S1394132693@
+3 _APID 1,60525::150577353
+0 @I372157460751@ INDI
+1 NAME Robert John /Bradshaw/
+2 GIVN Robert John
+2 SURN Bradshaw
+2 SOUR @S1402011127@
+3 PAGE The Pantagraph; Publication Date: 6/ Jul/ 2000; Publication Place: Bloomington, Illinois, United States of America; URL: https://www.newspapers.com/image/75419037/?article=7476a6a1-efa7-4b4c-bb3e-0236a720f5d1&focus=0.02294058,0.36709467,0.17864558,
+4 CONC 0.574930
+3 _APID 1,61843::431828390
+1 SEX M
+1 SEX M
+1 FAMC @F25@
+1 FAMS @F84@
+1 BIRT
+2 DATE 22 Jun 1920
+2 PLAC Grayville, Edwards, Illinois, USA
+1 DEAT
+2 DATE 22 Nov 1998
+2 PLAC Onarga, Iroquois, Illinois, USA
+1 OBJE @O41@
+2 _PRIM Y
+1 OBJE @O75@
+0 @I372157460761@ INDI
+1 NAME Sarajane /Steele/
+2 GIVN Sarajane
+2 SURN Steele
+2 SOUR @S1395601563@
+3 PAGE Social Security Administration; Washington D.C., USA; Social Security Death Index, Master File
+3 _APID 1,3693::6390505
+2 SOUR @S1402011127@
+3 PAGE The Pantagraph; Publication Date: 6/ Jul/ 2000; Publication Place: Bloomington, Illinois, United States of America; URL: https://www.newspapers.com/image/75419037/?article=7476a6a1-efa7-4b4c-bb3e-0236a720f5d1&focus=0.02294058,0.36709467,0.17864558,
+4 CONC 0.574930
+3 _APID 1,61843::628095746
+1 SEX F
+1 FAMC @F110@
+1 FAMS @F84@
+1 BIRT
+2 DATE 23 Apr 1922
+2 PLAC Bloomington, Monroe, Indiana, USA
+2 SOUR @S1395601563@
+3 PAGE Social Security Administration; Washington D.C., USA; Social Security Death Index, Master File
+3 _APID 1,3693::6390505
+2 SOUR @S1402011127@
+3 PAGE The Pantagraph; Publication Date: 6/ Jul/ 2000; Publication Place: Bloomington, Illinois, United States of America; URL: https://www.newspapers.com/image/75419037/?article=7476a6a1-efa7-4b4c-bb3e-0236a720f5d1&focus=0.02294058,0.36709467,0.17864558,
+4 CONC 0.574930
+3 _APID 1,61843::628095746
+1 RESI
+2 DATE Before 1951
+2 PLAC Indiana
+2 SOUR @S1395601563@
+3 PAGE Social Security Administration; Washington D.C., USA; Social Security Death Index, Master File
+3 _APID 1,3693::6390505
+1 RESI
+2 PLAC Onarga
+2 SOUR @S1402011127@
+3 PAGE The Pantagraph; Publication Date: 6/ Jul/ 2000; Publication Place: Bloomington, Illinois, United States of America; URL: https://www.newspapers.com/image/75419037/?article=7476a6a1-efa7-4b4c-bb3e-0236a720f5d1&focus=0.02294058,0.36709467,0.17864558,
+4 CONC 0.574930
+3 _APID 1,61843::628095746
+1 DEAT
+2 DATE 3 Jul 2000
+2 PLAC Onarga, Iroquois, Illinois, USA
+2 SOUR @S1395601563@
+3 PAGE Social Security Administration; Washington D.C., USA; Social Security Death Index, Master File
+3 _APID 1,3693::6390505
+2 SOUR @S1402011127@
+3 PAGE The Pantagraph; Publication Date: 6/ Jul/ 2000; Publication Place: Bloomington, Illinois, United States of America; URL: https://www.newspapers.com/image/75419037/?article=7476a6a1-efa7-4b4c-bb3e-0236a720f5d1&focus=0.02294058,0.36709467,0.17864558,
+4 CONC 0.574930
+3 _APID 1,61843::628095746
+0 @I372170617485@ INDI
+1 NAME Malena /Lavin/
+2 GIVN Malena
+2 SURN Lavin
+1 SEX F
+1 FAMC @F7@
+1 FAMS @F79@
+1 BIRT
+2 DATE 19 Aug 1963
+2 PLAC Cuernavaca, Morelos, Mexico
+0 @I372170617559@ INDI
+1 NAME Effie Kirkendal /Brimberry/
+2 GIVN Effie Kirkendal
+2 SURN Brimberry
+1 SEX F
+1 FAMC @F15@
+1 FAMS @F110@
+1 BIRT
+2 DATE 13 Mar 1887
+2 PLAC Crawford, Illinois, United States
+1 DEAT
+2 DATE 4 Aug 1976
+1 OBJE @O45@
+2 _PRIM Y
+0 @I372170617577@ INDI
+1 NAME Marshall Lesten /Steele/
+2 GIVN Marshall Lesten
+2 SURN Steele
+1 SEX M
+1 FAMC @F122@
+1 FAMS @F110@
+1 BIRT
+2 DATE 8/11/1882
+2 PLAC Bedford, Indiana
+1 DEAT
+2 DATE 6 November 1953
+2 PLAC Bloomington, Monroe, Indiana, USA
+1 SOUR @S1395600801@
+2 PAGE Ancestry Family Tree
+2 _APID 12105400456:1030:12042578
+1 OBJE @O34@
+2 _PRIM Y
+0 @I372170617612@ INDI
+1 NAME Alfonso Iturbe /Lavin/
+2 GIVN Alfonso Iturbe
+2 SURN Lavin
+1 SEX M
+1 FAMC @F142@
+1 FAMS @F7@
+1 DEAT
+2 DATE 1991
+2 PLAC Cuernavaca, Morelos, Mexico
+0 @I372170617690@ INDI
+1 NAME Malena /Delgado/
+2 GIVN Malena
+2 SURN Delgado
+1 SEX F
+1 FAMC @F21@
+1 FAMS @F7@
+1 DEAT
+2 DATE 2003
+2 PLAC Cuernavaca, Morelos, Mexico
+0 @I372170617727@ INDI
+1 NAME John C /Bradshaw/
+2 GIVN John C
+2 SURN Bradshaw
+2 SOUR @S1394132693@
+3 _APID 1,60525::90447138
+1 SEX M
+1 FAMC @F54@
+1 FAMS @F25@
+1 BIRT
+2 DATE 11 Nov 1892
+2 PLAC Gray, White, Illinois, USA
+2 SOUR @S1394132693@
+3 _APID 1,60525::90447138
+1 DEAT
+2 DATE 11 May 1988
+2 PLAC Watseka, Iroquois, Illinois, USA
+2 SOUR @S1394132693@
+3 _APID 1,60525::90447138
+1 BURI
+2 PLAC Onarga, Iroquois County, Illinois, United States of America
+2 SOUR @S1394132693@
+3 _APID 1,60525::90447138
+0 @I372170617740@ INDI
+1 NAME Lucy /Glover/
+2 GIVN Lucy
+2 SURN Glover
+2 SOUR @S1394132693@
+3 _APID 1,60525::90447171
+1 SEX F
+1 FAMC @F113@
+1 FAMS @F25@
+1 BIRT
+2 DATE 1 Apr 1897
+2 PLAC Illinois, USA
+2 SOUR @S1394132693@
+3 _APID 1,60525::90447171
+1 DEAT
+2 DATE  12 December 1959 
+2 PLAC Onarga, Iroquois County, Illinois, United States of America
+2 SOUR @S1394132693@
+3 _APID 1,60525::90447171
+1 BURI
+2 PLAC Onarga, Iroquois County, Illinois, United States of America
+2 SOUR @S1394132693@
+3 _APID 1,60525::90447171
+0 @I372170619012@ INDI
+1 NAME Sarajane Lavin /Bradshaw/
+2 GIVN Sarajane Lavin
+2 SURN Bradshaw
+1 SEX F
+1 FAMC @F79@
+1 BIRT
+2 DATE 23 Mar 1986
+2 PLAC Novato, Marin, California, USA
+0 @I372170620065@ INDI
+1 NAME Samuel /Steele/
+2 GIVN Samuel
+2 SURN Steele
+1 SEX M
+1 FAMC @F69@
+1 FAMS @F122@
+1 BIRT
+2 DATE 24 Dec 1855
+2 PLAC Illinois, United States
+1 DEAT
+2 DATE 6 Apr 1932
+2 PLAC Bedford, Indiana
+1 SOUR @S1395600801@
+2 PAGE Ancestry Family Tree
+2 _APID 12105400451:1030:12042578
+1 OBJE @O65@
+2 _PRIM Y
+1 OBJE @O1@
+1 OBJE @O37@
+1 OBJE @O5@
+1 OBJE @O31@
+1 OBJE @O76@
+1 OBJE @O14@
+0 @I372170620074@ INDI
+1 NAME Sarah Alice //
+2 GIVN Sarah Alice
+1 SEX F
+1 FAMC @F28@
+1 FAMS @F122@
+1 BIRT
+2 DATE 16 Mar 1861
+2 PLAC Guthrie, Lawrence, Indiana, United States
+1 DEAT
+2 DATE 27 Feb 1938
+2 PLAC Bedford, Lawrence, Indiana, United States
+1 SOUR @S1395600801@
+2 PAGE Ancestry Family Tree
+2 _APID 12105399849:1030:12042578
+1 OBJE @O42@
+2 _PRIM Y
+0 @I372170620647@ INDI
+1 NAME Thomas F /Glover/
+2 GIVN Thomas F
+2 SURN Glover
+1 SEX M
+1 FAMC @F40@
+1 FAMS @F113@
+1 BIRT
+2 DATE 30 Nov 1855
+2 PLAC Dixon Precinct, Edwards County, Illinois
+1 DEAT
+2 DATE 20 Jun 1912
+2 PLAC Dixon Precinct, Edwards County, Illinois
+2 NOTE Ridge Cemetery Edwards County, Illinois
+0 @I372170620661@ INDI
+1 NAME Edna /Perkins/
+2 GIVN Edna
+2 SURN Perkins
+1 SEX F
+1 FAMC @F4@
+1 FAMS @F113@
+1 BIRT
+2 DATE 5 Nov 1857
+2 PLAC Paris Twp, Edgar County, Illinois
+1 DEAT
+2 DATE 28 Mar 1933
+2 PLAC Albion Precinct, Edwards County, Illinois
+0 @I372170620715@ INDI
+1 NAME James F /Glover/
+2 GIVN James F
+2 SURN Glover
+1 SEX M
+1 FAMC @F149@
+1 FAMS @F40@
+1 BIRT
+2 DATE 9 Apr 1825
+2 PLAC , Yorkshire, England, UK
+1 DEAT
+2 DATE 8 Sept 1863
+2 PLAC Dixon Precinct, Edwards, Illinois, US
+1 OBJE @O2@
+2 _PRIM Y
+0 @I372170620725@ INDI
+1 NAME Eliza Jane /Cowles/
+2 GIVN Eliza Jane
+2 SURN Cowles
+1 SEX F
+1 FAMC @F23@
+1 FAMS @F40@
+1 BIRT
+2 DATE May 1827
+2 PLAC Albion, Edwards, Illinois, United States
+1 DEAT
+2 DATE 22 June 1900
+2 PLAC Edwards County, Illinois, United States of America
+0 @I372170620739@ INDI
+1 NAME John /Perkins/
+2 GIVN John
+2 SURN Perkins
+1 SEX M
+1 FAMC @F99@
+1 FAMS @F4@
+1 BIRT
+2 DATE Apr 1832
+2 PLAC Roxwell, Essex, England
+1 DEAT
+2 DATE 1 JAN 1901
+2 PLAC Dixon, Edwards, Illinois, USA
+0 @I372170620761@ INDI
+1 NAME Artemesia /Gillespy/
+2 GIVN Artemesia
+2 SURN Gillespy
+1 SEX F
+1 FAMC @F8@
+1 FAMS @F4@
+1 BIRT
+2 DATE 5 Nov 1843
+2 PLAC Paris, Edgar, Illinois, USA
+1 DEAT
+2 DATE 1923
+2 PLAC  Edwards, Illinois, USA
+1 OBJE @O13@
+2 _PRIM Y
+2 _CROP
+3 _LEFT 245
+3 _TOP 598
+3 _WDTH 782
+3 _HGHT 782
+3 _TYPE primary
+0 @I372170620891@ INDI
+1 NAME William C /Bradshaw/
+2 GIVN William C
+2 SURN Bradshaw
+1 SEX M
+1 FAMC @F106@
+1 FAMS @F54@
+1 BIRT
+2 DATE Oct 1857
+1 DEAT
+2 DATE 23 Oct 1922
+0 @I372170620913@ INDI
+1 NAME Augusta May /Coad/
+2 GIVN Augusta May
+2 SURN Coad
+1 SEX F
+1 FAMC @F61@
+1 FAMS @F54@
+1 BIRT
+2 DATE 16 Jan 1866
+2 PLAC Illinois, USA
+1 DEAT
+2 DATE 17 Sep 1921
+2 PLAC Gray, White, Illinois, USA
+0 @I372170620922@ INDI
+1 NAME Edward /Coad/
+2 GIVN Edward
+2 SURN Coad
+1 SEX M
+1 FAMC @F77@
+1 FAMS @F61@
+1 BIRT
+2 DATE 2 Nov 1840
+2 PLAC Grayville, Edwards County, Illinois
+1 DEAT
+2 DATE 05 Nov 1907
+2 NOTE per  granddaughter
+1 OBJE @O26@
+2 _PRIM Y
+0 @I372170620934@ INDI
+1 NAME Ann Rae /Gibson/
+2 GIVN Ann Rae
+2 SURN Gibson
+1 SEX F
+1 FAMC @F97@
+1 FAMS @F61@
+1 BIRT
+2 DATE 9 Aug 1839
+2 PLAC Grayville, Edwards, Illinois, United States
+1 DEAT
+2 DATE 26 Dec 1902
+2 PLAC Ridge Cemetary, 4 miles west of Grayville, IL
+0 @I372170621429@ INDI
+1 NAME Margaret J /Coad/
+2 GIVN Margaret J
+2 SURN Coad
+1 SEX F
+1 FAMC @F61@
+0 @I372170621743@ INDI
+1 NAME Perry W /Brimberry-Fuller/
+2 GIVN Perry W
+2 SURN Brimberry-Fuller
+2 SOUR @S1402010911@
+3 _APID 1,9759::111929
+1 SEX M
+1 FAMC @F16@
+1 FAMS @F15@
+1 BIRT
+2 DATE 18 Jan 1847
+2 PLAC Palestine, Crawford County, Illinois
+2 SOUR @S1402010911@
+3 _APID 1,9759::111929
+1 _MILT
+2 DATE 1861-1865
+2 SOUR @S1402010911@
+3 _APID 1,9759::111929
+1 _MILT
+2 DATE 25 Nov 1864
+2 PLAC Olney, IL
+2 SOUR @S1402010911@
+3 _APID 1,9759::111929
+1 _MILT
+2 DATE 24 Nov 1865
+2 PLAC Montgomery, AL
+2 SOUR @S1402010911@
+3 _APID 1,9759::111929
+1 DEAT
+2 DATE 17 Sep 1931
+2 PLAC Palestine, Crawford County, Illinois
+1 OBJE @O16@
+2 _PRIM Y
+0 @I372170621777@ INDI
+1 NAME Eliza Jane /Funk/
+2 GIVN Eliza Jane
+2 SURN Funk
+1 SEX F
+1 FAMC @F104@
+1 FAMS @F15@
+1 BIRT
+2 DATE 15 Dec 1860
+2 PLAC Crawford, Illinois, United States
+1 DEAT
+2 DATE 17 Jul 1937
+2 PLAC Crawford, Illinois, United States
+1 OBJE @O39@
+2 _PRIM Y
+0 @I372170621814@ INDI
+1 NAME Austin /Deckard/
+2 GIVN Austin
+2 SURN Deckard
+1 SEX M
+1 FAMC @F50@
+1 FAMS @F28@
+1 BIRT
+2 DATE 23 Dec 1838
+2 PLAC Guthrie, Monroe Cty, IN, USA
+1 DEAT
+2 DATE 12 Dec 1911
+2 PLAC Monroe, IN
+2 NOTE Age at Death: 72
+1 SOUR @S1395600801@
+2 PAGE Ancestry Family Tree
+2 _APID 12045532737:1030:12042578
+1 OBJE @O55@
+2 _PRIM Y
+0 @I372170621830@ INDI
+1 NAME Sarepha Ann /Cardwell/
+2 GIVN Sarepha Ann
+2 SURN Cardwell
+1 SEX F
+1 FAMC @F65@
+1 FAMS @F28@
+1 BIRT
+2 DATE 1841
+2 PLAC Johnson, Illinois, United States
+1 DEAT
+2 PLAC Flinn, Lawrence, Indiana, USA
+1 SOUR @S1395600801@
+2 PAGE Ancestry Family Tree
+2 _APID 12105399104:1030:12042578
+1 OBJE @O46@
+2 _PRIM Y
+0 @I372170621841@ INDI
+1 NAME Edmund J. /Steele/
+2 GIVN Edmund J.
+2 SURN Steele
+1 SEX M
+1 FAMC @F10@
+1 FAMS @F69@
+1 BIRT
+2 DATE about 1831
+2 PLAC Kentucky
+1 DEAT
+2 DATE 1864
+2 PLAC Bedford, Lawrence County, Indiana, USA
+0 @I372170621852@ INDI
+1 NAME Nancy /Lewis/
+2 GIVN Nancy
+2 SURN Lewis
+1 SEX F
+1 FAMC @F27@
+1 FAMS @F69@
+1 BIRT
+2 DATE 27 Aug 1827
+2 PLAC Lawrence County, Indiana, USA
+1 DEAT
+2 DATE 30 Oct 1872
+2 PLAC Lawrence County, Indiana, USA
+1 OBJE @O30@
+2 _PRIM Y
+0 @I372170622150@ INDI
+1 NAME John W. /Bradshaw/
+2 GIVN John W.
+2 SURN Bradshaw
+1 SEX M
+1 FAMC @F121@
+1 FAMS @F106@
+1 BIRT
+2 DATE 4 APR 1827
+2 PLAC Fairfield, Wayne CO, IL
+1 DEAT
+2 DATE 10 APR 1862
+2 PLAC Illinois, USA
+1 SOUR @S1395600801@
+2 PAGE Ancestry Family Tree
+2 _APID 340100289147:1030:103900624
+0 @I372170622194@ INDI
+1 NAME Mary Ann /Curtis/
+2 GIVN Mary Ann
+2 SURN Curtis
+1 SEX F
+1 FAMC @F74@
+1 FAMS @F106@
+1 BIRT
+2 DATE abt 1834
+2 PLAC Edwards County, Illinois, USA
+1 DEAT
+2 DATE Aug 1869
+1 SOUR @S1395600801@
+2 PAGE Ancestry Family Tree
+2 _APID 342026833539:1030:103900624
+0 @I372170622518@ INDI
+1 NAME Matilda Ann /Himmel/
+2 GIVN Matilda Ann
+2 SURN Himmel
+2 SOUR @S1394132693@
+3 _APID 1,60525::2470895
+1 FAMC @F25@
+1 BIRT
+2 DATE 26 January 1924
+2 PLAC Illinois, United States of America
+2 SOUR @S1394132693@
+3 _APID 1,60525::2470895
+1 DEAT
+2 DATE 16 August 1995
+2 PLAC Mattoon, Coles County, Illinois, United States of America
+2 SOUR @S1394132693@
+3 _APID 1,60525::2470895
+1 BURI
+2 PLAC Onarga, Iroquois County, Illinois, United States of America
+2 SOUR @S1394132693@
+3 _APID 1,60525::2470895
+0 @I372170622520@ INDI
+1 NAME Jerry Chauncey /Bradshaw/
+2 GIVN Jerry Chauncey
+2 SURN Bradshaw
+2 SOUR @S1394132693@
+3 _APID 1,60525::8568423
+1 FAMC @F25@
+1 BIRT
+2 DATE 25 October 1931
+2 SOUR @S1394132693@
+3 _APID 1,60525::8568423
+1 DEAT
+2 DATE 20 February 1996
+2 SOUR @S1394132693@
+3 _APID 1,60525::8568423
+1 BURI
+2 PLAC Wheaton, DuPage County, Illinois, United States of America
+2 SOUR @S1394132693@
+3 _APID 1,60525::8568423
+0 @I372170622522@ INDI
+1 NAME Edna Lou /Hitz/
+2 GIVN Edna Lou
+2 SURN Hitz
+2 SOUR @S1394132693@
+3 _APID 1,60525::100211857
+1 FAMC @F25@
+1 BIRT
+2 DATE 28 November 1925
+2 PLAC Casey, Clark County, Illinois, United States of America
+2 SOUR @S1394132693@
+3 _APID 1,60525::100211857
+1 DEAT
+2 DATE 20 August 2010
+2 PLAC Champaign, Champaign County, Illinois, United States of America
+2 SOUR @S1394132693@
+3 _APID 1,60525::100211857
+1 BURI
+2 PLAC Onarga, Iroquois County, Illinois, United States of America
+2 SOUR @S1394132693@
+3 _APID 1,60525::100211857
+0 @I372170623108@ INDI
+1 NAME James /Bradshaw/
+2 GIVN James
+2 SURN Bradshaw
+1 SEX M
+1 FAMC @F112@
+1 FAMS @F121@
+1 BIRT
+2 DATE 03 Jun 1800
+2 PLAC Shelbyville, Shelby County, Kentucky, USA
+1 DEAT
+2 DATE 17 Jan 1879
+2 PLAC Wayne City, Wayne, Illinois, United States
+1 SOUR @S1395600801@
+2 PAGE Ancestry Family Tree
+2 _APID 340037986310:1030:103900624
+0 @I372170623128@ INDI
+1 NAME Matilda Frances /McMackin/
+2 GIVN Matilda Frances
+2 SURN McMackin
+1 SEX F
+1 FAMC @F125@
+1 FAMS @F121@
+1 BIRT
+2 DATE 24 May 1809
+2 PLAC Morgantown, Butler, Kentucky, USA
+1 DEAT
+2 DATE 14 April 1852
+2 PLAC Jasper, Wayne, Illinois, USA
+1 SOUR @S1395600801@
+2 PAGE Ancestry Family Tree
+2 _APID 340037986300:1030:103900624
+1 OBJE @O69@
+2 _PRIM Y
+0 @I372170623138@ INDI
+1 NAME John /McMackin/
+2 GIVN John
+2 SURN McMackin
+1 SEX M
+1 FAMS @F125@
+1 BIRT
+2 DATE 1774
+2 PLAC Botetourt, Virginia
+1 DEAT
+2 DATE 03 Oct 1842
+2 PLAC Jasper, Wayne, Illinois, USA
+1 SOUR @S1395600801@
+2 PAGE Ancestry Family Tree
+2 _APID 340110413449:1030:113185854
+0 @I372170623163@ INDI
+1 NAME Mary Polly /Borah/
+2 GIVN Mary Polly
+2 SURN Borah
+1 SEX F
+1 FAMC @F56@
+1 FAMS @F125@
+1 BIRT
+2 DATE 1779
+2 PLAC Morgantown, Butler, Kentucky, United States
+1 DEAT
+2 DATE 1864
+2 PLAC Wayne, Illinois, United States
+1 SOUR @S1395600801@
+2 PAGE Ancestry Family Tree
+2 _APID 340110413450:1030:113185854
+0 @I372170623441@ INDI
+1 NAME John George /Bohrer/
+2 GIVN John George
+2 SURN Bohrer
+1 SEX M
+1 FAMC @F156@
+1 FAMS @F56@
+1 BIRT
+2 DATE 29 Oct 1755
+2 PLAC Frederick, Frederick, Maryland, USA
+1 DEAT
+2 DATE 1831
+2 PLAC Township, Lancaster, Pennsylvania, United States
+0 @I372170623447@ INDI
+1 NAME Rosalia /Heizler/
+2 GIVN Rosalia
+2 SURN Heizler
+1 SEX F
+1 FAMS @F56@
+1 BIRT
+2 DATE 1756
+0 @I372170626785@ INDI
+1 NAME Thomas /Bradshaw/
+2 GIVN Thomas
+2 SURN Bradshaw
+1 SEX M
+1 FAMC @F159@
+1 FAMS @F112@
+1 BIRT
+2 DATE 10 Feb 1772
+2 PLAC Augusta, Virginia
+1 DEAT
+2 DATE 18 Sep 1823
+2 PLAC Wayne Co.Illinois
+0 @I372170626795@ INDI
+1 NAME ANNE /MCGAUGHEY/
+2 GIVN ANNE
+2 SURN MCGAUGHEY
+1 SEX F
+1 FAMC @F38@
+1 FAMS @F112@
+1 BIRT
+2 DATE 14 Dec 1779
+2 PLAC Bedford, Bedford, Pennsylvania, United States
+1 DEAT
+2 DATE 8 Dec 1855
+2 PLAC Jasper Twp , Wayne, Illinois
+0 @I372170626838@ INDI
+1 NAME Lieut. Capt. Judge ARTHUR Arter James (Justice of the Peace, Bedford, PA and Hart, KY Militias) /McGAUGHEY McGeahey McGaphy McGahe McGaha (ULSTER Scots-Irish, RANGER of REVOLUTION, Distiller of WHISKEY REBELLION)/ Esq., HIGH SHERIFF of BEDFORD, PA
+2 CONC , first JUDGE\Justice of Shelbyville\SHELBY CO., MAGISTRATE of HART, COLLECTOR of EXCISE, PA 
+2 GIVN Lieut. Capt. Judge ARTHUR Arter James (Justice of the Peace, Bedford, PA and Hart, KY Militias)
+2 SURN McGAUGHEY McGeahey McGaphy McGahe McGaha (ULSTER Scots-Irish, RANGER of REVOLUTION, Distiller of WHISKEY REBELLION)
+2 NSFX Esq., HIGH SHERIFF of BEDFORD, PA, first JUDGE\Justice of Shelbyville\SHELBY CO., MAGISTRATE of HART, COLLECTOR of EXCISE, PA 
+1 SEX M
+1 FAMC @F46@
+1 FAMS @F38@
+1 BIRT
+2 DATE 11 Aug 1755
+2 PLAC Philadelphia, Pennsylvania 
+2 NOTE Born in Philly per Grammys notes, lived in Pennsylvania a long time too, moved to Bedford, then Shelbyville, then Hart, later Lexington at the end of his life she said
+1 DEAT
+2 DATE 23 Jun 1830
+2 PLAC Judge Arthur McGaughey Settlement, Bacon Creek, Munfordville, Hart (less likely Lexington), KY
+2 NOTE buried there on on his large farm on banks of Bacon Creek per family history records on file at Shelby co. library, and testimony, with wife Eleanor Kenton.  He moved later in life to Lexington, Ky Grammy said, so he may be buried there instead. Lo
+3 CONC st grave
+1 OBJE @O72@
+2 _PRIM Y
+0 @I372170626857@ INDI
+1 NAME ELEANOR Elinor Ellinor Carson (of Bedford, Shelby and Hart, 1st cousin of SIMON the Frontiersman) /KENTON Kinton McGaughey/ (Daughter of well known HORSE and INDIAN TRADER Tom “TK” Kenton)
+2 GIVN ELEANOR Elinor Ellinor Carson (of Bedford, Shelby and Hart, 1st cousin of SIMON the Frontiersman)
+2 SURN KENTON Kinton McGaughey
+2 NSFX (Daughter of well known HORSE and INDIAN TRADER Tom “TK” Kenton)
+1 SEX F
+1 FAMC @F58@
+1 FAMS @F38@
+1 BIRT
+2 DATE Abt. 1758
+2 PLAC Bedford, Pennsylvania, USA
+2 NOTE Kintons Knob, near Bedford, or back in York/Lancaster co, Manor of Masque area, less likely Philadelphia
+1 DEAT
+2 DATE 15 May 1830
+2 PLAC Judge Arthur McGaughey Settlement, Bacon Creek, Hart, Kentucky family records of period state 1830 per her son Col. Arthur Jr., and daughters McGaughey family bible
+2 NOTE buried on bank of Bacon Creek with husband Arthur, testimony of  death given by son Col. Arthur as 1830 in kentucky  state hist. annals 1835 plus McGaughey family bible
+1 OBJE @O53@
+2 _PRIM Y
+0 @I372170626866@ INDI
+1 NAME THOMAS /BRADSHAW/ Jr
+2 GIVN THOMAS
+2 SURN BRADSHAW
+2 NSFX Jr
+1 SEX M
+1 FAMC @F90@
+1 FAMS @F159@
+1 BIRT
+2 DATE 1740
+2 PLAC Pennsylvania, USA
+1 DEAT
+2 DATE Aug 1826
+2 PLAC Shelby, Kentucky, USA
+1 OBJE @O58@
+2 _PRIM Y
+0 @I372170627197@ INDI
+1 NAME Margaret /McKemy/
+2 GIVN Margaret
+2 SURN McKemy
+1 SEX F
+1 FAMS @F90@
+1 BIRT
+2 DATE 1744
+2 PLAC Of, Augusta, Virginia, United States
+1 DEAT
+2 DATE 6 Apr 1820
+2 PLAC Pocahontas, Chesterfield, Virginia, United States
+0 @I372170627222@ INDI
+1 NAME Thomas /Bradshaw/ Sr
+2 GIVN Thomas
+2 SURN Bradshaw
+2 NSFX Sr
+1 SEX M
+1 FAMC @F5@
+1 FAMS @F90@
+1 BIRT
+2 DATE 1717
+2 PLAC , , , England
+1 DEAT
+2 DATE 20 Aug 1779
+2 PLAC Augusta, Virginia, United States
+1 OBJE @O25@
+2 _PRIM Y
+0 @I372170627392@ INDI
+1 NAME Anne /Hamblin/
+2 GIVN Anne
+2 SURN Hamblin
+1 SEX F
+1 FAMC @F13@
+1 FAMS @F5@
+1 BIRT
+2 DATE 1690
+2 PLAC Prince George, Prince George, Virginia, USA
+1 DEAT
+2 DATE 27 Jul 1777
+2 PLAC , Goochland, Virginia, USA
+1 SOUR @S1395600801@
+2 PAGE Ancestry Family Tree
+2 _APID 432048611117:1030:154984749
+1 OBJE @O56@
+2 _PRIM Y
+0 @I372170627410@ INDI
+1 NAME William /Hamblin/
+2 GIVN William
+2 SURN Hamblin
+1 SEX M
+1 FAMC @F123@
+1 FAMS @F13@
+1 BIRT
+2 DATE 1670
+2 PLAC England, United Kingdom
+1 DEAT
+2 DATE 1 Sep 1750
+2 PLAC Amelia County, Virginia, USA
+0 @I372170627426@ INDI
+1 NAME Anne /Hargreaves/
+2 GIVN Anne
+2 SURN Hargreaves
+1 SEX F
+1 FAMC @F36@
+1 FAMS @F13@
+1 BIRT
+2 DATE 27 Apr 1673
+2 PLAC Priestfield, Lancashire, England
+1 DEAT
+2 DATE 1750
+2 PLAC Amelia, VA
+1 OBJE @O49@
+2 _PRIM Y
+0 @I372170627753@ INDI
+1 NAME Elizabeth /Kisby/
+2 GIVN Elizabeth
+2 SURN Kisby
+1 SEX F
+1 FAMS @F123@
+0 @I372170627771@ INDI
+1 NAME John /Hamblin/
+2 GIVN John
+2 SURN Hamblin
+1 SEX M
+1 FAMS @F123@
+1 BIRT
+2 DATE abt. 1655
+1 DEAT
+2 DATE 1725
+1 OBJE @O27@
+2 _PRIM Y
+0 @I372170627858@ INDI
+1 NAME Jon /Hargreaves/
+2 GIVN Jon
+2 SURN Hargreaves
+1 SEX M
+1 FAMS @F36@
+1 BIRT
+2 DATE Abt. 1650
+2 PLAC Lancanshire, England
+1 DEAT
+2 PLAC Lancanshire, England
+0 @I372170627869@ INDI
+1 NAME Mary /Cottam/
+2 GIVN Mary
+2 SURN Cottam
+1 SEX F
+1 FAMS @F36@
+1 BIRT
+2 DATE 1650
+2 PLAC Lancanshire, England
+1 DEAT
+2 PLAC Lancanshire, England
+0 @I372170627889@ INDI
+1 NAME John /Bradshaw/
+2 GIVN John
+2 SURN Bradshaw
+1 SEX M
+1 FAMC @F76@
+1 FAMS @F5@
+1 SOUR @S1395600801@
+2 PAGE Ancestry Family Tree
+2 _APID 432048698750:1030:154984749
+0 @I372170628028@ INDI
+1 NAME Thomas /Bradshaw/
+2 GIVN Thomas
+2 SURN Bradshaw
+1 SEX M
+1 FAMC @F52@
+1 FAMS @F76@
+1 BIRT
+2 DATE 1660
+2 PLAC Oxton, Nottinghamshire, England
+1 DEAT
+2 DATE 05 Apr 1727
+2 PLAC Darby, Chester, Pennsylvania, United States
+1 SOUR @S1395600801@
+2 PAGE Ancestry Family Tree
+2 _APID 432048699393:1030:154984749
+0 @I372170628029@ INDI
+1 NAME Sarah /Levis/
+2 GIVN Sarah
+2 SURN Levis
+1 SEX F
+1 FAMS @F76@
+1 BIRT
+2 DATE 30 JUL 1663
+2 PLAC Harby, Leicestershire, , England
+1 DEAT
+2 DATE 23 JAN 1701
+2 PLAC Darby, Chester, Pennsylvania, United States
+1 SOUR @S1395600801@
+2 PAGE Ancestry Family Tree
+2 _APID 432048699408:1030:154984749
+0 @I372170628045@ INDI
+1 NAME James /Bradshaw/
+2 GIVN James
+2 SURN Bradshaw
+1 SEX M
+1 FAMC @F91@
+1 FAMS @F52@
+1 BIRT
+2 DATE 18 Apr 1619
+2 PLAC Manchester, Lancashire, England
+1 DEAT
+2 DATE 20 Sep 1686
+2 PLAC Carrickfergus, County, Armagh, Northern Ireland
+1 SOUR @S1395600801@
+2 PAGE Ancestry Family Tree
+2 _APID 432125515011:1030:162027849
+0 @I372170628066@ INDI
+1 NAME Anne /PATTERSON/
+2 GIVN Anne
+2 SURN PATTERSON
+1 SEX F
+1 FAMC @F107@
+1 FAMS @F52@
+1 BIRT
+2 DATE 1635
+2 PLAC Carrickfergus, County  Armagh, Northern Ireland
+1 DEAT
+2 DATE 20 Dec 1718
+2 PLAC Lurgan, Armagh, North Ireland
+1 SOUR @S1395600801@
+2 PAGE Ancestry Family Tree
+2 _APID 432125515013:1030:162027849
+0 @I372170628219@ INDI
+1 NAME William /Bradshaw/
+2 GIVN William
+2 SURN Bradshaw
+1 SEX M
+1 FAMC @F116@
+1 FAMS @F91@
+1 BIRT
+2 DATE Abt. 1585
+2 PLAC Prestwich, Lancashire, England
+1 DEAT
+2 DATE Aug 1623
+2 PLAC Lancashire, England
+1 SOUR @S1395600801@
+2 PAGE Ancestry Family Tree
+2 _APID 432125515257:1030:162027849
+0 @I372170628220@ INDI
+1 NAME Elizabeth /Lewis or Lewise/
+2 GIVN Elizabeth
+2 SURN Lewis or Lewise
+1 SEX F
+1 FAMS @F91@
+1 BIRT
+2 DATE Abt. 1587
+2 PLAC Lancashire, England
+1 DEAT
+2 DATE 11 Jul 1623
+2 PLAC Lancashire, England
+1 SOUR @S1395600801@
+2 PAGE Ancestry Family Tree
+2 _APID 432125515258:1030:162027849
+0 @I372170628267@ INDI
+1 NAME Sarah /Downman/
+2 GIVN Sarah
+2 SURN Downman
+1 SEX F
+1 FAMC @F168@
+1 FAMS @F116@
+1 BIRT
+2 DATE 1565
+2 PLAC Chester, Cheshire, England
+1 DEAT
+2 DATE 1598
+2 PLAC Aspull and Ince, Lancashire, England
+1 SOUR @S1395600801@
+2 PAGE Ancestry Family Tree
+2 _APID 410083230914:1030:103283837
+1 OBJE @O40@
+2 _PRIM Y
+0 @I372170628342@ INDI
+1 NAME Roger /Bradshaw/
+2 GIVN Roger
+2 SURN Bradshaw
+1 SEX M
+1 FAMC @F75@
+1 FAMS @F116@
+1 BIRT
+2 DATE 1572
+2 PLAC Aspull Pennington, Lancashire, England
+1 DEAT
+2 DATE 26 OCT 1633
+2 PLAC Chester, Cheshire, England
+1 SOUR @S1395600801@
+2 PAGE Ancestry Family Tree
+2 _APID 410083014489:1030:103283837
+0 @I372170628505@ INDI
+1 NAME William /DOWNMAN/
+2 GIVN William
+2 SURN DOWNMAN
+1 SEX M
+1 FAMS @F168@
+1 BIRT
+2 DATE Abt. 1530
+2 PLAC Cheshire, England
+1 DEAT
+2 DATE 1598
+1 SOUR @S1395600801@
+2 PAGE Ancestry Family Tree
+2 _APID 410083333410:1030:103283837
+0 @I372170628514@ INDI
+1 NAME Ralph de /Bradshaw/
+2 GIVN Ralph de
+2 SURN Bradshaw
+1 SEX M
+1 FAMC @F120@
+1 FAMS @F75@
+1 BIRT
+2 DATE 1542
+2 PLAC Aspull, Lancashire, England
+1 MARR
+2 PLAC Cheshire, England
+1 MARR
+2 PLAC Cheshire: Northwich- Northwich Hundred Poll Tax 1660 and Hearth Tax 1664
+1 DEAT
+2 DATE abt 1582
+2 PLAC Chester, Cheshire, England
+1 SOUR @S1395600801@
+2 PAGE Ancestry Family Tree
+2 _APID 230023966880:1030:20584327
+2 _APID 232172577785:1030:166975543
+0 @I372170628529@ INDI
+1 NAME Elizabeth Ann /Orrel/
+2 GIVN Elizabeth Ann
+2 SURN Orrel
+1 SEX F
+1 FAMC @F126@
+1 FAMS @F75@
+1 BIRT
+2 DATE 1546
+2 PLAC Turton, Lancashire, England
+1 DEAT
+2 DATE AFT 1580
+2 PLAC Cheshier, Cheshire, England
+1 SOUR @S1395600801@
+2 PAGE Ancestry Family Tree
+2 _APID 230023966881:1030:20584327
+2 _APID 232172577788:1030:166975543
+1 OBJE @O62@
+2 _PRIM Y
+0 @I372170628740@ INDI
+1 NAME James /Bradshaw   under Ralph, 1333/
+2 GIVN James
+2 SURN Bradshaw   under Ralph, 1333
+1 SEX M
+1 FAMC @F111@
+1 FAMS @F120@
+1 BIRT
+2 DATE 4 Mar 1519
+2 PLAC Lancashire, England
+1 DEAT
+2 DATE 1544
+2 PLAC Hope, Lancashire, England
+1 SOUR @S1395600801@
+2 PAGE Ancestry Family Tree
+2 _APID 192061814877:1030:9175997
+2 _APID 230023967164:1030:20584327
+0 @I372170628742@ INDI
+1 NAME Elizabeth /Hassocke/
+2 GIVN Elizabeth
+2 SURN Hassocke
+1 SEX F
+1 FAMC @F3@
+1 FAMS @F120@
+1 BIRT
+2 DATE 1520
+2 PLAC Wigan, Lancashire, England
+1 DEAT
+2 DATE 1550
+2 PLAC Hope, Lancashire, England
+1 SOUR @S1395600801@
+2 PAGE Ancestry Family Tree
+2 _APID 192061814878:1030:9175997
+2 _APID 230023967165:1030:20584327
+0 @I372170628784@ INDI
+1 NAME Rafe /Orrel/
+2 GIVN Rafe
+2 SURN Orrel
+1 SEX M
+1 FAMC @F174@
+1 FAMS @F126@
+1 BIRT
+2 DATE 1520
+2 PLAC Turton, Lancashire, England
+1 DEAT
+2 DATE 1581
+2 PLAC Turton, Lancashire, England
+1 SOUR @S1395600801@
+2 PAGE Ancestry Family Tree
+2 _APID 232172629214:1030:166975543
+0 @I372170628785@ INDI
+1 NAME Hannah /Coth /
+2 GIVN Hannah
+2 SURN Coth 
+1 SEX F
+1 FAMC @F39@
+1 FAMS @F126@
+1 BIRT
+2 DATE 1523
+2 PLAC England
+1 DEAT
+2 DATE Aft. 1546
+2 PLAC England
+1 SOUR @S1395600801@
+2 PAGE Ancestry Family Tree
+2 _APID 232172629216:1030:166975543
+0 @I372170628799@ INDI
+1 NAME Margery /Hindley/
+2 GIVN Margery
+2 SURN Hindley
+1 SEX F
+1 FAMC @F171@
+1 FAMS @F111@
+1 BIRT
+2 DATE 1490
+2 PLAC Lancaster, Lancashire, England
+1 DEAT
+2 DATE 6 Jul 1549
+2 PLAC Melling, Lancaster, Lancashire, England
+1 SOUR @S1395600801@
+2 PAGE Ancestry Family Tree
+2 _APID 192061815603:1030:9175997
+0 @I372170628806@ INDI
+1 NAME Hugh /Hindley/
+2 GIVN Hugh
+2 SURN Hindley
+1 SEX M
+1 FAMS @F171@
+1 BIRT
+2 DATE 1 Jan 1460
+2 PLAC Hindley, Lancashire, England
+1 DEAT
+2 DATE 1545
+2 PLAC Prob Hindley, Lancashire, England
+1 OBJE @O44@
+2 _PRIM Y
+0 @I372170628846@ INDI
+1 NAME William /Bradshaw/
+2 GIVN William
+2 SURN Bradshaw
+1 SEX M
+1 FAMC @F44@
+1 FAMS @F111@
+1 BIRT
+2 DATE 1471
+2 PLAC Duxbury, Lancashire, England
+1 DEAT
+2 DATE 1558
+2 PLAC Aspul, Lancashire, England
+1 SOUR @S1395600801@
+2 PAGE Ancestry Family Tree
+2 _APID 192061815602:1030:9175997
+0 @I372170628849@ INDI
+1 NAME Ellen J /Bradshaw/
+2 GIVN Ellen J
+2 SURN Bradshaw
+1 SEX F
+1 FAMC @F120@
+1 BIRT
+2 DATE 1540
+2 PLAC St Smithins,London,,England
+1 DEAT
+2 DATE 22 Feb 1610
+2 PLAC London, London, England
+1 SOUR @S1395600801@
+2 PAGE Ancestry Family Tree
+2 _APID 192061814680:1030:9175997
+0 @I372170628902@ INDI
+1 NAME Henry /Bradshaw/
+2 GIVN Henry
+2 SURN Bradshaw
+1 SEX M
+1 FAMC @F70@
+1 FAMS @F44@
+1 FAMS @F45@
+1 BIRT
+2 DATE 1440
+2 PLAC Hillend, Lancashire, England
+1 DEAT
+2 DATE 30 Mar 1477
+2 PLAC Marple, Cheshire, England
+1 SOUR @S1395600801@
+2 PAGE Ancestry Family Tree
+2 _APID 360131303996:1030:114426856
+0 @I372170628919@ INDI
+1 NAME Jane /Raynham/
+2 GIVN Jane
+2 SURN Raynham
+1 SEX F
+1 FAMS @F44@
+1 BIRT
+2 DATE 1460
+2 PLAC Duxbury, Lancashire, England
+1 DEAT
+2 DATE Abt. 1515
+2 PLAC Lancashire, England
+0 @I372170628931@ INDI
+1 NAME John /Hassocke/
+2 GIVN John
+2 SURN Hassocke
+1 SEX M
+1 FAMC @F131@
+1 FAMS @F3@
+1 BIRT
+2 DATE 1480/84
+2 PLAC Wigan, Lancashire, England
+1 DEAT
+2 DATE 1581
+2 PLAC Wigan, Lancashire, England
+0 @I372170628948@ INDI
+1 NAME Elizabeth /Harrison/
+2 GIVN Elizabeth
+2 SURN Harrison
+1 SEX F
+1 FAMS @F3@
+1 BIRT
+2 DATE 1495
+2 PLAC Wigan, Lancashire, England
+1 DEAT
+2 PLAC Wigan Lancashire, England
+1 OBJE @O21@
+2 _PRIM Y
+0 @I372170628953@ INDI
+1 NAME Elizabeth //
+2 GIVN Elizabeth
+1 SEX F
+1 FAMS @F131@
+1 BIRT
+2 DATE 1463
+2 PLAC Wigan, Lancashire, England
+1 DEAT
+2 PLAC Lancashire, England
+1 OBJE @O74@
+2 _PRIM Y
+0 @I372170629013@ INDI
+1 NAME Sir Henry II  / de Bradshaw, Knight/
+2 GIVN Sir Henry II 
+2 SURN  de Bradshaw, Knight
+1 SEX M
+1 FAMC @F95@
+1 FAMS @F70@
+1 BIRT
+2 DATE 9 Jun 1401
+2 PLAC Hillend, Lancashire, England
+1 DEAT
+2 DATE 30 Mar 1443
+2 PLAC Marple, Cheshire, England
+1 SOUR @S1395600801@
+2 PAGE Ancestry Family Tree
+2 _APID 362027288029:1030:114426856
+0 @I372170629015@ INDI
+1 NAME Janet /Risley/
+2 GIVN Janet
+2 SURN Risley
+1 SEX F
+1 FAMS @F70@
+1 BIRT
+2 DATE 1420
+2 PLAC Nuthurst, , Nottingham, England
+1 DEAT
+2 DATE about 1467
+2 PLAC England
+1 SOUR @S1395600801@
+2 PAGE Ancestry Family Tree
+2 _APID 362027288088:1030:114426856
+0 @I372170629018@ INDI
+1 NAME Elizabeth /Gerard Bradshaw/
+2 GIVN Elizabeth
+2 SURN Gerard Bradshaw
+1 SEX F
+1 FAMC @F164@
+1 FAMS @F45@
+1 BIRT
+2 DATE 1448
+2 PLAC Wigan, Lancashire, England
+1 DEAT
+2 DATE 1522
+2 PLAC Bold, Lancashire, England
+1 SOUR @S1395600801@
+2 PAGE Ancestry Family Tree
+0 @I372170629132@ INDI
+1 NAME Rafe /Bradshaw/
+2 GIVN Rafe
+2 SURN Bradshaw
+1 SEX M
+1 FAMS @F95@
+1 BIRT
+2 DATE 1365
+2 PLAC England
+1 DEAT
+2 PLAC England
+1 SOUR @S1395600801@
+2 PAGE Ancestry Family Tree
+2 _APID 362072587132:1030:114426856
+0 @I372170629133@ INDI
+1 NAME Catherine /Chetham/
+2 GIVN Catherine
+2 SURN Chetham
+1 SEX F
+1 FAMS @F95@
+1 BIRT
+2 DATE 1370
+2 PLAC England
+1 DEAT
+2 DATE 1451
+2 PLAC England
+1 SOUR @S1395600801@
+2 PAGE Ancestry Family Tree
+2 _APID 362072587133:1030:114426856
+0 @I372170629134@ INDI
+1 NAME Joseph /Bradshaw/
+2 GIVN Joseph
+2 SURN Bradshaw
+1 SEX M
+1 FAMC @F70@
+1 SOUR @S1395600801@
+2 PAGE Ancestry Family Tree
+2 _APID 362072600850:1030:114426856
+0 @I372170629529@ INDI
+1 NAME Alfonso /Lavin/
+2 GIVN Alfonso
+2 SURN Lavin
+1 SEX M
+1 FAMC @F7@
+1 BIRT
+2 PLAC Cuernavaca, Morelos, Mexico
+0 @I372170629647@ INDI
+1 NAME Jose /Lavin/
+2 GIVN Jose
+2 SURN Lavin
+1 SEX M
+1 FAMC @F7@
+1 BIRT
+2 DATE 1962
+2 PLAC Cuernavaca, Morelos, Mexico
+1 DEAT
+2 DATE 26 Sep 2019
+2 PLAC Rio Vista, Solano, California, USA
+0 @I372179849787@ INDI
+1 NAME Isabelle /Strangeways/
+2 GIVN Isabelle
+2 SURN Strangeways
+1 SEX F
+1 FAMS @F164@
+1 BIRT
+2 DATE 04 Nov 1409
+2 PLAC Kingsley, Cheshire, , England
+1 DEAT
+2 DATE 1447
+2 PLAC Pontypool, Monmouthshire, , Wales
+0 @I372179850328@ INDI
+1 NAME William Martin /Funk/
+2 GIVN William Martin
+2 SURN Funk
+1 SEX M
+1 FAMC @F85@
+1 FAMS @F104@
+1 BIRT
+2 DATE 27 Feb 1820
+2 PLAC Crawford, Illinois, USA
+1 DEAT
+2 DATE 1904
+2 PLAC Palestine, Crawford, Illinois, USA
+0 @I372179850363@ INDI
+1 NAME Matilda /Seaney/
+2 GIVN Matilda
+2 SURN Seaney
+1 SEX F
+1 FAMC @F89@
+1 FAMS @F104@
+1 BIRT
+2 DATE 23 Oct. 1822 or 1823
+2 PLAC Illinois
+0 @I372179850409@ INDI
+1 NAME Catherine /Wishon/ 4th ggm
+2 GIVN Catherine
+2 SURN Wishon
+2 NSFX 4th ggm
+1 SEX F
+1 FAMC @F55@
+1 FAMS @F89@
+1 BIRT
+2 DATE 16 Dec 1786
+2 PLAC Surry, North Carolina, USA
+1 DEAT
+2 DATE 16 Dec 1867
+2 PLAC Montogomery, Crawford, Illinois, USA
+1 OBJE @O18@
+2 _PRIM Y
+0 @I372179850452@ INDI
+1 NAME Samuel Sr. /Seaney/ 4th ggf
+2 GIVN Samuel Sr.
+2 SURN Seaney
+2 NSFX 4th ggf
+1 SEX M
+1 FAMC @F53@
+1 FAMS @F89@
+1 BIRT
+2 DATE 2 Nov 1781
+2 PLAC Rowan, Surry Co., NC, USA
+1 DEAT
+2 DATE 2 Nov 1866
+2 PLAC Montogomery, Crawford, Illinois, USA
+2 NOTE buried Seaney Cemetery
+1 OBJE @O4@
+2 _PRIM Y
+0 @I372179850470@ INDI
+1 NAME Mary Polly /Murphy/
+2 GIVN Mary Polly
+2 SURN Murphy
+1 SEX F
+1 FAMS @F85@
+1 BIRT
+2 DATE 9 Oct 1790
+2 PLAC Kentucky, USA
+1 DEAT
+2 DATE 23 Jan 1854
+2 PLAC Crawford, Illinois, USA
+0 @I372179850492@ INDI
+1 NAME Gabriel /Funk/
+2 GIVN Gabriel
+2 SURN Funk
+1 SEX M
+1 FAMC @F32@
+1 FAMS @F85@
+1 BIRT
+2 DATE 1787
+2 PLAC Tennessee, USA
+1 DEAT
+2 DATE 1854
+2 PLAC , Crawford, Illinois, USA
+0 @I372179850539@ INDI
+1 NAME Leonard /Wishon/ 5th ggf
+2 GIVN Leonard
+2 SURN Wishon
+2 NSFX 5th ggf
+1 SEX M
+1 FAMC @F165@
+1 FAMS @F55@
+1 BIRT
+2 DATE 29 May 1745
+2 PLAC New Holland, Lancaster, Pennsylvania, USA
+1 DEAT
+2 DATE 1830
+2 PLAC Surry County, North Carolina, USA
+1 OBJE @O20@
+2 _PRIM Y
+0 @I372179850598@ INDI
+1 NAME Sarah "Sally" /CLERY/
+2 GIVN Sarah "Sally"
+2 SURN CLERY
+1 SEX F
+1 FAMS @F55@
+1 BIRT
+2 DATE 1760
+2 PLAC Pennsylvania, USA
+1 DEAT
+2 DATE 1830
+2 NOTE Deep Creek, Surry, North Carolina, USA
+0 @I372179850641@ INDI
+1 NAME Conrad /Woushoung Wishon/
+2 GIVN Conrad
+2 SURN Woushoung Wishon
+1 SEX M
+1 FAMC @F20@
+1 FAMS @F165@
+1 BIRT
+2 DATE 1710
+2 PLAC Heilbronn, Baden-Württemberg, Germany
+1 DEAT
+2 DATE 18 Mar 1768
+2 PLAC Brecknock, Lancaster, Pennsylvania, United States
+0 @I372179850666@ INDI
+1 NAME Wolfgang /Wischahn/
+2 GIVN Wolfgang
+2 SURN Wischahn
+1 SEX M
+1 FAMS @F20@
+1 BIRT
+2 DATE 1690
+2 PLAC Evangelisch Kriegsfeld, Bayern, Germany
+1 DEAT
+2 DATE 1749
+2 PLAC Ober-Kinzig, Odenwaldkreis, Hessen, Deutschland
+0 @I372179850715@ INDI
+1 NAME Elisabetha /Fleck/
+2 GIVN Elisabetha
+2 SURN Fleck
+1 SEX F
+1 FAMS @F20@
+1 BIRT
+2 DATE 24 Jan 1694
+2 PLAC Tumringen, Lorrach, Baden-Wuerttemberg, Germany
+1 DEAT
+2 DATE 24 Mar 1737
+2 PLAC Lörrach, Lorrach, Baden-Wuerttemberg, Germany
+0 @I372179850948@ INDI
+1 NAME Honor /Estep*/
+2 GIVN Honor
+2 SURN Estep*
+1 SEX F
+1 FAMC @F64@
+1 FAMS @F53@
+1 BIRT
+2 DATE 1759
+2 PLAC Frederick, Frederick, Maryland - Colonial America
+1 DEAT
+2 DATE 1838
+2 PLAC Boston, Wayne, Indiana, United States
+2 NOTE Age at Death: 79
+1 OBJE @O36@
+2 _PRIM Y
+0 @I372179851029@ INDI
+1 NAME Susanna /Holmes/
+2 GIVN Susanna
+2 SURN Holmes
+1 SEX F
+1 FAMS @F64@
+1 BIRT
+2 DATE 8 Feb 1741
+2 PLAC Frederick, Maryland, United States
+1 DEAT
+2 DATE 17 Jan 1803
+2 PLAC Rowan, North Carolina, United States
+0 @I372179851058@ INDI
+1 NAME Thomas /Estep/
+2 GIVN Thomas
+2 SURN Estep
+1 SEX M
+1 FAMS @F64@
+1 BIRT
+2 DATE 3 Nov 1730
+2 PLAC St Margarets Parish, Anne Arundel, Maryland, United States
+1 DEAT
+2 DATE 15 October 1807
+2 PLAC Salisbury, Rowan, North Carolina, United States
+2 NOTE Age: 77
+1 OBJE @O10@
+2 _PRIM Y
+0 @I372179851107@ INDI
+1 NAME Owen Newton /Seaney/ Sr
+2 GIVN Owen Newton
+2 SURN Seaney
+2 NSFX Sr
+1 SEX M
+1 FAMC @F41@
+1 FAMS @F53@
+1 BIRT
+2 DATE 1745
+2 PLAC Murderkill Hundred, Kent, Delaware, United States
+1 DEAT
+2 DATE 1831
+2 PLAC Wayne, Wayne, Indiana, United States
+1 OBJE @O80@
+2 _PRIM Y
+0 @I372179851158@ INDI
+1 NAME Martha /Parnell/
+2 GIVN Martha
+2 SURN Parnell
+1 SEX F
+1 FAMC @F29@
+1 FAMS @F41@
+1 BIRT
+2 DATE 1720
+2 PLAC Murderkill Hundred, Kent Co., Deleware
+1 DEAT
+2 DATE 1787
+2 PLAC Rowan County, North Carolina, USA
+0 @I372179851212@ INDI
+1 NAME Elizabeth /Bedwell/
+2 GIVN Elizabeth
+2 SURN Bedwell
+1 SEX F
+1 FAMS @F29@
+1 BIRT
+2 DATE 1655
+2 PLAC ,Rappahannock,Virginia,USA
+1 DEAT
+2 DATE 10 Jun 1721
+2 PLAC Delaware, USA
+0 @I372179851265@ INDI
+1 NAME Edward /Parnell/
+2 GIVN Edward
+2 SURN Parnell
+1 SEX M
+1 FAMC @F172@
+1 FAMS @F29@
+1 BIRT
+2 DATE 17 July 1665
+2 PLAC Virginia, USA
+1 DEAT
+2 DATE 1721
+2 PLAC Kent, Delaware, USA
+0 @I372179851327@ INDI
+1 NAME Owen Newton /Seaney/
+2 GIVN Owen Newton
+2 SURN Seaney
+1 SEX M
+1 FAMC @F102@
+1 FAMS @F41@
+1 BIRT
+2 DATE 28 Mar 1689
+2 PLAC Talbot, Maryland, USA
+1 DEAT
+2 DATE 1771
+2 PLAC Murderkill Hundred, Kent, Delaware, USA
+0 @I372179851368@ INDI
+1 NAME Anne  /Newton/
+2 GIVN Anne 
+2 SURN Newton
+1 SEX F
+1 FAMC @F155@
+1 FAMS @F102@
+1 BIRT
+2 DATE 8 Jan 1663
+2 PLAC Rye, Sussex, England
+1 DEAT
+2 DATE 1715
+2 PLAC St Peters Paris, Talbot, Maryland, United States
+0 @I372179851417@ INDI
+1 NAME Bryant /Sweany/
+2 GIVN Bryant
+2 SURN Sweany
+1 SEX M
+1 FAMC @F151@
+1 FAMS @F102@
+1 BIRT
+2 DATE 1662
+2 PLAC Cork, Ireland
+1 DEAT
+2 DATE 27 Sep 1699
+2 PLAC St Peters Paris, Talbot, Maryland, United States
+0 @I372179851634@ INDI
+1 NAME Mary /Tayler/
+2 GIVN Mary
+2 SURN Tayler
+1 SEX F
+1 FAMS @F172@
+1 BIRT
+2 DATE 1640
+1 DEAT
+2 DATE 1681
+0 @I372179851861@ INDI
+1 NAME Anne /Marritt-Newton/
+2 GIVN Anne
+2 SURN Marritt-Newton
+1 SEX F
+1 FAMS @F155@
+1 BIRT
+2 PLAC england
+0 @I372179851906@ INDI
+1 NAME Daniel /Sweeney/
+2 GIVN Daniel
+2 SURN Sweeney
+1 SEX M
+1 FAMC @F152@
+1 FAMS @F151@
+1 BIRT
+2 DATE 1625
+2 PLAC Cork, Ireland
+1 DEAT
+2 DATE 27 Sep 1685
+2 PLAC Talbot County, Maryland, USA
+1 OBJE @O17@
+2 _PRIM Y
+0 @I372179851984@ INDI
+1 NAME John /Seney\ Swaney/
+2 GIVN John
+2 SURN Seney\ Swaney
+1 SEX M
+1 FAMS @F152@
+1 BIRT
+2 DATE  1600
+2 PLAC London, London, England
+1 DEAT
+2 DATE 1678 Feb
+2 PLAC Cork, Cork, Ireland
+0 @I372179852192@ INDI
+1 NAME Ann /Marr/
+2 GIVN Ann
+2 SURN Marr
+1 SEX F
+1 FAMS @F32@
+1 BIRT
+2 DATE 1755
+2 PLAC Shenandoha, Virginia, USA
+1 DEAT
+2 DATE Jul 1834
+2 PLAC Crawford, Illinois, United States
+0 @I372179852213@ INDI
+1 NAME John /Funk/
+2 GIVN John
+2 SURN Funk
+1 SEX M
+1 FAMC @F143@
+1 FAMS @F32@
+1 BIRT
+2 DATE 1750
+2 PLAC Shenandoah, Virginia, USA
+1 DEAT
+2 DATE 1830
+2 PLAC Crawford, Illinois, United States
+0 @I372179852235@ INDI
+1 NAME Adam /Funk/
+2 GIVN Adam
+2 SURN Funk
+1 SEX M
+1 FAMS @F143@
+1 BIRT
+2 DATE 1716
+2 PLAC Strasburg, Lancaster, Pennsylvania, United States
+1 DEAT
+2 DATE Apr 1778
+2 PLAC Shenandoah, Virginia, United States
+0 @I372179852548@ INDI
+1 NAME Mary Ann /Hanson/
+2 GIVN Mary Ann
+2 SURN Hanson
+1 SEX F
+1 FAMS @F65@
+1 BIRT
+2 DATE 1812
+2 PLAC North Carolina, United States
+0 @I372179852598@ INDI
+1 NAME Nathan Perrin /Cardwell/
+2 GIVN Nathan Perrin
+2 SURN Cardwell
+1 SEX M
+1 FAMC @F161@
+1 FAMS @F65@
+1 BIRT
+2 DATE 1790
+2 PLAC Charlotte County, Virginia, USA
+1 DEAT
+2 DATE Aug. 7,1855
+2 PLAC Johnson County, Illinois, USA
+0 @I372179852638@ INDI
+1 NAME Sarah Sally /Stuart/
+2 GIVN Sarah Sally
+2 SURN Stuart
+1 SEX F
+1 FAMC @F37@
+1 FAMS @F50@
+1 BIRT
+2 DATE 1 Jan 1813
+2 PLAC Knox, Kentucky, United States
+1 DEAT
+2 DATE 1876
+2 PLAC Bedford, Lawrence, Indiana, United States
+0 @I372179852684@ INDI
+1 NAME Adam /Deckard/
+2 GIVN Adam
+2 SURN Deckard
+1 SEX M
+1 FAMC @F9@
+1 FAMS @F50@
+1 BIRT
+2 DATE Abt. 1808
+2 PLAC Wytheville, Wythe, Virginia, USA
+1 DEAT
+2 DATE 21 Mar 1881
+2 PLAC Bedford, Lawrence, Indiana, USA
+0 @I372179852715@ INDI
+1 NAME Margaret /Owens/
+2 GIVN Margaret
+2 SURN Owens
+1 SEX F
+1 FAMC @F145@
+1 FAMS @F27@
+1 BIRT
+2 DATE 10 Jan 1802
+2 PLAC Wayne County, Kentucky, USA
+1 DEAT
+2 DATE 30 Jul 1878
+2 PLAC Lawrence Co, Indiana, United States
+1 OBJE @O77@
+2 _PRIM Y
+0 @I372179852740@ INDI
+1 NAME Jeremiah “Jerry” /Lewis/
+2 GIVN Jeremiah “Jerry”
+2 SURN Lewis
+1 SEX M
+1 FAMC @F140@
+1 FAMS @F27@
+1 BIRT
+2 DATE 11 Jan 1801
+2 PLAC Pittsylvania Co,Virginia, USA
+1 DEAT
+2 DATE 30 Jul 1878
+2 PLAC Lawrence, Indiana, United States
+0 @I372179852760@ INDI
+1 NAME Mary Polly /Moore/
+2 GIVN Mary Polly
+2 SURN Moore
+1 SEX F
+1 FAMC @F87@
+1 FAMS @F10@
+1 BIRT
+2 DATE 15 Oct 1802
+2 PLAC Knox County, Kentucky
+1 DEAT
+2 DATE Oct 1875
+2 PLAC Lawrence County Indiana
+0 @I372179852783@ INDI
+1 NAME Hezekiah /Steele/
+2 GIVN Hezekiah
+2 SURN Steele
+1 SEX M
+1 FAMS @F10@
+1 BIRT
+2 DATE 18 June 1802
+2 PLAC Williamsburg, Wythe, Virginia, USA
+1 DEAT
+2 DATE 1 June 1862
+2 PLAC Clear Creek, Monroe, Indiana, USA
+1 OBJE @O64@
+2 _PRIM Y
+0 @I372179852944@ INDI
+1 NAME Obedience /Thweatt/
+2 GIVN Obedience
+2 SURN Thweatt
+1 SEX F
+1 FAMC @F148@
+1 FAMS @F161@
+1 BIRT
+2 DATE 1750
+2 PLAC Bristol Par, Prince George, Virginia, United States
+1 DEAT
+2 DATE 25 Nov 1822
+2 PLAC Halifax, Halifax, Virginia, United States
+0 @I372179852995@ INDI
+1 NAME George /THWEATT/
+2 GIVN George
+2 SURN THWEATT
+1 SEX M
+1 FAMC @F138@
+1 FAMS @F148@
+1 BIRT
+2 DATE Apr/18/1720
+2 PLAC Bristol, Prince George, Virginia, USA
+1 DEAT
+2 DATE 1791
+2 PLAC Dinwiddie, Virginia, USA
+0 @I372179853032@ INDI
+1 NAME Hannah /Stanley/
+2 GIVN Hannah
+2 SURN Stanley
+1 SEX F
+1 FAMS @F138@
+1 BIRT
+2 DATE 1684
+2 PLAC Henrico, Virginia, United States
+1 DEAT
+2 DATE 1745
+2 PLAC Virginia, United States
+0 @I372179853113@ INDI
+1 NAME Mary "Polly" /Miller/
+2 GIVN Mary "Polly"
+2 SURN Miller
+1 SEX F
+1 FAMC @F48@
+1 FAMS @F37@
+1 BIRT
+2 DATE 1794
+2 PLAC Georgia, United States
+1 DEAT
+2 DATE 17 Jan 1876
+2 PLAC Guthrie, Lawrence, Indiana, United States
+0 @I372179853159@ INDI
+1 NAME Mary /Neely/
+2 GIVN Mary
+2 SURN Neely
+1 SEX F
+1 FAMS @F48@
+1 DEAT
+2 PLAC Georgia
+0 @I372179853199@ INDI
+1 NAME James /Miller/
+2 GIVN James
+2 SURN Miller
+1 SEX M
+1 FAMS @F48@
+1 BIRT
+2 DATE about 1770
+2 PLAC Georgia
+0 @I372179853227@ INDI
+1 NAME John M /Stewart/
+2 GIVN John M
+2 SURN Stewart
+1 SEX M
+1 FAMC @F18@
+1 FAMS @F37@
+1 BIRT
+2 DATE 1789
+2 PLAC ,Augusta,Virginia,USA
+1 DEAT
+2 DATE 15 Oct 1858
+2 PLAC Elizabeth, Jo Daviess, Illinois, USA
+0 @I372179853248@ INDI
+1 NAME Mary /Arthur/
+2 GIVN Mary
+2 SURN Arthur
+1 SEX F
+1 FAMC @F139@
+1 FAMS @F18@
+1 BIRT
+2 DATE 1770
+2 PLAC Augusta,,Virginia,USA
+1 DEAT
+2 DATE 1819
+2 PLAC Knox,,Kentucky,USA
+0 @I372179853271@ INDI
+1 NAME John /Stuart/
+2 GIVN John
+2 SURN Stuart
+1 SEX M
+1 FAMC @F82@
+1 FAMS @F18@
+1 BIRT
+2 DATE 1769
+2 PLAC Knox, Kentucky, United States
+1 DEAT
+2 DATE 15 Oct 1858
+2 PLAC Knox, Kentucky, United States
+0 @I372179853288@ INDI
+1 NAME Jacob /Deckard/ Sr
+2 GIVN Jacob
+2 SURN Deckard
+2 NSFX Sr
+1 SEX M
+1 FAMC @F133@
+1 FAMS @F9@
+1 BIRT
+2 DATE 19 Apr 1757
+2 PLAC Metz, Moselle, Germany, now Lorraine, France
+1 DEAT
+2 DATE 1842
+2 PLAC Smithville, Monroe, IN
+2 NOTE Age: 85
+0 @I372179853317@ INDI
+1 NAME Mary Elizabeth /Vance/
+2 GIVN Mary Elizabeth
+2 SURN Vance
+1 SEX F
+1 FAMS @F9@
+1 BIRT
+2 DATE 1760
+2 PLAC Botetourt, Virginia, USA
+1 DEAT
+2 DATE 1803 or 1840
+2 PLAC Wytheville, Wythe, Virginia, USA or Bush River, Harford, MO, USA
+0 @I372179853366@ INDI
+1 NAME Susannah "Anna" /Merrill/
+2 GIVN Susannah "Anna"
+2 SURN Merrill
+1 SEX F
+1 FAMS @F133@
+1 BIRT
+2 DATE 1726
+2 PLAC Heidingsfeld, Wurzburg, Bayern, Germany
+1 DEAT
+2 DATE 7 Dec 1762 
+2 PLAC Staten Island, New York City, NY
+0 @I372179853509@ INDI
+1 NAME Nancy /Christopher/
+2 GIVN Nancy
+2 SURN Christopher
+1 SEX F
+1 FAMS @F82@
+1 BIRT
+2 DATE 1747
+2 PLAC City, Ireland
+1 DEAT
+2 PLAC City, Knox, Kentucky, United States
+0 @I372179853563@ INDI
+1 NAME William /Stewart/
+2 GIVN William
+2 SURN Stewart
+1 SEX M
+1 FAMC @F129@
+1 FAMS @F82@
+1 BIRT
+2 DATE 14 Jun 1743
+2 PLAC City, Ireland
+1 DEAT
+2 DATE 1779
+2 PLAC Town, Knox, Kentucky, United States
+0 @I372179853624@ INDI
+1 NAME Mary Ann /Lafferty/
+2 GIVN Mary Ann
+2 SURN Lafferty
+1 SEX F
+1 FAMS @F129@
+1 BIRT
+2 DATE 1720
+2 PLAC Kilcockan, Dublin, Dublin, Ireland
+1 DEAT
+2 DATE 24 Sep 1763
+2 PLAC Staunton, Augusta, Virginia, USA
+1 OBJE @O9@
+2 _PRIM Y
+0 @I372179853683@ INDI
+1 NAME Thomas 1749 /Arthur/
+2 GIVN Thomas 1749
+2 SURN Arthur
+1 SEX M
+1 FAMC @F153@
+1 FAMS @F139@
+1 BIRT
+2 DATE 25 Jul 1749
+2 PLAC Carolina County Virginia
+1 DEAT
+2 DATE 08 Sep 1833
+2 PLAC Knox County Kentucky
+1 OBJE @O50@
+2 _PRIM Y
+0 @I372179853809@ INDI
+1 NAME John /Owens/
+2 GIVN John
+2 SURN Owens
+1 SEX M
+1 FAMC @F127@
+1 FAMS @F145@
+1 BIRT
+2 DATE 1774
+2 PLAC Greene, Tennessee, USA
+1 DEAT
+2 DATE 22 Aug 1842
+2 PLAC Lawrence, Indiana, USA
+1 OBJE @O35@
+2 _PRIM Y
+0 @I372179853854@ INDI
+1 NAME Mary (Polly) Ann /High/
+2 GIVN Mary (Polly) Ann
+2 SURN High
+1 SEX F
+1 FAMS @F140@
+1 BIRT
+2 DATE 1775
+2 PLAC Charlotte Co., Virginia
+1 DEAT
+2 DATE ABT 1815
+2 PLAC Pittsylvania Co., Virginia
+1 OBJE @O52@
+2 _PRIM Y
+0 @I372179854020@ INDI
+1 NAME Moses /Moore/
+2 GIVN Moses
+2 SURN Moore
+1 SEX M
+1 FAMC @F141@
+1 FAMS @F87@
+1 BIRT
+2 DATE 1778
+2 PLAC Tennessee, USA
+1 DEAT
+2 DATE 01 Nov 1857
+2 PLAC Laurel, Kentucky, USA
+2 NOTE Age: 67    Died of Dropsy
+0 @I372179854055@ INDI
+1 NAME Eleanor Nellie /Black/
+2 GIVN Eleanor Nellie
+2 SURN Black
+1 SEX F
+1 FAMC @F26@
+1 FAMS @F87@
+1 BIRT
+2 DATE 1783
+2 PLAC Virginia, USA
+1 DEAT
+2 DATE Before 1860
+2 PLAC Lawrence County Indiana
+1 OBJE @O29@
+2 _PRIM Y
+0 @I372179854091@ INDI
+1 NAME Sophia /WADE/
+2 GIVN Sophia
+2 SURN WADE
+1 SEX F
+1 FAMS @F127@
+1 BIRT
+2 DATE 1750
+2 PLAC Wales, Ireland
+1 DEAT
+2 DATE 8 Jan 1808
+2 PLAC Washington, Kentucky, United States
+0 @I372179854237@ INDI
+1 NAME Nancy /Kinkead/
+2 GIVN Nancy
+2 SURN Kinkead
+1 SEX F
+1 FAMS @F26@
+1 BIRT
+2 DATE 1770
+2 PLAC Woodford County, Kentucky, USA
+1 DEAT
+2 DATE 1802
+2 PLAC Woodford Co., Kentucky
+0 @I372179854278@ INDI
+1 NAME Thomas /Black/
+2 GIVN Thomas
+2 SURN Black
+1 SEX M
+1 FAMS @F26@
+1 BIRT
+2 DATE 1745
+2 PLAC Augusta County, Virginia, USA
+1 DEAT
+2 DATE 1802
+2 PLAC Woodford or Mercer, Kentucky
+1 OBJE @O11@
+2 _PRIM Y
+0 @I372179854301@ INDI
+1 NAME Moses /Moore/ Sr
+2 GIVN Moses
+2 SURN Moore
+2 NSFX Sr
+1 SEX M
+1 FAMS @F141@
+1 BIRT
+2 DATE 1760
+2 PLAC Tennessee, USA
+1 DEAT
+2 DATE 1840
+2 PLAC Franklin, Alabama, USA
+1 OBJE @O73@
+2 _PRIM Y
+0 @I372179854488@ INDI
+1 NAME Virginia /Arthur/
+2 GIVN Virginia
+2 SURN Arthur
+1 SEX F
+1 FAMS @F153@
+1 BIRT
+2 DATE 27 Apr 1710
+2 PLAC Bedford County, Virginia, USA
+1 DEAT
+2 DATE 27 Mar 1820
+2 PLAC Highland, Ohio, USA
+0 @I372179854777@ INDI
+1 NAME James Leslie /Gillespie/
+2 GIVN James Leslie
+2 SURN Gillespie
+1 SEX M
+1 FAMS @F8@
+1 BIRT
+2 DATE 26 Mar 1801
+2 PLAC Blount Co., TN
+1 DEAT
+2 DATE 30 Jul 1872
+2 PLAC Edgar Co., IL.
+2 NOTE Age: 71
+0 @I372179854823@ INDI
+1 NAME Anna Campbell /HAGY/
+2 GIVN Anna Campbell
+2 SURN HAGY
+1 SEX F
+1 FAMC @F1@
+1 FAMS @F8@
+1 BIRT
+2 DATE 18 Dec 1802
+2 PLAC Abington, Virginia, USA
+1 DEAT
+2 DATE 26 Dec 1867
+2 PLAC Paris, Edgar, Illinois, USA
+0 @I372179854843@ INDI
+1 NAME John /HAGY/
+2 GIVN John
+2 SURN HAGY
+1 SEX M
+1 FAMS @F1@
+1 BIRT
+2 DATE 24 Oct 1770
+2 PLAC Brickerville, Lancaster, Pennsylvania, USA
+1 DEAT
+2 DATE 22 Sep 1837
+2 PLAC Abingdon, Washington, Virginia, USA
+0 @I372179854856@ INDI
+1 NAME Sarah Elizabeth /MCCULLOCH/
+2 GIVN Sarah Elizabeth
+2 SURN MCCULLOCH
+1 SEX F
+1 FAMC @F173@
+1 FAMS @F1@
+1 BIRT
+2 DATE 27 Feb 1768
+2 PLAC Albemarle, Virginia, USA
+1 DEAT
+2 DATE 28 Apr 1837
+2 PLAC Abingdon, Washington, Virginia, USA
+0 @I372179854865@ INDI
+1 NAME Isabella /Patrick/
+2 GIVN Isabella
+2 SURN Patrick
+1 SEX F
+1 FAMS @F173@
+1 BIRT
+2 DATE 1738
+2 PLAC Augusta, Virginia, United States
+1 DEAT
+2 DATE 1822
+2 PLAC Abingdon, Washington, Virginia, United States
+0 @I372179854936@ INDI
+1 NAME Elizabeth "Ann" /Snowdall/
+2 GIVN Elizabeth "Ann"
+2 SURN Snowdall
+1 SEX F
+1 FAMC @F93@
+1 FAMS @F99@
+1 BIRT
+2 DATE 1 Sep 1798
+2 PLAC Silk Willoughby, Lincolnshire, England
+2 NOTE Elizabeth Snowdale  England Births and Christenings, 1538-1975  christening: 01 Sep 1798 SILK WILLOUGHBY,​LINCOLN,​ENGLAND indexing project (batch) number: C03407-2
+1 DEAT
+2 DATE Oct 1885
+2 PLAC Lincolnshire, United Kingdom
+1 OBJE @O47@
+2 _PRIM Y
+0 @I372179854993@ INDI
+1 NAME Saywell /Perkins/
+2 GIVN Saywell
+2 SURN Perkins
+1 SEX M
+1 FAMC @F147@
+1 FAMS @F99@
+1 BIRT
+2 DATE 28 Dec 1798
+2 PLAC Horbling, Lincolnshire, England
+2 NOTE Saywell Perkins  England Births and Christenings, 1538-1975  christening: 28 Dec 1798 HORBLING,​LINCOLN,​ENGLAND  residence:  Lincoln,​ England  parents: John Perkins,​ Ann
+1 DEAT
+2 DATE Mar 1854
+2 PLAC Horbling, Lincolnshire, England
+1 OBJE @O47@
+2 _PRIM Y
+0 @I372179855011@ INDI
+1 NAME Susannah /Clayden/
+2 GIVN Susannah
+2 SURN Clayden
+1 SEX F
+1 FAMC @F144@
+1 FAMS @F93@
+1 BIRT
+2 DATE 26/01/1784
+2 PLAC Aythorpe Roding, Essex
+1 DEAT
+2 DATE 30/03/1853
+2 PLAC High Easter, Essex, England
+0 @I372179855044@ INDI
+1 NAME Richard /Aylet/
+2 GIVN Richard
+2 SURN Aylet
+1 SEX M
+1 FAMC @F83@
+1 FAMS @F93@
+1 BIRT
+2 DATE 18/02/1781
+2 PLAC Aythorpe Roding, Essex
+1 DEAT
+2 DATE April 1838
+2 PLAC Dunmow, Essex, United Kingdom
+0 @I372179855074@ INDI
+1 NAME Hanna /Sorrel/
+2 GIVN Hanna
+2 SURN Sorrel
+1 SEX F
+1 FAMC @F132@
+1 FAMS @F83@
+1 BIRT
+2 DATE abt 1749
+2 PLAC Marshbury, Essex, England
+1 DEAT
+2 DATE Apr 1854
+2 PLAC Dunmow, Essex, United Kingdom
+0 @I372179855099@ INDI
+1 NAME Isaac /Aylett/
+2 GIVN Isaac
+2 SURN Aylett
+1 SEX M
+1 FAMC @F6@
+1 FAMS @F83@
+1 BIRT
+2 DATE 1740
+1 DEAT
+2 DATE Jan 1839
+2 PLAC Dunmow, Essex, United Kingdom
+2 NOTE Register Volume 12 Page 66
+0 @I372179855115@ INDI
+1 NAME William /Clayden/
+2 GIVN William
+2 SURN Clayden
+1 SEX M
+1 FAMS @F144@
+1 BIRT
+2 DATE Abt. 1747
+2 PLAC Aythorpe Roding, Essex, England
+0 @I372179855145@ INDI
+1 NAME John /Perkins/
+2 GIVN John
+2 SURN Perkins
+1 SEX M
+1 FAMC @F167@
+1 FAMS @F147@
+1 BIRT
+2 DATE 2 Jun 1767
+2 PLAC Horbling, Lincolnshire, England
+2 NOTE John Perkins  England Births and Christenings, 1538-1975  christening: 02 Jun 1767 HORBLING,​LINCOLN,​ENGLAND  residence:  Lincoln,​ England  parents: John Perkins,​ Eliz.
+1 OBJE @O43@
+2 _PRIM Y
+0 @I372179855185@ INDI
+1 NAME John (Twin) /Perkins/
+2 GIVN John (Twin)
+2 SURN Perkins
+1 SEX M
+1 FAMS @F167@
+1 BIRT
+2 DATE 16 Oct 1736
+2 PLAC Horbling, Lincolnshire, England
+2 NOTE John Perkins  England Marriages, 1538–1973  marriage: 23 Nov 1761 Horbling,​Lincoln,​England  spouse: Elizabeth Saywell
+1 OBJE @O24@
+2 _PRIM Y
+0 @I372179855226@ INDI
+1 NAME Richard /Sorrel/
+2 GIVN Richard
+2 SURN Sorrel
+1 SEX M
+1 FAMS @F132@
+1 BIRT
+2 DATE Abt. 1720
+2 PLAC Mashbury, Essex, England
+0 @I372179855302@ INDI
+1 NAME Sarah /Archer/
+2 GIVN Sarah
+2 SURN Archer
+1 SEX F
+1 FAMS @F6@
+1 BIRT
+2 DATE 1708
+2 PLAC Essex England
+0 @I372179855331@ INDI
+1 NAME Isaac /Aylett/
+2 GIVN Isaac
+2 SURN Aylett
+1 SEX M
+1 FAMC @F98@
+1 FAMS @F6@
+1 BIRT
+2 DATE 1706
+2 PLAC Aythorpe Roding, Essex, England
+0 @I372179855490@ INDI
+1 NAME Elizabeth /Taylor/
+2 GIVN Elizabeth
+2 SURN Taylor
+1 SEX F
+1 FAMS @F98@
+1 BIRT
+2 DATE Abt. 1680
+2 PLAC Great Canfield, Essex, England
+0 @I372179855534@ INDI
+1 NAME Isaac /Aylett/
+2 GIVN Isaac
+2 SURN Aylett
+1 SEX M
+1 FAMC @F72@
+1 FAMS @F98@
+1 BIRT
+2 DATE Abt. 1680
+2 PLAC Aythorpe Roding, Essex, England
+1 DEAT
+2 DATE 1718
+2 PLAC Great Canfield, Essex, England
+0 @I372179855567@ INDI
+1 NAME Mary /PLAYLE/
+2 GIVN Mary
+2 SURN PLAYLE
+1 SEX F
+1 FAMS @F72@
+1 BIRT
+2 DATE 1648
+2 PLAC Little Chesterford,Essex,England
+1 DEAT
+2 DATE 1690
+2 PLAC Takeley Essex. England
+0 @I372179855663@ INDI
+1 NAME William /Aylett/
+2 GIVN William
+2 SURN Aylett
+1 SEX M
+1 FAMS @F72@
+1 BIRT
+2 DATE 1650
+1 DEAT
+2 DATE Feb 1691/2
+2 PLAC Takeley, Essex, England
+0 @I372179855818@ INDI
+1 NAME Ann /Coad/
+2 GIVN Ann
+2 SURN Coad
+1 SEX F
+1 FAMC @F14@
+1 FAMS @F23@
+1 BIRT
+2 DATE 3 Mar 1802
+2 PLAC Truro, Cornwall, England 
+1 DEAT
+2 DATE 15 Oct 1888
+2 PLAC Edwards Co., IL
+0 @I372179855838@ INDI
+1 NAME Thomas /Cowles/
+2 GIVN Thomas
+2 SURN Cowles
+1 SEX M
+1 FAMS @F23@
+1 BIRT
+2 DATE About 1804
+2 PLAC England, United Kingdom
+1 DEAT
+2 DATE 9 Mar 1854
+2 PLAC Indiana, USA
+0 @I372179855854@ INDI
+1 NAME Jane /Taylor Coad/
+2 GIVN Jane
+2 SURN Taylor Coad
+1 SEX F
+1 FAMC @F68@
+1 FAMS @F14@
+1 BIRT
+2 DATE 16 Sep 1778
+2 PLAC Truro, Cornwall, England
+1 DEAT
+2 DATE 1850
+2 PLAC Edwards Co., IL
+1 OBJE @O38@
+2 _PRIM Y
+0 @I372179855875@ INDI
+1 NAME Edward /COAD-CUNDY/ IV
+2 GIVN Edward
+2 SURN COAD-CUNDY
+2 NSFX IV
+1 SEX M
+1 FAMC @F105@
+1 FAMS @F14@
+1 BIRT
+2 DATE BEF 1775 MAR 30
+2 PLAC St. Stephen in Brannel, Cornwall UK
+2 NOTE OPC Baptism Was Baptised Edward COad CUNDY, Illegitimate son of Edward COAD and Alice CUNDY. The couple never married.
+1 DEAT
+2 DATE 1861
+2 PLAC Edwards County, Illinois, USA
+1 OBJE @O78@
+2 _PRIM Y
+0 @I372179855898@ INDI
+1 NAME Mary Ann /Roberts/
+2 GIVN Mary Ann
+2 SURN Roberts
+1 SEX F
+1 FAMC @F169@
+1 FAMS @F149@
+1 BIRT
+2 DATE 1793
+2 PLAC Yorkshire, England
+1 DEAT
+2 DATE 1832
+2 PLAC , Edwards, Illinois
+0 @I372179855935@ INDI
+1 NAME Benjamin /Roberts/
+2 GIVN Benjamin
+2 SURN Roberts
+1 SEX M
+1 FAMC @F51@
+1 FAMS @F169@
+1 BIRT
+2 DATE abt 1760
+2 PLAC Yorkshire, England
+1 DEAT
+2 DATE APR 1849
+2 PLAC Wakefield, Yorkshire, England, United Kingdom
+0 @I372179855970@ INDI
+1 NAME Margaret /Taylor/
+2 GIVN Margaret
+2 SURN Taylor
+1 SEX F
+1 FAMS @F68@
+1 BIRT
+2 DATE 1750
+2 PLAC Truro, Cornwall, England
+1 DEAT
+2 DATE 1795
+2 PLAC Truro, Cornwall, England
+0 @I372179856162@ INDI
+1 NAME Thomas /Taylor/
+2 GIVN Thomas
+2 SURN Taylor
+1 SEX M
+1 FAMC @F34@
+1 FAMS @F68@
+1 BIRT
+2 DATE 1745
+2 PLAC Morwenstow,,Cornwall,England
+1 DEAT
+2 DATE 1798
+2 PLAC Truro,,Cornwall,England
+0 @I372179856205@ INDI
+1 NAME Elizabeth /Bulmer/
+2 GIVN Elizabeth
+2 SURN Bulmer
+1 SEX F
+1 FAMC @F160@
+1 FAMS @F51@
+1 BIRT
+2 DATE 1729
+2 PLAC leeds yorkshire england
+1 DEAT
+2 DATE 21 Jul 1807
+2 PLAC Thorp Lane, Yorkshire
+1 OBJE @O70@
+2 _PRIM Y
+0 @I372179856242@ INDI
+1 NAME Joseph /Roberts/
+2 GIVN Joseph
+2 SURN Roberts
+1 SEX M
+1 FAMC @F59@
+1 FAMS @F51@
+1 BIRT
+2 DATE 15 June 1729
+2 PLAC Leeds, Yorkshire, England
+1 DEAT
+2 DATE 17 August 1780
+2 PLAC Wakefield, Yorkshire, England
+1 OBJE @O57@
+2 _PRIM Y
+0 @I372179856297@ INDI
+1 NAME Thomas /Taylor/
+2 GIVN Thomas
+2 SURN Taylor
+1 SEX M
+1 FAMC @F146@
+1 FAMS @F34@
+1 BIRT
+2 DATE Abt. 1712
+2 PLAC Morwenstow, Cornwall
+1 DEAT
+2 DATE Abt. 1775
+2 PLAC Morwenstow, Cornwall
+0 @I372179856317@ INDI
+1 NAME Prudence /Taylor/
+2 GIVN Prudence
+2 SURN Taylor
+1 SEX F
+1 FAMS @F34@
+1 BIRT
+2 DATE 1715
+2 PLAC Cornwall, England
+1 DEAT
+2 DATE 1763
+2 PLAC Cornwall, England
+0 @I372179856357@ INDI
+1 NAME Margaret /(Taylor)/
+2 GIVN Margaret
+2 SURN (Taylor)
+1 SEX F
+1 FAMS @F146@
+1 BIRT
+2 DATE Abt. 1690
+2 PLAC Sancreed, Cornwall
+1 DEAT
+2 DATE Abt. 1730
+2 PLAC Morwenstow, Cornwall
+0 @I372179856464@ INDI
+1 NAME Elizabeth Ann /Logan/
+2 GIVN Elizabeth Ann
+2 SURN Logan
+1 SEX F
+1 FAMC @F80@
+1 FAMS @F105@
+1 BIRT
+2 DATE 18 May 1754
+2 PLAC Exeter, Devon County, England
+1 DEAT
+2 DATE 07 Nov 1827
+2 PLAC Truro, Cornwall, England
+1 OBJE @O48@
+2 _PRIM Y
+0 @I372179856507@ INDI
+1 NAME Edward  /Coad/ Sr
+2 GIVN Edward 
+2 SURN Coad
+2 NSFX Sr
+1 SEX M
+1 FAMC @F49@
+1 FAMS @F105@
+1 BIRT
+2 DATE 1754
+2 PLAC Epsom, Surrey County, England
+1 DEAT
+2 DATE 21 May 1824
+2 PLAC Truro, Cornwall County, England
+0 @I372179856600@ INDI
+1 NAME Jean /Forbes/
+2 GIVN Jean
+2 SURN Forbes
+1 SEX F
+1 FAMS @F80@
+1 BIRT
+2 DATE 1732
+2 PLAC Lanark, Lanarkshire, Scotland
+1 DEAT
+2 DATE 1780
+2 PLAC Truro,Cornwall, England
+0 @I372179856650@ INDI
+1 NAME John /Logan/
+2 GIVN John
+2 SURN Logan
+1 SEX M
+1 FAMC @F67@
+1 FAMS @F80@
+1 BIRT
+2 DATE 21 Sep 1733
+2 PLAC Lanark, Lanarkshire, , Scotland
+1 DEAT
+2 DATE 1780
+2 PLAC Truro, Cornwall, , England
+0 @I372179856682@ INDI
+1 NAME Margaret /Purdie/
+2 GIVN Margaret
+2 SURN Purdie
+1 SEX F
+1 FAMC @F166@
+1 FAMS @F67@
+1 BIRT
+2 DATE 1696
+2 PLAC Lanark, Lanarkshire, , Scotland
+1 DEAT
+2 DATE Unknown
+2 PLAC Lanark, Lanarkshire, Scotland
+0 @I372179856698@ INDI
+1 NAME William /Logan/
+2 GIVN William
+2 SURN Logan
+1 SEX M
+1 FAMC @F114@
+1 FAMS @F67@
+1 BIRT
+2 DATE 28 Aug 1691
+2 PLAC Lanark, Lanarkshire, , Scotland
+1 DEAT
+2 DATE Unknown
+2 PLAC Lanark, Lanarkshire, Scotland
+0 @I372179856716@ INDI
+1 NAME Martha //
+2 GIVN Martha
+1 SEX F
+1 FAMS @F49@
+1 BIRT
+2 DATE ABT 1734
+2 PLAC Richmond, Surrey
+1 DEAT
+2 DATE ABT 1780
+2 PLAC Truro, Cornwall
+0 @I372179856782@ INDI
+1 NAME JAMES /COAD/
+2 GIVN JAMES
+2 SURN COAD
+1 SEX M
+1 FAMS @F49@
+1 BIRT
+2 DATE 1723
+2 PLAC England
+1 DEAT
+2 DATE 21 JULY 1754
+2 PLAC SURREY COUNTY, ENGLAND
+0 @I372179856845@ INDI
+1 NAME John /Purdie/
+2 GIVN John
+2 SURN Purdie
+1 SEX M
+1 FAMS @F166@
+1 BIRT
+2 DATE 8 May 1670
+2 PLAC Thankerton, Lanarkshire, Scotland
+1 DEAT
+2 DATE 03 Mar 1753
+2 PLAC Scotland
+0 @I372179858972@ INDI
+1 NAME Barbara /Millar/
+2 GIVN Barbara
+2 SURN Millar
+1 SEX F
+1 FAMS @F114@
+1 BIRT
+2 DATE Abt 1658
+2 PLAC Lanark, , Lanark, Scotland
+0 @I372179859011@ INDI
+1 NAME John /Logan/
+2 GIVN John
+2 SURN Logan
+1 SEX M
+1 FAMS @F114@
+1 BIRT
+2 DATE 1653
+2 PLAC Lanark, Lanarkshire, Scotland
+0 @I372179859325@ INDI
+1 NAME Joseph /Bulmer/
+2 GIVN Joseph
+2 SURN Bulmer
+1 SEX M
+1 FAMC @F11@
+1 FAMS @F160@
+1 BIRT
+2 DATE 16 June 1700
+2 PLAC Leeds, Yorkshire, England
+0 @I372179859419@ INDI
+1 NAME Sarah /Berry/
+2 GIVN Sarah
+2 SURN Berry
+1 SEX F
+1 FAMC @F124@
+1 FAMS @F11@
+1 BIRT
+2 DATE 1678
+2 PLAC Settrington, York, England
+1 DEAT
+2 DATE 23 Mar 1753
+2 PLAC Holy Trinity, Rothwell, Leeds, West Yorkshire, England
+0 @I372179859439@ INDI
+1 NAME Joseph /Bulmer/
+2 GIVN Joseph
+2 SURN Bulmer
+1 SEX M
+1 FAMS @F11@
+1 BIRT
+2 DATE 1676
+2 PLAC Oswaldirk, Yorkshire, England
+1 DEAT
+2 DATE 1753
+2 PLAC West Yorkshire, England
+1 OBJE @O51@
+2 _PRIM Y
+0 @I372179859459@ INDI
+1 NAME Mary /Bassett/
+2 GIVN Mary
+2 SURN Bassett
+1 SEX F
+1 FAMS @F124@
+1 BIRT
+2 DATE abt 1646
+1 OBJE @O59@
+2 _PRIM Y
+0 @I372179859487@ INDI
+1 NAME John /Berry/
+2 GIVN John
+2 SURN Berry
+1 SEX M
+1 FAMC @F100@
+1 FAMS @F124@
+1 BIRT
+2 DATE 23 Feb 1645
+2 PLAC Settrington, York, England
+1 DEAT
+2 DATE abt 1706
+1 OBJE @O7@
+2 _PRIM Y
+0 @I372179859560@ INDI
+1 NAME Frances /Kettle/
+2 GIVN Frances
+2 SURN Kettle
+1 SEX F
+1 FAMC @F86@
+1 FAMS @F100@
+1 BIRT
+2 DATE 24 Jun 1621
+2 PLAC Swavesey Cambridgeshire
+1 DEAT
+2 DATE Jan 1675
+2 PLAC Swavesey Cambridgeshire
+0 @I372179859601@ INDI
+1 NAME John /Berry/
+2 GIVN John
+2 SURN Berry
+1 SEX M
+1 FAMC @F57@
+1 FAMS @F100@
+1 BIRT
+2 DATE 19 Dec 1619
+2 PLAC Swavesey, Cambridgeshire, England
+1 DEAT
+2 DATE Apr 1676
+2 PLAC Swavesey, Cambridgeshire
+0 @I372179859669@ INDI
+1 NAME Frideswide /Kendricke/
+2 GIVN Frideswide
+2 SURN Kendricke
+1 SEX F
+1 FAMS @F86@
+1 DEAT
+2 DATE abt 1647
+0 @I372179859682@ INDI
+1 NAME John /Kettle/
+2 GIVN John
+2 SURN Kettle
+1 SEX M
+1 FAMS @F86@
+1 BIRT
+2 DATE Abt. 1580
+2 PLAC Swavesey, Cambridgeshire
+0 @I372179859714@ INDI
+1 NAME MARGARET /Rooke/
+2 GIVN MARGARET
+2 SURN Rooke
+1 SEX F
+1 FAMC @F60@
+1 FAMS @F57@
+1 BIRT
+2 DATE Nov 1601
+2 PLAC Swavesey, Cambridgeshire, England
+1 DEAT
+2 DATE Sept 1698 
+2 PLAC March, Cambridgeshire, England
+0 @I372179859758@ INDI
+1 NAME Alice Maria /Carey/
+2 GIVN Alice Maria
+2 SURN Carey
+1 SEX F
+1 FAMS @F60@
+1 DEAT
+2 DATE  Dec 1621
+2 PLAC Swavesey, Cambridgeshire, England
+1 OBJE @O28@
+2 _PRIM Y
+0 @I372179859778@ INDI
+1 NAME RICHARD /Rooke/
+2 GIVN RICHARD
+2 SURN Rooke
+1 SEX M
+1 FAMS @F60@
+1 BIRT
+2 DATE Dec 1576
+2 PLAC England
+1 DEAT
+2 DATE Sept 1668
+2 PLAC England
+0 @I372179859799@ INDI
+1 NAME RICHARD /Berry (Berrie)/
+2 GIVN RICHARD
+2 SURN Berry (Berrie)
+1 SEX M
+1 FAMC @F43@
+1 FAMS @F57@
+1 BIRT
+2 DATE March 1597
+2 PLAC Swavesey, Cambridgeshire, England
+1 DEAT
+2 DATE 1625
+2 PLAC Swavesey, Cambridgeshire, England
+0 @I372179859816@ INDI
+1 NAME EZABELL /MSunknown/
+2 GIVN EZABELL
+2 SURN MSunknown
+1 SEX F
+1 FAMS @F43@
+1 BIRT
+2 DATE abt 1570
+2 PLAC England
+1 DEAT
+2 PLAC Cambridgeshire, England
+0 @I372179859867@ INDI
+1 NAME RICHARD /Berrie/
+2 GIVN RICHARD
+2 SURN Berrie
+1 SEX M
+1 FAMC @F150@
+1 FAMS @F43@
+1 BIRT
+2 DATE abt 1556
+2 PLAC Swavesey, Cambridgeshire, England
+1 DEAT
+2 DATE 1613
+2 PLAC Swavesey, Cambridgeshire, England
+0 @I372179860016@ INDI
+1 NAME John /Berrie/
+2 GIVN John
+2 SURN Berrie
+1 SEX M
+1 FAMC @F109@
+1 FAMS @F150@
+1 BIRT
+2 DATE Abt 1527
+2 PLAC Swavesey, Cambridgeshire, England
+1 DEAT
+2 DATE Abt 16 Dec 1585
+2 PLAC Swavesey, Cambridgeshire, England
+0 @I372179860053@ INDI
+1 NAME Alice //
+2 GIVN Alice
+1 SEX F
+1 FAMS @F109@
+1 BIRT
+2 DATE Abt 1505
+2 PLAC Swavesey, Cambridgeshire
+0 @I372179860075@ INDI
+1 NAME Robert /Berry/
+2 GIVN Robert
+2 SURN Berry
+1 SEX M
+1 FAMS @F109@
+1 BIRT
+2 DATE Abt 1501
+2 PLAC Swavesey, Cambridgeshire
+1 DEAT
+2 DATE Abt 19 Dec 1556
+2 PLAC Swavesey, Cambridgeshire
+0 @I372179860269@ INDI
+1 NAME Mary /Wriglesworth/
+2 GIVN Mary
+2 SURN Wriglesworth
+1 SEX F
+1 FAMC @F35@
+1 FAMS @F59@
+1 BIRT
+2 DATE 1696
+2 PLAC Rothwell, Yorkshire, England
+2 NOTE Middleton
+1 DEAT
+2 DATE 1776
+2 PLAC Rothwell, Yorkshire, England
+2 NOTE Middleton
+0 @I372179860312@ INDI
+1 NAME Benjamin /Roberts/
+2 GIVN Benjamin
+2 SURN Roberts
+1 SEX M
+1 FAMC @F117@
+1 FAMS @F59@
+1 BIRT
+2 DATE 24 December 1692
+2 PLAC Leeds, Yorkshire, England
+1 DEAT
+2 DATE 2 June 1772
+2 PLAC Leeds, Yorkshire, England
+0 @I372179860372@ INDI
+1 NAME Sarah //
+2 GIVN Sarah
+1 SEX F
+1 FAMS @F35@
+1 BIRT
+2 DATE Abt. 1668
+2 PLAC Leeds, Yorkshire, England
+1 DEAT
+2 DATE Aug 8 1738
+2 PLAC Rothwell, Yorkshire, England
+1 OBJE @O61@
+2 _PRIM Y
+0 @I372179860387@ INDI
+1 NAME Joshuah /Wriglesworth/
+2 GIVN Joshuah
+2 SURN Wriglesworth
+1 SEX M
+1 FAMC @F12@
+1 FAMS @F35@
+1 BIRT
+2 DATE 12 May 1667
+2 PLAC Leeds, Yorkshire, England
+1 DEAT
+2 DATE May 1751
+2 PLAC Rothwell, Yorkshire, England
+0 @I372179860437@ INDI
+1 NAME Ursula /Skelton/
+2 GIVN Ursula
+2 SURN Skelton
+1 SEX F
+1 FAMC @F134@
+1 FAMS @F12@
+1 BIRT
+2 DATE 1636
+2 PLAC Leeds, Yorkshire, England
+1 DEAT
+2 DATE 1674
+2 PLAC Leeds, Yorkshire, England
+0 @I372179860463@ INDI
+1 NAME Robert /Wriglesworth/
+2 GIVN Robert
+2 SURN Wriglesworth
+1 SEX M
+1 FAMC @F103@
+1 FAMS @F12@
+1 BIRT
+2 DATE 12 May 1617
+2 PLAC Rothwell, Yorkshire, England
+1 DEAT
+2 DATE 1697
+2 PLAC Leeds, Yorkshire, England
+0 @I372179860510@ INDI
+1 NAME Frances /Proctor/
+2 GIVN Frances
+2 SURN Proctor
+1 SEX F
+1 FAMC @F108@
+1 FAMS @F117@
+1 BIRT
+2 DATE 1650
+2 PLAC Leeds, Yorkshire, England
+0 @I372179860559@ INDI
+1 NAME Joseph /Roberts/
+2 GIVN Joseph
+2 SURN Roberts
+1 SEX M
+1 FAMC @F96@
+1 FAMS @F117@
+1 BIRT
+2 DATE September, 1650
+2 PLAC Armley, Leeds, Yorkshire - West Riding, United Kingdom
+0 @I372179860589@ INDI
+1 NAME Ellin /Harison/
+2 GIVN Ellin
+2 SURN Harison
+1 SEX F
+1 FAMS @F108@
+1 BIRT
+2 DATE 1612
+2 PLAC Gipton, Yorkshire, England
+0 @I372179860606@ INDI
+1 NAME James /Procter/
+2 GIVN James
+2 SURN Procter
+1 SEX M
+1 FAMS @F108@
+1 BIRT
+2 DATE abt 1612
+2 PLAC Leeds, Yorkshire, England
+0 @I372179860629@ INDI
+1 NAME Margret /Standley/
+2 GIVN Margret
+2 SURN Standley
+1 SEX F
+1 FAMS @F96@
+1 BIRT
+2 DATE 1616
+2 PLAC Leeds, West Yorkshire, England
+1 DEAT
+2 PLAC Leeds, West Yorkshire (St Peters) England
+0 @I372179860656@ INDI
+1 NAME Henry /Roberts/
+2 GIVN Henry
+2 SURN Roberts
+1 SEX M
+1 FAMC @F24@
+1 FAMS @F96@
+1 BIRT
+2 DATE 1616
+2 PLAC Leeds, West Yorkshire, England
+1 DEAT
+2 DATE Jul 1661
+2 PLAC Leeds, St Peter (Leeds Parish Church), Yorkshire, England
+0 @I372179860958@ INDI
+1 NAME Ales Alice /Bannister/
+2 GIVN Ales Alice
+2 SURN Bannister
+1 SEX F
+1 FAMS @F24@
+1 BIRT
+2 DATE 1575
+2 PLAC Leeds, West Yorkshire, England
+0 @I372179861005@ INDI
+1 NAME Robert /Robarte/
+2 GIVN Robert
+2 SURN Robarte
+1 SEX M
+1 FAMS @F24@
+1 DEAT
+2 DATE Jul 1610
+2 PLAC Vicar Lane, Leeds, Yorkshire, England
+0 @I372179861075@ INDI
+1 NAME Lettis /Bradbury/
+2 GIVN Lettis
+2 SURN Bradbury
+1 SEX F
+1 FAMS @F134@
+1 BIRT
+2 DATE 1610
+2 PLAC Adel, Yorkshire, England
+1 DEAT
+2 DATE Sep 1666
+2 PLAC Adel, Yorkshire, England
+1 OBJE @O61@
+2 _PRIM Y
+0 @I372179861101@ INDI
+1 NAME Elizabetha /Nowell/
+2 GIVN Elizabetha
+2 SURN Nowell
+1 SEX F
+1 FAMC @F88@
+1 FAMS @F103@
+1 BIRT
+2 DATE 1577
+2 PLAC Rothwell, Yorkshire, England
+1 OBJE @O61@
+2 _PRIM Y
+0 @I372179861145@ INDI
+1 NAME Henrici /Wriglesworth/
+2 GIVN Henrici
+2 SURN Wriglesworth
+1 SEX M
+1 FAMC @F63@
+1 FAMS @F103@
+1 BIRT
+2 DATE 1573
+2 PLAC Rothwell, Yorkshire, England
+1 DEAT
+2 DATE 1626
+2 PLAC Rothwell, Yorkshire, England
+0 @I372179861207@ INDI
+1 NAME Margaret /Chesterton/
+2 GIVN Margaret
+2 SURN Chesterton
+1 SEX F
+1 FAMS @F88@
+1 BIRT
+2 DATE 1532
+1 DEAT
+2 DATE Dec 1587
+2 PLAC Rothwell, Yorkshire, England
+1 OBJE @O61@
+2 _PRIM Y
+0 @I372179861225@ INDI
+1 NAME John /Nowell/
+2 GIVN John
+2 SURN Nowell
+1 SEX M
+1 FAMS @F88@
+1 BIRT
+2 DATE 1532
+2 PLAC Rothwell, Yorkshire, England
+1 DEAT
+2 DATE Jul 1584
+2 PLAC Rothwell, Yorkshire, England
+1 OBJE @O60@
+2 _PRIM Y
+0 @I372179861301@ INDI
+1 NAME Alice /Jackson\ 1550-1594/
+2 GIVN Alice
+2 SURN Jackson\ 1550-1594
+1 SEX F
+1 FAMS @F63@
+1 BIRT
+2 DATE 1550
+2 PLAC Rothwell, Yorkshire, England
+1 DEAT
+2 DATE Sept. 1594
+2 PLAC Oulton, Yorkshire, England
+1 OBJE @O61@
+2 _PRIM Y
+0 @I372179861327@ INDI
+1 NAME Henricus (Henry) /Wriglesworth/
+2 GIVN Henricus (Henry)
+2 SURN Wriglesworth
+1 SEX M
+1 FAMS @F63@
+1 BIRT
+2 DATE Abt. 1550
+2 PLAC Oulton, Leeds, Yorkshire, England
+1 DEAT
+2 DATE 29 Jan 1606
+2 PLAC Oulton, Leeds, Yorkshire, England
+1 OBJE @O19@
+2 _PRIM Y
+0 @I372179861660@ INDI
+1 NAME Hannah Agnes /Wilkinson/
+2 GIVN Hannah Agnes
+2 SURN Wilkinson
+1 SEX F
+1 FAMC @F42@
+1 FAMS @F97@
+1 BIRT
+2 DATE 30 December 1813
+2 PLAC Hole House, Sedbergh, Yorkshire, England
+1 DEAT
+2 DATE 29 April 1886
+2 PLAC Grayville, White, Illinois, United States
+1 OBJE @O32@
+2 _PRIM Y
+0 @I372179861692@ INDI
+1 NAME Anthony /Gibson/ IM
+2 GIVN Anthony
+2 SURN Gibson
+2 NSFX IM
+1 SEX M
+1 FAMC @F119@
+1 FAMS @F97@
+1 BIRT
+2 DATE 2 Feb 1800
+2 PLAC Northumberland, England
+1 DEAT
+2 DATE 30 Nov 1865
+2 PLAC Grayville, White, Illinois, USA
+1 OBJE @O3@
+2 _PRIM Y
+0 @I372179861725@ INDI
+1 NAME Margaret /Rotramel/
+2 GIVN Margaret
+2 SURN Rotramel
+1 SEX F
+1 FAMC @F137@
+1 FAMS @F77@
+1 BIRT
+2 DATE 15 APRIL 1810
+2 PLAC Kentucky
+1 DEAT
+2 DATE 7 Jul 1872
+2 PLAC Edwards County, Illinois
+2 NOTE Age 61
+1 OBJE @O23@
+2 _PRIM Y
+0 @I372179861764@ INDI
+1 NAME Thomas /COAD/
+2 GIVN Thomas
+2 SURN COAD
+1 SEX M
+1 FAMC @F94@
+1 FAMS @F77@
+1 BIRT
+2 DATE 15 Dec 1810
+2 PLAC St Stephen, Cornwall, England
+1 DEAT
+2 DATE 19 Feb 1894
+2 PLAC Edwards, Illinois, United States
+0 @I372179861789@ INDI
+1 NAME Hannah /Mason/
+2 GIVN Hannah
+2 SURN Mason
+1 SEX F
+1 FAMC @F78@
+1 FAMS @F74@
+1 BIRT
+2 DATE 18 April 1808
+2 PLAC Pennsylvania
+1 DEAT
+2 DATE 1 Mar 1862
+2 PLAC Illinois, United States of America
+0 @I372179862296@ INDI
+1 NAME William /Curtis/
+2 GIVN William
+2 SURN Curtis
+1 SEX M
+1 FAMC @F47@
+1 FAMS @F74@
+1 BIRT
+2 DATE 23 Sep 1810
+2 PLAC North Carolina, USA
+1 DEAT
+2 DATE 26 Mar 1882
+2 PLAC Edwards County, Illinois, USA
+1 OBJE @O15@
+2 _PRIM Y
+0 @I372179862361@ INDI
+1 NAME Agnes Ann 'Nanny' /Raw/
+2 GIVN Agnes Ann 'Nanny'
+2 SURN Raw
+1 SEX F
+1 FAMC @F157@
+1 FAMS @F42@
+1 BIRT
+2 DATE 9 January 1782
+2 PLAC Stretton, Cheshire, England
+1 DEAT
+2 DATE 10 October 1852
+2 PLAC Friendsville, Wabash, Illinois, USA
+1 OBJE @O79@
+2 _PRIM Y
+0 @I372179862421@ INDI
+1 NAME Thomas /Wilkinson/
+2 GIVN Thomas
+2 SURN Wilkinson
+1 SEX M
+1 FAMS @F42@
+1 BIRT
+2 DATE 30 Nov 1767
+2 PLAC Hole House, Howgill, Sedbergh, England
+1 DEAT
+2 DATE 15 Aug 1840
+2 PLAC Grayville, White County, Illinois
+1 OBJE @O63@
+2 _PRIM Y
+0 @I372179862492@ INDI
+1 NAME William /RAW/
+2 GIVN William
+2 SURN RAW
+1 SEX M
+1 FAMC @F136@
+1 FAMS @F157@
+1 BIRT
+2 DATE Abt. 1757
+2 PLAC England, UK
+0 @I372179862512@ INDI
+1 NAME Dorothy /Lord/
+2 GIVN Dorothy
+2 SURN Lord
+1 SEX F
+1 FAMS @F136@
+1 DEAT
+2 PLAC ,,,England
+0 @I372179862546@ INDI
+1 NAME Anne /Gibson/
+2 GIVN Anne
+2 SURN Gibson
+1 SEX F
+1 FAMS @F119@
+1 BIRT
+2 DATE abt 1780
+2 PLAC Wark, Northumberland, England
+0 @I372179862577@ INDI
+1 NAME Anthony /Gibson/
+2 GIVN Anthony
+2 SURN Gibson
+1 SEX M
+1 FAMS @F119@
+1 BIRT
+2 DATE abt 1780
+2 PLAC Newland, Northumberland, England
+1 DEAT
+2 DATE Dec 1883
+2 PLAC Northumberland, England
+0 @I372179862670@ INDI
+1 NAME John (Johanes) /Rotramel/
+2 GIVN John (Johanes)
+2 SURN Rotramel
+1 SEX M
+1 FAMS @F137@
+1 BIRT
+2 DATE 28 Aug 1774
+2 PLAC York, York, Pennsylvania, USA
+1 DEAT
+2 DATE 1857
+2 PLAC Edwards County, Illinois, USA
+0 @I372179862704@ INDI
+1 NAME Jane Anne "Murtha" /Taylor/
+2 GIVN Jane Anne "Murtha"
+2 SURN Taylor
+1 SEX F
+1 FAMC @F81@
+1 FAMS @F94@
+1 BIRT
+2 DATE 16 Sep 1778
+2 PLAC Truro, Cornwall, England
+1 DEAT
+2 DATE Bef. 1850
+2 PLAC Edwards, Illinois, USA
+0 @I372179862732@ INDI
+1 NAME Edward /COAD-CUNDY/ IV
+2 GIVN Edward
+2 SURN COAD-CUNDY
+2 NSFX IV
+1 SEX M
+1 FAMC @F62@
+1 FAMS @F94@
+1 BIRT
+2 DATE BEF 1775 MAR 30
+2 PLAC St. Stephen in Brannel, Cornwall UK
+2 NOTE OPC Baptism Was Baptised Edward COad CUNDY, Illegitimate son of Edward COAD and Alice CUNDY. The couple never married.
+1 DEAT
+2 DATE 1861
+2 PLAC Edwards County, Illinois, USA
+1 OBJE @O78@
+2 _PRIM Y
+0 @I372179862772@ INDI
+1 NAME Margaret /Taylor/
+2 GIVN Margaret
+2 SURN Taylor
+1 SEX F
+1 FAMS @F81@
+1 BIRT
+2 DATE 1750
+2 PLAC Truro, Cornwall, England
+1 DEAT
+2 DATE 1795
+2 PLAC Truro, Cornwall, England
+0 @I372179862796@ INDI
+1 NAME Thomas /Taylor/
+2 GIVN Thomas
+2 SURN Taylor
+1 SEX M
+1 FAMC @F33@
+1 FAMS @F81@
+1 BIRT
+2 DATE 1745
+2 PLAC Morwenstow,,Cornwall,England
+1 DEAT
+2 DATE 1798
+2 PLAC Truro,,Cornwall,England
+0 @I372179862825@ INDI
+1 NAME Elizabeth Ann /Logan/
+2 GIVN Elizabeth Ann
+2 SURN Logan
+1 SEX F
+1 FAMC @F118@
+1 FAMS @F62@
+1 BIRT
+2 DATE 18 May 1754
+2 PLAC Exeter, Devon County, England
+1 DEAT
+2 DATE 07 Nov 1827
+2 PLAC Truro, Cornwall, England
+1 OBJE @O48@
+2 _PRIM Y
+0 @I372179862852@ INDI
+1 NAME Edward  /Coad/ Sr
+2 GIVN Edward 
+2 SURN Coad
+2 NSFX Sr
+1 SEX M
+1 FAMC @F92@
+1 FAMS @F62@
+1 BIRT
+2 DATE 1754
+2 PLAC Epsom, Surrey County, England
+1 DEAT
+2 DATE 21 May 1824
+2 PLAC Truro, Cornwall County, England
+0 @I372179862919@ INDI
+1 NAME Prudence /Taylor/
+2 GIVN Prudence
+2 SURN Taylor
+1 SEX F
+1 FAMS @F33@
+1 BIRT
+2 DATE 1715
+2 PLAC Cornwall, England
+1 DEAT
+2 DATE 1763
+2 PLAC Cornwall, England
+0 @I372179862971@ INDI
+1 NAME Thomas /Taylor/
+2 GIVN Thomas
+2 SURN Taylor
+1 SEX M
+1 FAMS @F33@
+1 BIRT
+2 DATE Abt. 1712
+2 PLAC Morwenstow, Cornwall
+1 DEAT
+2 DATE Abt. 1775
+2 PLAC Morwenstow, Cornwall
+0 @I372179863045@ INDI
+1 NAME Jean /Forbes/
+2 GIVN Jean
+2 SURN Forbes
+1 SEX F
+1 FAMS @F118@
+1 BIRT
+2 DATE 1732
+2 PLAC Lanark, Lanarkshire, Scotland
+1 DEAT
+2 DATE 1780
+2 PLAC Truro,Cornwall, England
+0 @I372179863088@ INDI
+1 NAME John /Logan/
+2 GIVN John
+2 SURN Logan
+1 SEX M
+1 FAMC @F101@
+1 FAMS @F118@
+1 BIRT
+2 DATE 21 Sep 1733
+2 PLAC Lanark, Lanarkshire, , Scotland
+1 DEAT
+2 DATE 1780
+2 PLAC Truro, Cornwall, , England
+0 @I372179863156@ INDI
+1 NAME Margaret /Purdie/
+2 GIVN Margaret
+2 SURN Purdie
+1 SEX F
+1 FAMC @F154@
+1 FAMS @F101@
+1 BIRT
+2 DATE 1696
+2 PLAC Lanark, Lanarkshire, , Scotland
+1 DEAT
+2 DATE Unknown
+2 PLAC Lanark, Lanarkshire, Scotland
+0 @I372179863186@ INDI
+1 NAME William /Logan/
+2 GIVN William
+2 SURN Logan
+1 SEX M
+1 FAMC @F71@
+1 FAMS @F101@
+1 BIRT
+2 DATE 28 Aug 1691
+2 PLAC Lanark, Lanarkshire, , Scotland
+1 DEAT
+2 DATE Unknown
+2 PLAC Lanark, Lanarkshire, Scotland
+0 @I372179863214@ INDI
+1 NAME Martha //
+2 GIVN Martha
+1 SEX F
+1 FAMS @F92@
+1 BIRT
+2 DATE ABT 1734
+2 PLAC Richmond, Surrey
+1 DEAT
+2 DATE ABT 1780
+2 PLAC Truro, Cornwall
+0 @I372179863235@ INDI
+1 NAME JAMES /COAD/
+2 GIVN JAMES
+2 SURN COAD
+1 SEX M
+1 FAMS @F92@
+1 BIRT
+2 DATE 1723
+2 PLAC England
+1 DEAT
+2 DATE 21 JULY 1754
+2 PLAC SURREY COUNTY, ENGLAND
+0 @I372179863275@ INDI
+1 NAME John /Purdie/
+2 GIVN John
+2 SURN Purdie
+1 SEX M
+1 FAMS @F154@
+1 BIRT
+2 DATE 8 May 1670
+2 PLAC Thankerton, Lanarkshire, Scotland
+1 DEAT
+2 DATE 03 Mar 1753
+2 PLAC Scotland
+0 @I372179863317@ INDI
+1 NAME Barbara /Millar/
+2 GIVN Barbara
+2 SURN Millar
+1 SEX F
+1 FAMS @F71@
+1 BIRT
+2 DATE Abt 1658
+2 PLAC Lanark, , Lanark, Scotland
+0 @I372179863338@ INDI
+1 NAME John /Logan/
+2 GIVN John
+2 SURN Logan
+1 SEX M
+1 FAMS @F71@
+1 BIRT
+2 DATE 1653
+2 PLAC Lanark, Lanarkshire, Scotland
+0 @I372179863799@ INDI
+1 NAME Mary /Brownridge/
+2 GIVN Mary
+2 SURN Brownridge
+1 SEX F
+1 FAMC @F128@
+1 FAMS @F78@
+1 BIRT
+2 DATE 1784
+2 PLAC Pennsylvania, Somerset, Pennsylvania, United States
+1 DEAT
+2 DATE 4 May 1829
+2 PLAC Lawrence, Lawrence, Illinois, United States
+0 @I372179863812@ INDI
+1 NAME Thomas H /Mason/
+2 GIVN Thomas H
+2 SURN Mason
+1 SEX M
+1 FAMC @F66@
+1 FAMS @F78@
+1 BIRT
+2 DATE 17 Jul 1780
+2 PLAC Westmoreland, Pennsylvania, United States
+1 DEAT
+2 DATE AFT 1850 census
+2 PLAC Richland, Illinois, United States
+0 @I372179863856@ INDI
+1 NAME Cely /Curtis/
+2 GIVN Cely
+2 SURN Curtis
+1 SEX F
+1 FAMS @F47@
+1 BIRT
+2 DATE 1790
+2 PLAC NC
+1 DEAT
+2 DATE 1842
+2 PLAC Edwards, Illinois, USA
+0 @I372179863937@ INDI
+1 NAME Henry /Curtis/
+2 GIVN Henry
+2 SURN Curtis
+1 SEX M
+1 FAMC @F22@
+1 FAMS @F47@
+1 BIRT
+2 DATE abt 1780
+2 PLAC Orange, North Carolina, USA
+1 DEAT
+2 PLAC Illinois, USA
+1 OBJE @O8@
+2 _PRIM Y
+0 @I372179863965@ INDI
+1 NAME Joseph /Brownridge/
+2 GIVN Joseph
+2 SURN Brownridge
+1 SEX M
+1 FAMS @F128@
+1 BIRT
+2 DATE 1765
+2 PLAC Yorkshire, England
+1 DEAT
+2 DATE  1798
+2 PLAC Essex County, New Jersey, USA
+0 @I372179933475@ INDI
+1 NAME Hannah /Frost/
+2 GIVN Hannah
+2 SURN Frost
+1 SEX F
+1 FAMS @F66@
+1 BIRT
+2 DATE 23 December 1751
+2 PLAC Frederick, Colony of Virginia, British Colonial America
+1 DEAT
+2 DATE 1839
+2 PLAC Union, Fayette, Pennsylvania, USA
+1 OBJE @O71@
+2 _PRIM Y
+0 @I372179933495@ INDI
+1 NAME John "Major" / Meason (Mason)/
+2 GIVN John "Major"
+2 SURN  Meason (Mason)
+1 SEX M
+1 FAMC @F163@
+1 FAMS @F66@
+1 BIRT
+2 DATE 22 Feb 1753
+2 PLAC Frederick, Virginia, USA
+1 DEAT
+2 DATE 1 Aug 1805
+2 PLAC Bullskin, Fayette, Pennsylvania, USA
+0 @I372179933533@ INDI
+1 NAME Thomas /Meason/
+2 GIVN Thomas
+2 SURN Meason
+1 SEX M
+1 FAMC @F158@
+1 FAMS @F163@
+1 BIRT
+2 DATE 22 Feb 1707
+2 PLAC Norfolk City, Virginia, United States of America
+1 DEAT
+2 DATE 15 Mar 1779
+2 PLAC Fayette County, Pennsylvania, United States of America
+0 @I372179933544@ INDI
+1 NAME George (Captain) /Mason/
+2 GIVN George (Captain)
+2 SURN Mason
+1 SEX M
+1 FAMS @F158@
+1 BIRT
+2 DATE 1655
+2 PLAC Lower, Norfolk, Virginia
+1 DEAT
+2 DATE 10 March 1709
+2 PLAC Lower Norfolk, VA
+0 @I372179934155@ INDI
+1 NAME Dorothea /Reed/
+2 GIVN Dorothea
+2 SURN Reed
+1 SEX F
+1 FAMS @F22@
+1 BIRT
+2 DATE abt 1755
+0 @I372179934170@ INDI
+1 NAME Henry /Curtis/
+2 GIVN Henry
+2 SURN Curtis
+1 SEX M
+1 FAMC @F135@
+1 FAMS @F22@
+1 BIRT
+2 DATE 17 Aug 1750
+2 PLAC Amelia County, Virginia, USA
+1 DEAT
+2 DATE 1797
+2 PLAC Person, North Carolina, USA
+0 @I372179934192@ INDI
+1 NAME George  /Curtis/
+2 GIVN George 
+2 SURN Curtis
+1 SEX M
+1 FAMC @F115@
+1 FAMS @F135@
+1 BIRT
+2 DATE 22 Jun 1723
+2 PLAC Northumberland Co.,, VA
+1 DEAT
+2 DATE 1805
+2 PLAC Alabama
+1 OBJE @O68@
+2 _PRIM Y
+0 @I372179934235@ INDI
+1 NAME Patience /Blundell/
+2 GIVN Patience
+2 SURN Blundell
+1 SEX F
+1 FAMC @F170@
+1 FAMS @F115@
+1 BIRT
+2 DATE 31 Jan 1689
+2 PLAC Northumberland Co, VA, USA
+1 DEAT
+2 PLAC VA, USA
+0 @I372179934260@ INDI
+1 NAME William /Blundle/
+2 GIVN William
+2 SURN Blundle
+1 SEX M
+1 FAMC @F162@
+1 FAMS @F170@
+1 BIRT
+2 DATE 13Apr1656
+2 PLAC London, England
+1 DEAT
+2 DATE 1721
+2 PLAC NC
+0 @I372179934276@ INDI
+1 NAME GEORGE /CURTIS/ SR.
+2 GIVN GEORGE
+2 SURN CURTIS
+2 NSFX SR.
+1 SEX M
+1 FAMS @F115@
+1 BIRT
+2 DATE Abt. 1685
+2 PLAC Deverill Longbridge, Wiltshire, England
+1 DEAT
+2 PLAC NC, USA
+0 @I372179934301@ INDI
+1 NAME John /Blundle/
+2 GIVN John
+2 SURN Blundle
+1 SEX M
+1 FAMS @F162@
+1 BIRT
+2 DATE 30 January 1618
+2 PLAC St Mary At Lambeth, Surrey, England
+1 DEAT
+2 DATE 1693
+2 PLAC St Laurence, New Brentford, Middlesex, England
+1 OBJE @O54@
+2 _PRIM Y
+0 @I372179934444@ INDI
+1 NAME Anna Maria /Schuster/
+2 GIVN Anna Maria
+2 SURN Schuster
+1 SEX F
+1 FAMS @F156@
+1 BIRT
+2 DATE 1723
+2 PLAC Maryland
+0 @I372179934537@ INDI
+1 NAME Rachel /Carson/
+2 GIVN Rachel
+2 SURN Carson
+1 SEX F
+1 FAMS @F58@
+1 BIRT
+2 DATE 1719
+2 PLAC Bedford County, Pennsylvania, USA
+1 DEAT
+2 DATE 22 Sep 1798
+2 PLAC Napier Twp, Bedford Co., PA, USA
+0 @I372179934552@ INDI
+1 NAME Thomas  /Kenton /
+2 GIVN Thomas 
+2 SURN Kenton 
+1 SEX M
+1 FAMS @F58@
+1 BIRT
+2 DATE 1 Mar 1701
+2 PLAC Down, Ulster, Ireland
+1 DEAT
+2 DATE 16 Mar 1779
+2 PLAC Bedford, Bedford, Pennsylvania
+0 @I372179934591@ INDI
+1 NAME LAVINIA Lavina Lavenia Olevinia (married Twice) /WILSON McGaughey Milligan Millikin Milliken/ a cousin of WILSONS & CARSONS of PAXTANG \ PAXTON PRESBYTERIAN CHURCH, LANCASTER, YORK & DAUPHIN, PA, on the SUSQUEHANNA
+2 GIVN LAVINIA Lavina Lavenia Olevinia (married Twice)
+2 SURN WILSON McGaughey Milligan Millikin Milliken
+2 NSFX a cousin of WILSONS & CARSONS of PAXTANG \ PAXTON PRESBYTERIAN CHURCH, LANCASTER, YORK & DAUPHIN, PA, on the SUSQUEHANNA
+1 SEX F
+1 FAMS @F46@
+1 BIRT
+2 DATE 1729-1730
+2 PLAC Dublin North, Ireland
+1 DEAT
+2 DATE 1788
+2 PLAC Anderson, Kentucky, USA
+1 OBJE @O6@
+2 _PRIM Y
+0 @I372179934623@ INDI
+1 NAME Charles /McGaughey- McGaha/ 1st Husband, died before family emigrated to Pennsylvania from Northern Ireland, possible son of William 
+2 GIVN Charles
+2 SURN McGaughey- McGaha
+2 NSFX 1st Husband, died before family emigrated to Pennsylvania from Northern Ireland, possible son of William 
+1 SEX M
+1 FAMS @F46@
+1 BIRT
+2 DATE 1727
+2 PLAC Tryon, Co. Antrim, Northern Ireland
+1 DEAT
+2 DATE Abt. 1760
+2 PLAC Tryon , Ireland.
+1 OBJE @O22@
+2 _PRIM Y
+0 @I372179934815@ INDI
+1 NAME Katherine //
+2 GIVN Katherine
+1 SEX F
+1 FAMS @F107@
+1 BIRT
+2 DATE ABT 1610
+2 PLAC Carrickfergus, Antrim, Northern Ireland
+0 @I372179934842@ INDI
+1 NAME Robert /Patterson/
+2 GIVN Robert
+2 SURN Patterson
+1 SEX M
+1 FAMS @F107@
+1 BIRT
+2 DATE ABT 1600
+2 PLAC Carrickfergus, Antrim, N. Ireland
+1 DEAT
+2 DATE 1686
+2 PLAC Isle of Man, Great Britain
+0 @I372179961759@ INDI
+1 NAME Susannah /Blease/
+2 GIVN Susannah
+2 SURN Blease
+1 SEX F
+1 FAMS @F39@
+1 BIRT
+2 DATE 1503
+2 PLAC England
+1 DEAT
+2 PLAC England
+0 @I372179961772@ INDI
+1 NAME John /Coth (Orrel)/
+2 GIVN John
+2 SURN Coth (Orrel)
+1 SEX M
+1 FAMS @F39@
+1 BIRT
+2 DATE 1495
+2 PLAC Cornwall, England
+1 DEAT
+2 DATE 1560
+2 PLAC Newlyn, Cornwall, England
+0 @I372179961780@ INDI
+1 NAME William /Orrell/
+2 GIVN William
+2 SURN Orrell
+1 SEX M
+1 FAMC @F19@
+1 FAMS @F174@
+1 BIRT
+2 DATE 1454
+2 PLAC Turton, Lancashire, England
+1 DEAT
+2 DATE 1530
+2 PLAC Bolton, Lancashire, England
+0 @I372179961796@ INDI
+1 NAME Alice Agnes /Tyldesley/
+2 GIVN Alice Agnes
+2 SURN Tyldesley
+1 SEX F
+1 FAMC @F2@
+1 FAMS @F19@
+1 BIRT
+2 DATE 1432
+2 PLAC Bolton, Lancashire, , England
+1 DEAT
+2 DATE 1462
+2 PLAC Turton Tower, Lancashire, , England
+0 @I372179961812@ INDI
+1 NAME Ralph /Orrell/
+2 GIVN Ralph
+2 SURN Orrell
+1 SEX M
+1 FAMS @F19@
+1 BIRT
+2 DATE 1488
+2 PLAC Turton, Lancashire, England
+1 DEAT
+2 DATE 24 Jul 1533
+2 PLAC Bolton, Lancashire, England
+1 OBJE @O66@
+2 _PRIM Y
+0 @I372179961850@ INDI
+1 NAME Lady Parnell /Shakerley/
+2 GIVN Lady Parnell
+2 SURN Shakerley
+1 SEX F
+1 FAMC @F130@
+1 FAMS @F2@
+1 BIRT
+2 DATE 1422
+2 PLAC Shakerley, Lancashire, England
+1 DEAT
+2 DATE 1490
+2 PLAC Tyldesley, Lancashire, England
+1 OBJE @O67@
+2 _PRIM Y
+0 @I372179961921@ INDI
+1 NAME Sir Thurston /Tyldesley/
+2 GIVN Sir Thurston
+2 SURN Tyldesley
+1 SEX M
+1 FAMS @F2@
+1 BIRT
+2 DATE 1410
+2 PLAC Tyldesley, Lancashire, England
+1 DEAT
+2 DATE 1478
+2 PLAC Tyldesley, Lancashire, England
+0 @I372179962160@ INDI
+1 NAME Peter Geofferey /Shakerley - 2nd/
+2 GIVN Peter Geofferey
+2 SURN Shakerley - 2nd
+1 SEX M
+1 FAMS @F130@
+1 BIRT
+2 DATE 1400
+2 PLAC Wardley, Lancashire, England
+1 DEAT
+2 DATE 1450
+2 PLAC Lancashire, England
+0 @I372179962260@ INDI
+1 NAME Jose /Lavin/
+2 GIVN Jose
+2 SURN Lavin
+1 SEX M
+1 FAMS @F142@
+1 BIRT
+2 PLAC Mexico, Mexico
+1 DEAT
+2 PLAC Mexico, Mexico
+0 @I372179962285@ INDI
+1 NAME Lidia /Antunes/
+2 GIVN Lidia
+2 SURN Antunes
+1 SEX F
+1 FAMS @F21@
+0 @I372179962328@ INDI
+1 NAME Lino /Delgado/
+2 GIVN Lino
+2 SURN Delgado
+1 SEX M
+1 FAMS @F21@
+1 BIRT
+2 PLAC Mexico
+1 DEAT
+2 PLAC Mexico
+0 @I372223918164@ INDI
+1 NAME Joseph /Brimberry/
+2 GIVN Joseph
+2 SURN Brimberry
+2 SOUR @S1402009691@
+3 _APID 1,60984::774736
+2 SOUR @S1402009816@
+3 _APID 1,61370::1351279174
+2 SOUR @S1394132693@
+3 _APID 1,60525::58969462
+2 SOUR @S1402009816@
+3 _APID 1,61370::1351277857
+1 SEX M
+1 FAMC @F30@
+1 FAMS @F31@
+1 FAMS @F16@
+1 BIRT
+2 DATE ca. 1814
+2 PLAC Kentucky; or likely near Vincennes, Indiana (now Illinois); on the Wabash River
+2 SOUR @S1394132693@
+3 _APID 1,60525::58969462
+1 DEAT
+2 DATE November 1865
+2 PLAC likely Pixley, Clay County, Illinois; possibly Crawford County, Illinois
+2 SOUR @S1394132693@
+3 _APID 1,60525::58969462
+1 BURI
+2 PLAC Crawford County, Illinois, United States of America
+2 SOUR @S1394132693@
+3 _APID 1,60525::58969462
+0 @I372223918917@ INDI
+1 NAME Mary /Brimbery/
+2 GIVN Mary
+2 SURN Brimbery
+2 SOUR @S1402009816@
+3 _APID 1,61370::901279174
+1 SEX F
+1 FAMC @F31@
+1 BIRT
+2 DATE abt 1862
+2 SOUR @S1402009816@
+3 _APID 1,61370::901279174
+0 @I372223919014@ INDI
+1 NAME Jane /Brimberry-Brashear/
+2 GIVN Jane
+2 SURN Brimberry-Brashear
+2 SOUR @S1394132693@
+3 _APID 1,60525::90742854
+1 FAMS @F30@
+1 BIRT
+2 DATE February 1779
+2 PLAC Cumberland County, Pennsylvania, United States of America
+2 SOUR @S1394132693@
+3 _APID 1,60525::90742854
+1 DEAT
+2 DATE 14 February 1849
+2 PLAC Crawford County, Illinois, United States of America
+2 SOUR @S1394132693@
+3 _APID 1,60525::90742854
+1 BURI
+2 PLAC Heathsville, Crawford County, Illinois, United States of America
+2 SOUR @S1394132693@
+3 _APID 1,60525::90742854
+0 @I372223919019@ INDI
+1 NAME John /Brimberry/
+2 GIVN John
+2 SURN Brimberry
+2 SOUR @S1394132693@
+3 _APID 1,60525::47333890
+1 FAMC @F31@
+1 BIRT
+2 DATE 12 September 1860
+2 PLAC Illinois, United States of America
+2 SOUR @S1394132693@
+3 _APID 1,60525::47333890
+1 DEAT
+2 DATE 3 March 1937
+2 PLAC Nampa, Canyon County, Idaho, United States of America
+2 SOUR @S1394132693@
+3 _APID 1,60525::47333890
+1 BURI
+2 PLAC Nampa, Canyon County, Idaho, United States of America
+2 SOUR @S1394132693@
+3 _APID 1,60525::47333890
+0 @I372223919118@ INDI
+1 NAME Clarissa /Fuller/
+2 GIVN Clarissa
+2 SURN Fuller
+2 SOUR @S1402009691@
+3 _APID 1,60984::1220346
+2 SOUR @S1402010963@
+3 PAGE Year: 1850; Census Place: Franklin, Crawford, Illinois; Roll: 104; Page: 231B
+3 _APID 1,8054::16143133
+1 SEX F
+1 FAMS @F17@
+1 FAMS @F16@
+1 BIRT
+2 DATE abt 1814
+2 PLAC Wayne, Indiana
+2 SOUR @S1402010963@
+3 PAGE Year: 1850; Census Place: Franklin, Crawford, Illinois; Roll: 104; Page: 231B
+3 _APID 1,8054::16143133
+1 RESI
+2 DATE 1850
+2 PLAC Franklin, Crawford, Illinois, USA
+2 SOUR @S1402010963@
+3 PAGE Year: 1850; Census Place: Franklin, Crawford, Illinois; Roll: 104; Page: 231B
+3 _APID 1,8054::16143133
+0 @I372223919255@ INDI
+1 NAME Nancy J. /Jones/
+2 GIVN Nancy J.
+2 SURN Jones
+2 SOUR @S1402009691@
+3 _APID 1,60984::1922030
+2 SOUR @S1394132693@
+3 _APID 1,60525::58969611
+1 SEX F
+1 FAMS @F31@
+1 BIRT
+2 DATE 1835
+2 PLAC Kentucky
+1 DEAT
+2 DATE November 1865
+2 PLAC Pixley Township, Clay County, Illinois
+2 SOUR @S1394132693@
+3 _APID 1,60525::58969611
+1 BURI
+2 PLAC Crawford County, Illinois, United States of America
+2 SOUR @S1394132693@
+3 _APID 1,60525::58969611
+0 @I372223919614@ INDI
+1 NAME Jane /Martin/
+2 GIVN Jane
+2 SURN Martin
+2 SOUR @S1394132693@
+3 _APID 1,60525::82230820
+2 SOUR @S1402009816@
+3 _APID 1,61370::901277857
+1 SEX F
+1 FAMC @F31@
+1 FAMS @F73@
+1 BIRT
+2 DATE 15 July 1858
+2 PLAC Crawford County, Illinois, United States of America
+2 SOUR @S1394132693@
+3 _APID 1,60525::82230820
+2 SOUR @S1402009816@
+3 _APID 1,61370::901277857
+1 DEAT
+2 DATE 18 March 1911
+2 PLAC Palestine, Crawford County, Illinois, United States of America
+2 SOUR @S1394132693@
+3 _APID 1,60525::82230820
+1 BURI
+2 PLAC Palestine, Crawford County, Illinois, United States of America
+2 SOUR @S1394132693@
+3 _APID 1,60525::82230820
+0 @I372223923443@ INDI
+1 NAME Winfred S /Martin/
+2 GIVN Winfred S
+2 SURN Martin
+2 SOUR @S1402009816@
+3 _APID 1,61370::1277857
+1 SEX M
+1 FAMS @F73@
+1 BIRT
+2 DATE abt 1858
+2 SOUR @S1402009816@
+3 _APID 1,61370::1277857
+0 @I372223925404@ INDI
+1 NAME William /Fuller/
+2 GIVN William
+2 SURN Fuller
+2 SOUR @S1402009691@
+3 _APID 1,60984::73052
+1 SEX M
+1 FAMS @F17@
+0 @I372223925785@ INDI
+1 NAME Christopher Columbus /Deckard/
+2 GIVN Christopher Columbus
+2 SURN Deckard
+1 SEX M
+1 FAMC @F28@
+1 BIRT
+2 DATE 12 Jun 1858
+2 PLAC Indiana, USA
+1 DEAT
+2 DATE 1932
+2 PLAC Indiana, United States
+1 SOUR @S1395600801@
+2 PAGE Ancestry Family Tree
+2 _APID 12105399681:1030:12042578
+0 @I372223925793@ INDI
+1 NAME Edna A /Steele/
+2 GIVN Edna A
+2 SURN Steele
+1 SEX F
+1 FAMC @F122@
+1 BIRT
+2 DATE 1893
+2 PLAC Indiana, United States
+1 SOUR @S1395600801@
+2 PAGE Ancestry Family Tree
+2 _APID 12105400458:1030:12042578
+0 @I372223925795@ INDI
+1 NAME Jesse /Steele/
+2 GIVN Jesse
+2 SURN Steele
+1 SEX M
+1 FAMC @F122@
+1 BIRT
+2 DATE 1897
+2 PLAC Indiana, United States
+1 SOUR @S1395600801@
+2 PAGE Ancestry Family Tree
+2 _APID 12105400461:1030:12042578
+0 @I372223925796@ INDI
+1 NAME Jesse O. /Steele/
+2 GIVN Jesse O.
+2 SURN Steele
+1 SEX M
+1 FAMC @F122@
+1 BIRT
+2 DATE 02 Jul 1892
+2 PLAC Ind
+1 SOUR @S1395600801@
+2 PAGE Ancestry Family Tree
+2 _APID 260005780637:1030:12042578
+0 @I372223926385@ INDI
+1 NAME James /Bradshaw/
+2 GIVN James
+2 SURN Bradshaw
+2 SOUR @S1402011127@
+3 PAGE The Pantagraph; Publication Date: 6/ Jul/ 2000; Publication Place: Bloomington, Illinois, United States of America; URL: https://www.newspapers.com/image/75419037/?article=7476a6a1-efa7-4b4c-bb3e-0236a720f5d1&focus=0.02294058,0.36709467,0.17864558,
+4 CONC 0.574930
+3 _APID 1,61843::432500761
+1 SEX M
+1 FAMC @F84@
+0 @I372223926410@ INDI
+1 NAME Ted A /Bradshaw/
+2 GIVN Ted A
+2 SURN Bradshaw
+2 SOUR @S1402011108@
+3 _APID 1,1732::374395044
+2 SOUR @S1402011108@
+3 _APID 1,1732::158235406
+2 SOUR @S1402011127@
+3 PAGE The Pantagraph; Publication Date: 6/ Jul/ 2000; Publication Place: Bloomington, Illinois, United States of America; URL: https://www.newspapers.com/image/75419037/?article=7476a6a1-efa7-4b4c-bb3e-0236a720f5d1&focus=0.02294058,0.36709467,0.17864558,
+4 CONC 0.574930
+3 _APID 1,61843::432588654
+1 SEX M
+1 FAMC @F84@
+1 BIRT
+2 DATE 9 Nov 1948
+2 SOUR @S1402011108@
+3 _APID 1,1732::374395044
+2 SOUR @S1402011108@
+3 _APID 1,1732::158235406
+1 RESI
+2 PLAC Tempe, Arizona, USA
+2 SOUR @S1402011108@
+3 _APID 1,1732::374395044
+2 SOUR @S1402011108@
+3 _APID 1,1732::158235406
+0 @I372223926419@ INDI
+1 NAME Gary /Bradshaw/
+2 GIVN Gary
+2 SURN Bradshaw
+2 SOUR @S1402011127@
+3 PAGE The Pantagraph; Publication Date: 6/ Jul/ 2000; Publication Place: Bloomington, Illinois, United States of America; URL: https://www.newspapers.com/image/75419037/?article=7476a6a1-efa7-4b4c-bb3e-0236a720f5d1&focus=0.02294058,0.36709467,0.17864558,
+4 CONC 0.574930
+3 _APID 1,61843::432667988
+2 SOUR @S1402011108@
+3 _APID 1,1732::57636812
+1 SEX M
+1 FAMC @F84@
+1 BIRT
+2 DATE 21 Aug 1959
+2 SOUR @S1402011108@
+3 _APID 1,1732::57636812
+1 RESI
+2 PLAC Buckley, Illinois, USA
+2 SOUR @S1402011108@
+3 _APID 1,1732::57636812
+0 @I372223926444@ INDI
+1 NAME Judith Ann /Skates/
+2 GIVN Judith Ann
+2 SURN Skates
+2 SOUR @S1402011127@
+3 PAGE The Pantagraph; Publication Date: 6/ Jul/ 2000; Publication Place: Bloomington, Illinois, United States of America; URL: https://www.newspapers.com/image/75419037/?article=7476a6a1-efa7-4b4c-bb3e-0236a720f5d1&focus=0.02294058,0.36709467,0.17864558,
+4 CONC 0.574930
+3 _APID 1,61843::432141239
+2 SOUR @S1402011144@
+3 _APID 1,1788::91041499
+1 SEX F
+1 FAMC @F84@
+1 BIRT
+2 DATE 6 Jan 1942
+2 SOUR @S1402011144@
+3 _APID 1,1788::91041499
+1 RESI
+2 DATE 1981
+2 PLAC Sterling, IL
+2 SOUR @S1402011144@
+3 _APID 1,1788::91041499
+1 RESI
+2 DATE 1993
+2 PLAC Rock Falls, IL
+2 SOUR @S1402011144@
+3 _APID 1,1788::91041499
+1 RESI
+2 PLAC Rock Falls, IL
+2 SOUR @S1402011144@
+3 _APID 1,1788::91041499
+0 @I372223926468@ INDI
+1 NAME Denise /Fogle/
+2 GIVN Denise
+2 SURN Fogle
+2 SOUR @S1402011127@
+3 PAGE The Pantagraph; Publication Date: 6/ Jul/ 2000; Publication Place: Bloomington, Illinois, United States of America; URL: https://www.newspapers.com/image/75419037/?article=7476a6a1-efa7-4b4c-bb3e-0236a720f5d1&focus=0.02294058,0.36709467,0.17864558,
+4 CONC 0.574930
+3 _APID 1,61843::432356011
+2 SOUR @S1402011144@
+3 _APID 1,1788::34794836
+1 SEX F
+1 FAMC @F84@
+1 BIRT
+2 DATE 6 Dec 1950
+2 SOUR @S1402011144@
+3 _APID 1,1788::34794836
+1 RESI
+2 DATE 1987
+2 PLAC Tallahassee, FL
+2 SOUR @S1402011144@
+3 _APID 1,1788::34794836
+1 RESI
+2 DATE 1993
+2 PLAC Tallahassee, FL
+2 SOUR @S1402011144@
+3 _APID 1,1788::34794836
+0 @I372499502757@ INDI
+1 NAME Jacob /Brimberry/
+2 GIVN Jacob
+2 SURN Brimberry
+1 SEX M
+1 FAMS @F30@
+1 BIRT
+2 DATE 1768
+2 PLAC Christiana, New Castle County, Delaware, United States
+1 DEAT
+2 DATE 1820
+2 PLAC Between Illinois & Louisiana (flatboat Accident) See story
+1 OBJE @O33@
+2 _PRIM Y
+1 OBJE @O12@
+0 @F1@ FAM
+1 HUSB @I372179854843@
+1 WIFE @I372179854856@
+1 CHIL @I372179854823@
+0 @F2@ FAM
+1 HUSB @I372179961921@
+1 WIFE @I372179961850@
+1 CHIL @I372179961796@
+0 @F3@ FAM
+1 HUSB @I372170628931@
+1 WIFE @I372170628948@
+1 CHIL @I372170628742@
+0 @F4@ FAM
+1 HUSB @I372170620739@
+1 WIFE @I372170620761@
+1 CHIL @I372170620661@
+0 @F5@ FAM
+1 HUSB @I372170627889@
+1 WIFE @I372170627392@
+1 CHIL @I372170627222@
+0 @F6@ FAM
+1 HUSB @I372179855331@
+1 WIFE @I372179855302@
+1 CHIL @I372179855099@
+0 @F7@ FAM
+1 HUSB @I372170617612@
+1 WIFE @I372170617690@
+1 CHIL @I372170629647@
+1 CHIL @I372170617485@
+1 CHIL @I372170629529@
+0 @F8@ FAM
+1 HUSB @I372179854777@
+1 WIFE @I372179854823@
+1 CHIL @I372170620761@
+0 @F9@ FAM
+1 HUSB @I372179853288@
+1 WIFE @I372179853317@
+1 CHIL @I372179852684@
+0 @F10@ FAM
+1 HUSB @I372179852783@
+1 WIFE @I372179852760@
+1 CHIL @I372170621841@
+0 @F11@ FAM
+1 HUSB @I372179859439@
+1 WIFE @I372179859419@
+1 CHIL @I372179859325@
+0 @F12@ FAM
+1 HUSB @I372179860463@
+1 WIFE @I372179860437@
+1 CHIL @I372179860387@
+0 @F13@ FAM
+1 HUSB @I372170627410@
+1 WIFE @I372170627426@
+1 CHIL @I372170627392@
+0 @F14@ FAM
+1 HUSB @I372179855875@
+1 WIFE @I372179855854@
+1 CHIL @I372179855818@
+0 @F15@ FAM
+1 HUSB @I372170621743@
+1 WIFE @I372170621777@
+1 CHIL @I372170617559@
+0 @F16@ FAM
+1 HUSB @I372223918164@
+1 WIFE @I372223919118@
+1 CHIL @I372170621743@
+0 @F17@ FAM
+1 HUSB @I372223925404@
+1 WIFE @I372223919118@
+1 MARR
+2 DATE 28 Apr 1830
+2 PLAC Crawford, Illinois, USA
+2 SOUR @S1402009691@
+3 _APID 1,60984::73052
+0 @F18@ FAM
+1 HUSB @I372179853271@
+1 WIFE @I372179853248@
+1 CHIL @I372179853227@
+0 @F19@ FAM
+1 HUSB @I372179961812@
+1 WIFE @I372179961796@
+1 CHIL @I372179961780@
+0 @F20@ FAM
+1 HUSB @I372179850666@
+1 WIFE @I372179850715@
+1 CHIL @I372179850641@
+0 @F21@ FAM
+1 HUSB @I372179962328@
+1 WIFE @I372179962285@
+1 CHIL @I372170617690@
+0 @F22@ FAM
+1 HUSB @I372179934170@
+1 WIFE @I372179934155@
+1 CHIL @I372179863937@
+0 @F23@ FAM
+1 HUSB @I372179855838@
+1 WIFE @I372179855818@
+1 CHIL @I372170620725@
+0 @F24@ FAM
+1 HUSB @I372179861005@
+1 WIFE @I372179860958@
+1 CHIL @I372179860656@
+0 @F25@ FAM
+1 HUSB @I372170617727@
+1 WIFE @I372170617740@
+1 CHIL @I372157460751@
+1 CHIL @I372170622518@
+1 CHIL @I372170622522@
+1 CHIL @I372170622520@
+0 @F26@ FAM
+1 HUSB @I372179854278@
+1 WIFE @I372179854237@
+1 CHIL @I372179854055@
+0 @F27@ FAM
+1 HUSB @I372179852740@
+1 WIFE @I372179852715@
+1 CHIL @I372170621852@
+0 @F28@ FAM
+1 HUSB @I372170621814@
+1 WIFE @I372170621830@
+1 CHIL @I372223925785@
+1 CHIL @I372170620074@
+1 MARR
+2 DATE 09 Aug 1855
+2 PLAC Lawrence, Indiana
+0 @F29@ FAM
+1 HUSB @I372179851265@
+1 WIFE @I372179851212@
+1 CHIL @I372179851158@
+0 @F30@ FAM
+1 HUSB @I372499502757@
+1 WIFE @I372223919014@
+1 CHIL @I372223918164@
+0 @F31@ FAM
+1 HUSB @I372223918164@
+1 WIFE @I372223919255@
+1 CHIL @I372223919614@
+1 CHIL @I372223919019@
+1 CHIL @I372223918917@
+1 MARR
+2 DATE 12 Nov 1857
+2 PLAC Crawford, Illinois, USA
+2 SOUR @S1402009691@
+3 _APID 1,60984::774736
+0 @F32@ FAM
+1 HUSB @I372179852213@
+1 WIFE @I372179852192@
+1 CHIL @I372179850492@
+0 @F33@ FAM
+1 HUSB @I372179862971@
+1 WIFE @I372179862919@
+1 CHIL @I372179862796@
+0 @F34@ FAM
+1 HUSB @I372179856297@
+1 WIFE @I372179856317@
+1 CHIL @I372179856162@
+0 @F35@ FAM
+1 HUSB @I372179860387@
+1 WIFE @I372179860372@
+1 CHIL @I372179860269@
+0 @F36@ FAM
+1 HUSB @I372170627858@
+1 WIFE @I372170627869@
+1 CHIL @I372170627426@
+0 @F37@ FAM
+1 HUSB @I372179853227@
+1 WIFE @I372179853113@
+1 CHIL @I372179852638@
+0 @F38@ FAM
+1 HUSB @I372170626838@
+1 WIFE @I372170626857@
+1 CHIL @I372170626795@
+0 @F39@ FAM
+1 HUSB @I372179961772@
+1 WIFE @I372179961759@
+1 CHIL @I372170628785@
+0 @F40@ FAM
+1 HUSB @I372170620715@
+1 WIFE @I372170620725@
+1 CHIL @I372170620647@
+0 @F41@ FAM
+1 HUSB @I372179851327@
+1 WIFE @I372179851158@
+1 CHIL @I372179851107@
+0 @F42@ FAM
+1 HUSB @I372179862421@
+1 WIFE @I372179862361@
+1 CHIL @I372179861660@
+0 @F43@ FAM
+1 HUSB @I372179859867@
+1 WIFE @I372179859816@
+1 CHIL @I372179859799@
+0 @F44@ FAM
+1 HUSB @I372170628902@
+1 WIFE @I372170628919@
+1 CHIL @I372170628846@
+0 @F45@ FAM
+1 HUSB @I372170628902@
+1 WIFE @I372170629018@
+1 MARR
+2 PLAC England
+0 @F46@ FAM
+1 HUSB @I372179934623@
+1 WIFE @I372179934591@
+1 CHIL @I372170626838@
+0 @F47@ FAM
+1 HUSB @I372179863937@
+1 WIFE @I372179863856@
+1 CHIL @I372179862296@
+0 @F48@ FAM
+1 HUSB @I372179853199@
+1 WIFE @I372179853159@
+1 CHIL @I372179853113@
+0 @F49@ FAM
+1 HUSB @I372179856782@
+1 WIFE @I372179856716@
+1 CHIL @I372179856507@
+0 @F50@ FAM
+1 HUSB @I372179852684@
+1 WIFE @I372179852638@
+1 CHIL @I372170621814@
+0 @F51@ FAM
+1 HUSB @I372179856242@
+1 WIFE @I372179856205@
+1 CHIL @I372179855935@
+0 @F52@ FAM
+1 HUSB @I372170628045@
+1 WIFE @I372170628066@
+1 CHIL @I372170628028@
+1 MARR
+2 DATE 24 Oct 1656
+2 PLAC Carrickfergus, County Armagh, Ireland
+0 @F53@ FAM
+1 HUSB @I372179851107@
+1 WIFE @I372179850948@
+1 CHIL @I372179850452@
+0 @F54@ FAM
+1 HUSB @I372170620891@
+1 WIFE @I372170620913@
+1 CHIL @I372170617727@
+0 @F55@ FAM
+1 HUSB @I372179850539@
+1 WIFE @I372179850598@
+1 CHIL @I372179850409@
+0 @F56@ FAM
+1 HUSB @I372170623441@
+1 WIFE @I372170623447@
+1 CHIL @I372170623163@
+0 @F57@ FAM
+1 HUSB @I372179859799@
+1 WIFE @I372179859714@
+1 CHIL @I372179859601@
+0 @F58@ FAM
+1 HUSB @I372179934552@
+1 WIFE @I372179934537@
+1 CHIL @I372170626857@
+0 @F59@ FAM
+1 HUSB @I372179860312@
+1 WIFE @I372179860269@
+1 CHIL @I372179856242@
+0 @F60@ FAM
+1 HUSB @I372179859778@
+1 WIFE @I372179859758@
+1 CHIL @I372179859714@
+0 @F61@ FAM
+1 HUSB @I372170620922@
+1 WIFE @I372170620934@
+1 CHIL @I372170620913@
+1 CHIL @I372170621429@
+0 @F62@ FAM
+1 HUSB @I372179862852@
+1 WIFE @I372179862825@
+1 CHIL @I372179862732@
+0 @F63@ FAM
+1 HUSB @I372179861327@
+1 WIFE @I372179861301@
+1 CHIL @I372179861145@
+0 @F64@ FAM
+1 HUSB @I372179851058@
+1 WIFE @I372179851029@
+1 CHIL @I372179850948@
+0 @F65@ FAM
+1 HUSB @I372179852598@
+1 WIFE @I372179852548@
+1 CHIL @I372170621830@
+0 @F66@ FAM
+1 HUSB @I372179933495@
+1 WIFE @I372179933475@
+1 CHIL @I372179863812@
+0 @F67@ FAM
+1 HUSB @I372179856698@
+1 WIFE @I372179856682@
+1 CHIL @I372179856650@
+0 @F68@ FAM
+1 HUSB @I372179856162@
+1 WIFE @I372179855970@
+1 CHIL @I372179855854@
+0 @F69@ FAM
+1 HUSB @I372170621841@
+1 WIFE @I372170621852@
+1 CHIL @I372170620065@
+0 @F70@ FAM
+1 HUSB @I372170629013@
+1 WIFE @I372170629015@
+1 CHIL @I372170628902@
+1 CHIL @I372170629134@
+1 MARR
+2 DATE 1417
+2 PLAC England
+0 @F71@ FAM
+1 HUSB @I372179863338@
+1 WIFE @I372179863317@
+1 CHIL @I372179863186@
+0 @F72@ FAM
+1 HUSB @I372179855663@
+1 WIFE @I372179855567@
+1 CHIL @I372179855534@
+0 @F73@ FAM
+1 HUSB @I372223923443@
+1 WIFE @I372223919614@
+1 MARR
+2 DATE 5 Feb 1879
+2 PLAC Crawford, Illinois, USA
+2 SOUR @S1402009816@
+3 _APID 1,61370::1277857
+0 @F74@ FAM
+1 HUSB @I372179862296@
+1 WIFE @I372179861789@
+1 CHIL @I372170622194@
+0 @F75@ FAM
+1 HUSB @I372170628514@
+1 WIFE @I372170628529@
+1 CHIL @I372170628342@
+1 MARR
+2 DATE 1570
+2 PLAC Lancashire, England
+0 @F76@ FAM
+1 HUSB @I372170628028@
+1 WIFE @I372170628029@
+1 CHIL @I372170627889@
+0 @F77@ FAM
+1 HUSB @I372179861764@
+1 WIFE @I372179861725@
+1 CHIL @I372170620922@
+0 @F78@ FAM
+1 HUSB @I372179863812@
+1 WIFE @I372179863799@
+1 CHIL @I372179861789@
+0 @F79@ FAM
+1 HUSB @I372157460734@
+1 WIFE @I372170617485@
+1 CHIL @I372157460647@
+1 CHIL @I372170619012@
+0 @F80@ FAM
+1 HUSB @I372179856650@
+1 WIFE @I372179856600@
+1 CHIL @I372179856464@
+0 @F81@ FAM
+1 HUSB @I372179862796@
+1 WIFE @I372179862772@
+1 CHIL @I372179862704@
+0 @F82@ FAM
+1 HUSB @I372179853563@
+1 WIFE @I372179853509@
+1 CHIL @I372179853271@
+0 @F83@ FAM
+1 HUSB @I372179855099@
+1 WIFE @I372179855074@
+1 CHIL @I372179855044@
+0 @F84@ FAM
+1 HUSB @I372157460751@
+1 WIFE @I372157460761@
+1 CHIL @I372223926444@
+1 CHIL @I372223926410@
+1 CHIL @I372223926468@
+1 CHIL @I372157460734@
+1 CHIL @I372223926419@
+1 CHIL @I372223926385@
+1 MARR
+2 DATE 6 Jun 1940
+2 PLAC Bloomington, Ind.
+2 SOUR @S1402011127@
+3 PAGE The Pantagraph; Publication Date: 6/ Jul/ 2000; Publication Place: Bloomington, Illinois, United States of America; URL: https://www.newspapers.com/image/75419037/?article=7476a6a1-efa7-4b4c-bb3e-0236a720f5d1&focus=0.02294058,0.36709467,0.17864558,
+4 CONC 0.574930
+3 _APID 1,61843::431828390
+0 @F85@ FAM
+1 HUSB @I372179850492@
+1 WIFE @I372179850470@
+1 CHIL @I372179850328@
+0 @F86@ FAM
+1 HUSB @I372179859682@
+1 WIFE @I372179859669@
+1 CHIL @I372179859560@
+0 @F87@ FAM
+1 HUSB @I372179854020@
+1 WIFE @I372179854055@
+1 CHIL @I372179852760@
+0 @F88@ FAM
+1 HUSB @I372179861225@
+1 WIFE @I372179861207@
+1 CHIL @I372179861101@
+0 @F89@ FAM
+1 HUSB @I372179850452@
+1 WIFE @I372179850409@
+1 CHIL @I372179850363@
+0 @F90@ FAM
+1 HUSB @I372170627222@
+1 WIFE @I372170627197@
+1 CHIL @I372170626866@
+0 @F91@ FAM
+1 HUSB @I372170628219@
+1 WIFE @I372170628220@
+1 CHIL @I372170628045@
+1 MARR
+2 DATE 5 Feb 1604
+2 PLAC Prestwich, St Mary, Lancashire, England
+0 @F92@ FAM
+1 HUSB @I372179863235@
+1 WIFE @I372179863214@
+1 CHIL @I372179862852@
+0 @F93@ FAM
+1 HUSB @I372179855044@
+1 WIFE @I372179855011@
+1 CHIL @I372179854936@
+0 @F94@ FAM
+1 HUSB @I372179862732@
+1 WIFE @I372179862704@
+1 CHIL @I372179861764@
+0 @F95@ FAM
+1 HUSB @I372170629132@
+1 WIFE @I372170629133@
+1 CHIL @I372170629013@
+1 MARR
+2 PLAC England
+0 @F96@ FAM
+1 HUSB @I372179860656@
+1 WIFE @I372179860629@
+1 CHIL @I372179860559@
+0 @F97@ FAM
+1 HUSB @I372179861692@
+1 WIFE @I372179861660@
+1 CHIL @I372170620934@
+0 @F98@ FAM
+1 HUSB @I372179855534@
+1 WIFE @I372179855490@
+1 CHIL @I372179855331@
+0 @F99@ FAM
+1 HUSB @I372179854993@
+1 WIFE @I372179854936@
+1 CHIL @I372170620739@
+0 @F100@ FAM
+1 HUSB @I372179859601@
+1 WIFE @I372179859560@
+1 CHIL @I372179859487@
+0 @F101@ FAM
+1 HUSB @I372179863186@
+1 WIFE @I372179863156@
+1 CHIL @I372179863088@
+0 @F102@ FAM
+1 HUSB @I372179851417@
+1 WIFE @I372179851368@
+1 CHIL @I372179851327@
+0 @F103@ FAM
+1 HUSB @I372179861145@
+1 WIFE @I372179861101@
+1 CHIL @I372179860463@
+0 @F104@ FAM
+1 HUSB @I372179850328@
+1 WIFE @I372179850363@
+1 CHIL @I372170621777@
+0 @F105@ FAM
+1 HUSB @I372179856507@
+1 WIFE @I372179856464@
+1 CHIL @I372179855875@
+0 @F106@ FAM
+1 HUSB @I372170622150@
+1 WIFE @I372170622194@
+1 CHIL @I372170620891@
+1 MARR
+2 DATE 27 Jan 1852
+2 PLAC Edwards, Illinois, United States
+0 @F107@ FAM
+1 HUSB @I372179934842@
+1 WIFE @I372179934815@
+1 CHIL @I372170628066@
+0 @F108@ FAM
+1 HUSB @I372179860606@
+1 WIFE @I372179860589@
+1 CHIL @I372179860510@
+0 @F109@ FAM
+1 HUSB @I372179860075@
+1 WIFE @I372179860053@
+1 CHIL @I372179860016@
+0 @F110@ FAM
+1 HUSB @I372170617577@
+1 WIFE @I372170617559@
+1 CHIL @I372157460761@
+0 @F111@ FAM
+1 HUSB @I372170628846@
+1 WIFE @I372170628799@
+1 CHIL @I372170628740@
+1 MARR
+2 DATE 1509
+2 PLAC Aspull Lancashire Cheshire, Cheshire, England
+0 @F112@ FAM
+1 HUSB @I372170626785@
+1 WIFE @I372170626795@
+1 CHIL @I372170623108@
+0 @F113@ FAM
+1 HUSB @I372170620647@
+1 WIFE @I372170620661@
+1 CHIL @I372170617740@
+0 @F114@ FAM
+1 HUSB @I372179859011@
+1 WIFE @I372179858972@
+1 CHIL @I372179856698@
+0 @F115@ FAM
+1 HUSB @I372179934276@
+1 WIFE @I372179934235@
+1 CHIL @I372179934192@
+0 @F116@ FAM
+1 HUSB @I372170628342@
+1 WIFE @I372170628267@
+1 CHIL @I372170628219@
+1 MARR
+2 DATE 1583
+2 PLAC England
+0 @F117@ FAM
+1 HUSB @I372179860559@
+1 WIFE @I372179860510@
+1 CHIL @I372179860312@
+0 @F118@ FAM
+1 HUSB @I372179863088@
+1 WIFE @I372179863045@
+1 CHIL @I372179862825@
+0 @F119@ FAM
+1 HUSB @I372179862577@
+1 WIFE @I372179862546@
+1 CHIL @I372179861692@
+0 @F120@ FAM
+1 HUSB @I372170628740@
+1 WIFE @I372170628742@
+1 CHIL @I372170628849@
+1 CHIL @I372170628514@
+1 MARR
+2 DATE 1515
+2 PLAC England
+1 MARR
+2 DATE Bet. 1515–1563
+1 MARR
+2 DATE Abt 1520
+2 PLAC England
+1 MARR
+2 DATE 1538
+2 PLAC England
+1 MARR
+2 PLAC England
+0 @F121@ FAM
+1 HUSB @I372170623108@
+1 WIFE @I372170623128@
+1 CHIL @I372170622150@
+1 MARR
+2 DATE 1826
+2 PLAC Wayne Co., IL, USA
+1 MARR
+2 DATE 1886
+0 @F122@ FAM
+1 HUSB @I372170620065@
+1 WIFE @I372170620074@
+1 CHIL @I372170617577@
+1 CHIL @I372223925796@
+1 CHIL @I372223925793@
+1 CHIL @I372223925795@
+1 MARR
+2 DATE 1879
+0 @F123@ FAM
+1 HUSB @I372170627771@
+1 WIFE @I372170627753@
+1 CHIL @I372170627410@
+0 @F124@ FAM
+1 HUSB @I372179859487@
+1 WIFE @I372179859459@
+1 CHIL @I372179859419@
+0 @F125@ FAM
+1 HUSB @I372170623138@
+1 WIFE @I372170623163@
+1 CHIL @I372170623128@
+1 MARR
+2 DATE Bet. 1785–1790
+2 PLAC Frederick Parish, Virginia, USA
+0 @F126@ FAM
+1 HUSB @I372170628784@
+1 WIFE @I372170628785@
+1 CHIL @I372170628529@
+0 @F127@ FAM
+1 WIFE @I372179854091@
+1 CHIL @I372179853809@
+0 @F128@ FAM
+1 HUSB @I372179863965@
+1 CHIL @I372179863799@
+0 @F129@ FAM
+1 WIFE @I372179853624@
+1 CHIL @I372179853563@
+0 @F130@ FAM
+1 HUSB @I372179962160@
+1 CHIL @I372179961850@
+0 @F131@ FAM
+1 WIFE @I372170628953@
+1 CHIL @I372170628931@
+0 @F132@ FAM
+1 HUSB @I372179855226@
+1 CHIL @I372179855074@
+0 @F133@ FAM
+1 WIFE @I372179853366@
+1 CHIL @I372179853288@
+0 @F134@ FAM
+1 WIFE @I372179861075@
+1 CHIL @I372179860437@
+0 @F135@ FAM
+1 HUSB @I372179934192@
+1 CHIL @I372179934170@
+0 @F136@ FAM
+1 WIFE @I372179862512@
+1 CHIL @I372179862492@
+0 @F137@ FAM
+1 HUSB @I372179862670@
+1 CHIL @I372179861725@
+0 @F138@ FAM
+1 WIFE @I372179853032@
+1 CHIL @I372179852995@
+0 @F139@ FAM
+1 HUSB @I372179853683@
+1 CHIL @I372179853248@
+0 @F140@ FAM
+1 WIFE @I372179853854@
+1 CHIL @I372179852740@
+0 @F141@ FAM
+1 HUSB @I372179854301@
+1 CHIL @I372179854020@
+0 @F142@ FAM
+1 HUSB @I372179962260@
+1 CHIL @I372170617612@
+0 @F143@ FAM
+1 HUSB @I372179852235@
+1 CHIL @I372179852213@
+0 @F144@ FAM
+1 HUSB @I372179855115@
+1 CHIL @I372179855011@
+0 @F145@ FAM
+1 HUSB @I372179853809@
+1 CHIL @I372179852715@
+0 @F146@ FAM
+1 WIFE @I372179856357@
+1 CHIL @I372179856297@
+0 @F147@ FAM
+1 HUSB @I372179855145@
+1 CHIL @I372179854993@
+0 @F148@ FAM
+1 HUSB @I372179852995@
+1 CHIL @I372179852944@
+0 @F149@ FAM
+1 WIFE @I372179855898@
+1 CHIL @I372170620715@
+0 @F150@ FAM
+1 HUSB @I372179860016@
+1 CHIL @I372179859867@
+0 @F151@ FAM
+1 HUSB @I372179851906@
+1 CHIL @I372179851417@
+0 @F152@ FAM
+1 HUSB @I372179851984@
+1 CHIL @I372179851906@
+0 @F153@ FAM
+1 WIFE @I372179854488@
+1 CHIL @I372179853683@
+0 @F154@ FAM
+1 HUSB @I372179863275@
+1 CHIL @I372179863156@
+0 @F155@ FAM
+1 WIFE @I372179851861@
+1 CHIL @I372179851368@
+0 @F156@ FAM
+1 WIFE @I372179934444@
+1 CHIL @I372170623441@
+0 @F157@ FAM
+1 HUSB @I372179862492@
+1 CHIL @I372179862361@
+0 @F158@ FAM
+1 HUSB @I372179933544@
+1 CHIL @I372179933533@
+0 @F159@ FAM
+1 HUSB @I372170626866@
+1 CHIL @I372170626785@
+0 @F160@ FAM
+1 HUSB @I372179859325@
+1 CHIL @I372179856205@
+0 @F161@ FAM
+1 WIFE @I372179852944@
+1 CHIL @I372179852598@
+0 @F162@ FAM
+1 HUSB @I372179934301@
+1 CHIL @I372179934260@
+0 @F163@ FAM
+1 HUSB @I372179933533@
+1 CHIL @I372179933495@
+0 @F164@ FAM
+1 WIFE @I372179849787@
+1 CHIL @I372170629018@
+0 @F165@ FAM
+1 HUSB @I372179850641@
+1 CHIL @I372179850539@
+0 @F166@ FAM
+1 HUSB @I372179856845@
+1 CHIL @I372179856682@
+0 @F167@ FAM
+1 HUSB @I372179855185@
+1 CHIL @I372179855145@
+0 @F168@ FAM
+1 HUSB @I372170628505@
+1 CHIL @I372170628267@
+0 @F169@ FAM
+1 HUSB @I372179855935@
+1 CHIL @I372179855898@
+0 @F170@ FAM
+1 HUSB @I372179934260@
+1 CHIL @I372179934235@
+0 @F171@ FAM
+1 HUSB @I372170628806@
+1 CHIL @I372170628799@
+0 @F172@ FAM
+1 WIFE @I372179851634@
+1 CHIL @I372179851265@
+0 @F173@ FAM
+1 WIFE @I372179854865@
+1 CHIL @I372179854856@
+0 @F174@ FAM
+1 HUSB @I372179961780@
+1 CHIL @I372170628784@
+0 @O1@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 913646
+3 _WDTH 1060
+3 _HGHT 1766
+2 TITL Samuel Steele
+1 RIN 05139a21-03d2-4d78-913c-080bd54fdfae
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2020-03-01 05:18:11.000
+1 _USER Bmg3Fueujm76Km6bZuYTiDGnBl2gjinDVBgV8CUk4hdXMw0CW2JzzJ2GAZrXF60P9jGQUR6b8JgMKkqb+DJn1A==
+2 _ENCR 1
+1 _CLON
+2 _TID 14847016
+2 _PID 173594774
+2 _OID 9ff3a862-9d76-4591-8de1-fc60b6326914
+2 _USER CzB+iXVMQoAufy4U8+a6cWXOsWg5up5eKKaVrhj3q8sb/ZPXPVn9dnn3Kbc41uhByoWJZUm8y385i6gJbwG3Fg==
+3 _ENCR 1
+2 _DATE 2013-10-11 20:47:03.000
+1 _ORIG u
+1 _ATL N
+0 @O2@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 12366
+3 _WDTH 250
+3 _HGHT 188
+2 TITL Ridge Cemetery Edwards County Illinois
+1 RIN 07b2852e-0042-477e-a891-54dbcb2a57e1
+1 _DSCR Final resting place of James Glover. RIP
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2020-03-01 05:24:21.000
+1 _USER +sW1ubrzof64XvZlCoPYc5Qy6ChPlYdvdkXredM2UglKMaN0XDH+++WjG/Mz24RAw7WcSHKwYrAYoXayDNbVFQ==
+2 _ENCR 1
+1 _CLON
+2 _TID 17620115
+2 _PID 819236374
+2 _OID 3ff002f6-fc4d-4638-aaeb-9e5632d8dfd7
+2 _USER 7ymu69n6uf22hsjbQMJGV+on5h54lI5pF8RGZc2yKLwHfeVEmMlQMZyZkZ7sLPp+5DTNomSWsjwWPBDud+L9UQ==
+3 _ENCR 1
+2 _DATE 2010-08-03 21:30:50.000
+1 _ORIG u
+1 _ATL N
+0 @O3@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 3286511
+3 _WDTH 2354
+3 _HGHT 2942
+2 TITL IMG_3371.JPG
+1 RIN 0caaba31-aeeb-4736-96d1-4bcfa38b63f4
+1 _CREA 2020-04-04 21:42:15.000
+1 _USER ltKXv/veW29xqcioc1Mj0LjzOjtZNGwxRPNefGkA5ERWrPiXYgqnUlq+bhMl1Op1fQYcEIkxMr7QuBKFMy8uAg==
+2 _ENCR 1
+1 _CLON
+2 _TID 17620115
+2 _PID 535215495
+2 _OID 0569ef1d-b0cd-4c18-81a6-c2ee96efcfae
+2 _USER MyCbCVDTWmoqg+ezupTcE7vCLq4IxGbvFm9ejFJEeV9m8PRNb092q5kTmFXKnOnHo95+YLIZJhwTAIyA4hipJw==
+3 _ENCR 1
+2 _DATE 2016-09-18 01:28:14.000
+1 _ORIG u
+1 _ATL N
+0 @O4@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE headstone
+3 _STYPE jpeg
+3 _SIZE 149357
+3 _WDTH 229
+3 _HGHT 480
+2 TITL Samuel Seaney, buried Seaney Cem
+1 RIN 0dac3efa-f083-4af2-a773-606aa24ca4b4
+1 DATE 2011
+1 PLAC Flat Rock, Crawford, Illinois
+1 _DSCR photo taken by Barbara Ross
+1 _META <metadataxml><cemetery>Seaney Cemetery</cemetery><transcription /><personas><persona><pname>Samuel Seaney</pname><bdate>1781</bdate><bplace>Surry County, North Carolina</bplace><ddate>1866</ddate><dplace>Crawford County, Illinois</dplace></persona>
+2 CONC </personas></metadataxml>
+1 _CREA 2020-04-04 20:43:25.000
+1 _USER 4ym5c+wvGuHc63MW2QT4KcUIBwrQ+MJ+NoETpywaZ779IFDUp0N9xcX+mrgw+gwsciuuAyjhlAUOM/G19gYqnA==
+2 _ENCR 1
+1 _CLON
+2 _TID 16815381
+2 _PID 18000511403
+2 _OID 07f9bfd0-26ea-4daf-9b89-f44bfa8264d1
+2 _USER NH5PWUnlaULNEOy5rNAR9BorDQ1VbFhAXzzsCUr+81ZceV43d6HRiwZJyd5Y/rdkE9jHA3oBZsS79nsDFfUTCw==
+3 _ENCR 1
+2 _DATE 2011-07-18 03:15:50.000
+1 _ORIG u
+1 _ATL N
+0 @O5@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 138025
+3 _WDTH 427
+3 _HGHT 977
+2 TITL Samuel Steele-Original Tin Type Photo Altered
+1 RIN 102661c2-3c10-4d4d-8bbf-eee0ffd4d121
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2020-03-01 05:18:06.000
+1 _USER 3W6EIVGSygTvw4dzOnxJpnjSDezCD9im+nxRsd6ItX40XU6cbQO54qBex7iMA1/nIVdwyu/d+9fbztUG3Fyiyg==
+2 _ENCR 1
+1 _CLON
+2 _TID 14847016
+2 _PID 173594774
+2 _OID 286d85ad-e069-45e2-9039-d761bf13aa16
+2 _USER UoNMAq4zy7nJL9qt7AzLa+ijQDhdNhJQgt7XA0wxGCM+uZz4H2p7LYjqa+bGUouyHERIgHNazTTPXr2rBS4p7g==
+3 _ENCR 1
+2 _DATE 2013-10-11 20:47:00.000
+1 _ORIG u
+1 _ATL N
+0 @O6@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 140535
+3 _WDTH 900
+3 _HGHT 877
+2 TITL Great Philadelphia Wagon Road the Carsons
+1 RIN 10401812-591a-472c-b7af-5972e7f0af0e
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2020-04-05 03:21:11.000
+1 _USER 6zNu5/pDMYk5awNuL70PvF4833p9aFQX98MZjs4aa5W0aqUG4Yy6QZRcujPnK0BgTWpM3JMUSW0fUgKe/4VoXA==
+2 _ENCR 1
+1 _CLON
+2 _TID 34860186
+2 _PID 28114359656
+2 _OID a7e11354-b9b1-4e9c-b808-ea2479837223
+2 _USER umhRdGrPHJbPOBy29z7h1XBRj3oBTt7C5KeqGFx8MKfgA+u6IMpZ955G4OV3ysN4Z7+vGdl7g5yQnvToEHCjrw==
+3 _ENCR 1
+2 _DATE 2015-02-07 21:29:10.000
+1 _ORIG u
+1 _ATL N
+0 @O7@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 12188
+3 _WDTH 110
+3 _HGHT 150
+2 TITL Berry
+1 RIN 10c57f62-0e2f-4049-85dd-4d1a9a77e18d
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2020-04-04 21:27:29.000
+1 _USER Us9UGszz5acQ08FZyyx6RRMH9SMYo4vuYw5a7ZhbUgJ1EeFIT6GhFvukzd2Anwfk8J7LN9sBUnogdwqwf4JKdg==
+2 _ENCR 1
+1 _CLON
+2 _TID 4832349
+2 _PID 6483751364
+2 _OID c13dc590-1bc2-471f-b752-b02abdb4c324
+2 _USER iq5rzqj5TVhbbRl9HrtHHQPcelqRrgw6DHLYYI283b3bzmjI8Qkmn0zeDaqMBT30BIW2iHB6mnu2idRLgeiErQ==
+3 _ENCR 1
+2 _DATE 2015-08-28 10:56:21.000
+1 _ORIG u
+1 _ATL N
+0 @O8@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE other
+3 _STYPE jpeg
+3 _SIZE 507529
+3 _WDTH 1506
+3 _HGHT 1440
+2 TITL Mention of Henry Curtis, Richard Pendergrass and John Cooper Pendergrass
+1 RIN 14962644-31fe-408d-8530-ecef07a87b78
+1 DATE 1820
+1 PLAC Clinton County, Illinois, United States of America
+1 _DSCR From: History of Marion and Clinton Counties, Illinois: With Illustrations Descriptive of the Scenery, and Biographical Sketches of Some of the Prominent Men and Pioneers
+2 CONT American County Histories - IL only
+2 CONT Publisher: Brink, McDonough & Company, 1881
+1 _CREA 2020-04-04 21:57:50.000
+1 _USER tlYt6uktScs23ugyzRo0zfzjOUQym7aDlu4CqbwxBBAc8WMhFkzz8UBbGAPHYSz6tGIps23wKdq2srriT4BDKw==
+2 _ENCR 1
+1 _CLON
+2 _TID 113924190
+2 _PID 260127783084
+2 _OID be91875d-1e01-4011-888d-1c2cd3232ae3
+2 _USER sc8XkiKyp+4IeLm01F13VJrpbrQqImxY4uygJjl2CGNLkczxxyC/ZhWaTHCLxXt362TFeh0LdbYCi2Fs2Y8gEA==
+3 _ENCR 1
+2 _DATE 2019-02-11 17:18:30.000
+1 _ORIG u
+1 _ATL N
+0 @O9@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 29864
+3 _WDTH 250
+3 _HGHT 341
+2 TITL  Mary Ann Lafferty Armstrong
+1 RIN 14f06c71-dff5-4377-a950-f3e6132f8748
+1 DATE 1776
+1 PLAC Fort Defiance, Augusta County, Virginia, USA
+1 _CREA 2020-04-04 21:03:22.000
+1 _USER tpK3e0zeIVAJNdj+AFq5V55CqjlwsfU0uhCRtlVylLkkcF9pkGj/o5nszGIlAhzjSnsSkHTnYt2GuLdPRy/aNA==
+2 _ENCR 1
+1 _CLON
+2 _TID 783576
+2 _PID 220188641401
+2 _OID 9563cfd7-347c-4f52-a020-ef7ba4364ee2
+2 _USER yxQ09d82ht17Z0BtXYF6lCoCBRLQZMYqnaL1Z2L2HDGQO3lCS9PhjX1/XMG01EAmopthVSzfSEfQ7n2uBxa0yg==
+3 _ENCR 1
+2 _DATE 2019-04-06 05:29:47.000
+1 _ORIG u
+2 _URL https://www.findagrave.com/memorial/153034925/mary-ann-armstrong
+1 _ATL N
+0 @O10@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 29656
+3 _WDTH 100
+3 _HGHT 159
+2 TITL Estep Coat of Arms
+1 RIN 17ac7c91-f091-4006-8fba-c83fb2db0bf6
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2020-04-04 20:47:56.000
+1 _USER oYhgZlFYM7zYZG7x9LAyV1worMucZWfxu3EGM1hLHBs8mpelwn/t3igJfld+xKBCUVl0yCyODjG2IrbVV6qJJA==
+2 _ENCR 1
+1 _CLON
+2 _TID 19118242
+2 _PID 952498403
+2 _OID d4a11da3-2ed2-4216-b54f-7a73617f9190
+2 _USER tzC1on9uR1Fp4AiIxWv+ox2BC0YL9aUnSSi2paR+ieUaiNakfGgP7K8gz022X0AFPVEb9eEBxcbdu0X/fSUApQ==
+3 _ENCR 1
+2 _DATE 2010-08-24 03:22:47.000
+1 _ORIG u
+1 _ATL N
+0 @O11@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 3278735
+3 _WDTH 3264
+3 _HGHT 2448
+2 TITL Thomas Black's consent
+1 RIN 1ac941a4-7005-4516-bdab-5ad309598584
+1 DATE 1801
+1 PLAC Woodford, Kentucky, USA
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2020-04-04 21:07:29.000
+1 _USER /RBHE4aAosHL7DrHLde5s4x3ivPqq58MzYSb2+i98vepUkxnasHr6mQHRT++30co5bgmyUToCl3yTjC977/7qg==
+2 _ENCR 1
+1 _CLON
+2 _TID 40727145
+2 _PID 28008954073
+2 _OID 8cc158b1-44a7-4bb3-b1a1-fafae5eeaf38
+2 _USER uam/eHIpxERQ9+BSwT4XwgyFoO0m+pizSsDmFZsxEW6+5cbTgyXK46ABETvnm4Si/FS6NuHt7TuBr0kE9+pa5A==
+3 _ENCR 1
+2 _DATE 2013-12-23 11:10:41.000
+1 _ORIG u
+1 _ATL N
+0 @O12@ OBJE
+1 FILE
+2 FORM htm
+3 TYPE story
+3 _MTYPE story
+3 _STYPE x-inline
+3 _SIZE 2672
+2 TITL Possibly Ambushed by River Pirates
+1 RIN 202153c0-29e9-4a90-bd75-ce961e6afbbb
+1 _META <metadataxml><content><line>&lt;span style="font-family: tahoma, georgia; font-size: 12px"&gt;&lt;p style="margin-: 1em; margin-right: 0px; margin-bottom: 1em; margin-: 0px; line-height: 1.3; padding: 0px"&gt;BIOGRAPHY: From Teresa Townsell, 3318 R
+2 CONC ucker Ave., Everett, WA 98201 thru Barb Dix&lt;/p&gt;&lt;p style="margin-: 1em; margin-right: 0px; margin-bottom: 1em; margin-: 0px; line-height: 1.3; padding: 0px"&gt;Jacob Brimberry joined the military two times. He served in t he War of 1812. Bo
+2 CONC th times his job was to fight Indians. Gay Brimberry shared that Jacob had received a land bounty from his work as a ranger in the War of 1812 and he planned to use this trip to scout out land in Louisiana, claim the land bounty and move his famil
+2 CONC y to Louisiana. It is assumed that he died in 1820 along the Mississippi River, but his body was never recovered. &lt;/p&gt;&lt;p style="margin-: 1em; margin-right: 0px; margin-bottom: 1em; margin-: 0px; line-height: 1.3; padding: 0px"&gt;About 182
+2 CONC 0, Jacob Brimberry was taking a load of grain down the Wabash, then Ohio and then the Mississippi River to Louisiana, where he planned to meet up with his brothers John and Isaac Brimberry at John Brimberry&amp;#39; s home in Ouachita Parish, Louis
+2 CONC iana. Gay shared there was some speculation about what happened when Jacob did not show up in a reasonable time. &lt;/p&gt;&lt;p style="margin-: 1em; margin-right: 0px; margin-bottom: 1em; margin-: 0px; line-height: 1.3; padding: 0px"&gt;John and I
+2 CONC saac Brimberry backtracked up the Mississippi looking for their brother. They were able to trace Jacob to just before Nachez. It was well-known that river pirates preyed on flatboaters when they turned the bend at the Devil&amp;#39;s Teacup near Na
+2 CONC chez. With that knowledge and no signs of an accident, like pieces of Jacob&amp;#39;s cargo having washed ashore, the brothers and Jacob&amp;#39;s wife, Jane (Cunningham) Brimberry had to assume that river pirates had bushwhacked him. &lt;/p&gt;&lt
+2 CONC ;p style="margin-: 1em; margin-right: 0px; margin-bottom: 1em; margin-: 0px; line-height: 1.3; padding: 0px"&gt;After a time Jane (Cunningham) Brimberry wanted to remarry and/or settle Jacob&amp;#39;s estate. Since she had no way to provide informa
+2 CONC tion to have Jacob declared legally dead she processed the papers needed to file for divorce in 1825. Descendant Marion Brimberry shared that there was only speculation about what happened to Jacob Brimberry on the river, and the divorce record did
+2 CONC n&amp;#39;t give detail about what happened to Jacob, except to state that Jacob had headed down the river to Louisiana and never returned.&lt;/p&gt;&lt;/span&gt;</line></content></metadataxml>
+1 _CREA 2023-07-12 22:13:29.140
+1 _USER xxFM4iDv5MgALgiI3qiopqhxDRXWIM3kwsHG7pfY0FEsp1TPgGrKSUfMTt3dyyGqoyXvJSxjkM3kVFW4AmLemQ==
+2 _ENCR 1
+1 _CLON
+2 _TID 8939595
+2 _PID 900288357
+2 _OID 956b524f-86ae-4d8b-a7e7-92a9a052629f
+2 _USER /ac8O0zg00jXMvEH9KLYA5sBTxLydhQVJlD8L0TKR7gTseFL5U0Ae/r7EhY+jAx0pUFRLAQvVh2sssXLkSTr5w==
+3 _ENCR 1
+2 _DATE 2010-08-09 14:48:47.000
+1 _ORIG u
+1 _MSER
+2 _LKID 956b524f-86ae-4d8b-a7e7-92a9a052629f
+1 _ATL N
+0 @O13@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 331189
+3 _WDTH 1333
+3 _HGHT 2000
+2 TITL 521316347.887075
+1 RIN 22d7bf14-8362-41c5-b8b8-9a59b93015cf
+1 _CREA 2020-03-01 05:25:16.000
+1 _USER gNlDBGzCfw/aAgHYtu+y47puvgObSVLTNeptaJrTaViDoGs94AvsJTVGSUUgUasUn9QVcaVMyELFiKarCzok2g==
+2 _ENCR 1
+1 _CLON
+2 _TID 110950783
+2 _PID 210109146172
+2 _OID 0e0f8992-fc1b-4d63-807c-eba02999a206
+2 _USER +WaPxiKzt4E3EZnJTKFmW/+fm/knqt+gEQK0d8LrAl7ZAu3TJJXX8oxzIyp+XU/+9m+kXrup+6nEY8l6LeVL0g==
+3 _ENCR 1
+2 _DATE 2017-07-09 18:21:32.000
+1 _ORIG u
+1 _ATL N
+0 @O14@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 1613325
+3 _WDTH 1568
+3 _HGHT 2016
+2 TITL Samuel Steele
+1 RIN 243a45a2-e0b5-49b0-bd2b-90e34101e4a9
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2020-03-01 05:16:50.000
+1 _USER LdOGxzxkq8NO4pZmK5+vqgj69heBPrvWZ5up+UclJNEuDSKtzm1+A/gAtX8Wz3PQCWCwnPeHpfA+hqcySNGPiQ==
+2 _ENCR 1
+1 _CLON
+2 _TID 14847016
+2 _PID 173594774
+2 _OID f84bf41e-8280-49d0-88f5-255955366801
+2 _USER zFvA4VuCXuT5sYsRLhfF0DrSznjI0fBTvjDEKAK/GUsqI58rWYUtBCGApWTaYZvdvC/hQXQpg5uO4BFriGFw8g==
+3 _ENCR 1
+2 _DATE 2013-01-29 20:19:17.000
+1 _ORIG u
+1 _ATL N
+0 @O15@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 843385
+3 _WDTH 3865
+3 _HGHT 3130
+2 TITL William Curtis and Hannah Mason Marriage Record
+1 RIN 2c0ab10d-b012-4aa9-90e5-6eb0ad7ba29d
+1 DATE 30 Jun 1831
+1 PLAC Edwards, Illinois, USA
+1 _DSCR https://www.familysearch.org/ark:/61903/3:1:939J-K798-1N?i=120&cc=1803970
+1 _CREA 2020-04-04 21:46:31.000
+1 _USER 3k0uzP5xC8dmA+JkElcHbKa9xmadUjC0LomngbCGfUAuCP5pHbOxEMRyZZdaFw7bfnU4CcfzwTPoBULDJ/1keg==
+2 _ENCR 1
+1 _CLON
+2 _TID 38572272
+2 _PID 19381588952
+2 _OID c2fff25d-0610-425f-b82b-0cf428d0ae33
+2 _USER X9EYimYDLOrYT0d03YBS+a1asWkGQOS9/0EB486eOqX7rmIFCLD7uC9jjAJbI/4g45G8NNI7PRi9TYpGFr1GYw==
+3 _ENCR 1
+2 _DATE 2019-04-07 23:39:54.000
+1 _ORIG u
+1 _ATL N
+0 @O16@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 43120
+3 _WDTH 341
+3 _HGHT 448
+2 TITL Perry William Fuller-Brimberry
+1 RIN 2cd2c6e1-b907-40ea-a78a-2ba4005b7e58
+1 _DSCR Photo of Perry William Brimberry.  His orginal last name was Fuller, but was adopted by Brimberry when he was a child. 
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2020-03-01 05:37:48.000
+1 _USER SA/CNT5i0D/yAypB3ql8S1eTgtEuq/wKDYTBGFRgZHAxjjzbDVm/Dko7tV/bQRy0OXsxKYwz7wzYHhbhH3hCsw==
+2 _ENCR 1
+1 _CLON
+2 _TID 14847016
+2 _PID 173710785
+2 _OID bec06292-4354-4fa7-85d3-072e7510a356
+2 _USER RfL9F4Oj/fCvwdpYliXbROH/zgxyz9c0xD49KQN00zVVXVIwzhJgAHMayU1U10b0crrusfbd2SFLSImA3eipsg==
+3 _ENCR 1
+2 _DATE 2010-10-30 18:27:15.000
+1 _ORIG u
+1 _ATL N
+0 @O17@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 529751
+3 _WDTH 2172
+3 _HGHT 2156
+2 TITL Daniell Seny birth abt 1625, baptism 21Feb1625Foulsham, Norfolk, England1627 S4034148_00356
+1 RIN 31c14f9f-ce76-4789-ac26-94c25b4ffdb2
+1 _DSCR Photo of original baptis record
+1 _CREA 2020-04-04 20:52:24.000
+1 _USER HA1TZSygilSSRr6KbT40gfAm4qDEx80nrV+x5VYe3JoVTbGQfdtG7zXBHnruM6vV3zOnqYj6m4kG8ehsXXFNeQ==
+2 _ENCR 1
+1 _CLON
+2 _TID 106014845
+2 _PID 330059067160
+2 _OID 29532e1e-2adc-46e7-8f16-134bb2c61ca9
+2 _USER pcxYjbzjUiB4etPtkMoToGFevXQvw1FJoMv1LZo3bLmdbC7lQk9gZkCA97hteRPyPpHtPhML8CkZw/euZsf1Hg==
+3 _ENCR 1
+2 _DATE 2018-06-26 20:47:12.000
+1 _ORIG u
+1 _ATL N
+0 @O18@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 8763
+3 _WDTH 250
+3 _HGHT 167
+2 TITL Seany
+1 RIN 3aa38df2-35ae-40dc-82f3-7a4afd810989
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2020-04-04 20:43:10.000
+1 _USER tujAJfJ4Y9rCz8+2GhFofr24k3NTwfPcUgtav/Sc2TKj5QztBi95djsBt5SEhcRPeALCxssK8RpxnaoRMMyygg==
+2 _ENCR 1
+1 _CLON
+2 _TID 27124806
+2 _PID 5003493889
+2 _OID 13b2cd71-a80c-4d30-958e-e969dbfd628f
+2 _USER /7NsseLJNAOJR9/YlAyXNQWYQwkAythmJaEUyoDwugPTHQQ5DYoZVBf34HI3c8cG8K+SD1hjctJWdDP5LsPU0g==
+3 _ENCR 1
+2 _DATE 2013-03-15 00:49:29.000
+1 _ORIG u
+1 _ATL N
+0 @O19@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 3664
+3 _WDTH 150
+3 _HGHT 113
+2 TITL Direct ancestor
+1 RIN 3b65b50b-1667-4118-a17e-862ebfcf3c3f
+1 _CREA 2020-04-04 21:40:07.000
+1 _USER PWuYBuiBIH/RaqfdV37nNq1JCFptvlRJZ+HkF9fiyiakFR314FWO08RrPWEArbaqr3JnH4Oi+Yk8i7l80Ns2UA==
+2 _ENCR 1
+1 _CLON
+2 _TID 69564086
+2 _PID 42450399159
+2 _OID 574e9973-6b5c-4c8c-80d8-666173dbc12b
+2 _USER CnTvegsX0Saoh+jIdF3f7zFT6loUf9kndI/vboAZMS7++RXaiNeOSmQy/EAYSCUifdbSJKIqrS++d+GSR7TNhg==
+3 _ENCR 1
+2 _DATE 2018-01-11 03:32:26.000
+1 _ORIG u
+1 _ATL N
+0 @O20@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 1188010
+3 _WDTH 2550
+3 _HGHT 3300
+2 TITL 23 May 1789 Will 4 Proved this date  Conrad Woushoung
+1 RIN 45f25b60-7f6e-451b-b729-ac996fc1036f
+1 DATE 8/2/2013 11:09:40 AM
+1 _DSCR York County Archives  150 Pleasant Acres Road  York, PA 17402    Volume G, p. 412
+1 _CREA 2020-04-04 20:44:12.000
+1 _USER 4bMM5h+SshTpsuX4hBc840+OWIbfo7n845ki4mbirox+7fl/JSYQuzOz4dBLwKcVKH7y8N5kc0a7xgCk6WPGvQ==
+2 _ENCR 1
+1 _CLON
+2 _TID 2774770
+2 _PID -1261114726
+2 _OID cd12d1f4-e020-4165-b62a-c5aa983a4d46
+2 _USER Ikxsfo+3cOSIPaoQHJPedztsby/CYwvT+izSMtHv4G4woREfGAsMEiCGJe/zXYMbdEEPPYNGUuLBEPSbLNWtPg==
+3 _ENCR 1
+2 _DATE 2016-03-26 21:45:02.000
+1 _ORIG u
+1 _ATL N
+0 @O21@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE png
+3 _SIZE 75944
+3 _WDTH 156
+3 _HGHT 186
+2 TITL 001 coat of arms harrison
+1 RIN 47f02e32-f2c7-480c-94d2-95e33a380b93
+1 _CREA 2020-03-01 06:43:06.000
+1 _USER joAXJ5W0rYZuXxl/YvgcLz4m/wFjdzztZ7mQOfjRUJUDuF16QjhYj9Wbchth75UO3V+TzuoUmIavIROyWcWm4w==
+2 _ENCR 1
+1 _CLON
+2 _TID 34979130
+2 _PID 422069047789
+2 _OID ccb7632a-d035-4ca6-9d2f-bee2ee8f95ef
+2 _USER HUBGxshVt/Yy9ff2T+bXGH+xDceClpeNNz56n8z9bIeyCN0BWBKebTpxLXq5k8a7eyTjxgb580Q4Nugd6CmZbQ==
+3 _ENCR 1
+2 _DATE 2019-01-16 03:23:14.000
+1 _ORIG u
+1 _ATL N
+0 @O22@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 5264
+3 _WDTH 272
+3 _HGHT 185
+2 TITL Ireland
+1 RIN 498e397b-9ab3-4786-8cea-3d27f5836aa5
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2020-04-05 03:21:21.000
+1 _USER oWY7rfl+e5Y6eqHtADVBBtLSo9ARJQLQVlAFUhRT5yqvW8wsCSkzkeRdVA1CoL6OZA/NbIFo+5zk0D5KT1ieDg==
+2 _ENCR 1
+1 _CLON
+2 _TID 59375029
+2 _PID 48047195094
+2 _OID 12adcad3-26ad-4193-b81c-2bf50f264411
+2 _USER pdDwRtGgXJQVBvPi5OEYE8NtvYMh1dJYNmFfZpr8+oouuCrlPrcXzh/uCeNaJktxZbOetL2q82qTu/l+ul8FOA==
+3 _ENCR 1
+2 _DATE 2013-08-13 15:07:02.000
+1 _ORIG u
+1 _ATL N
+0 @O23@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 7317
+3 _WDTH 294
+3 _HGHT 400
+2 TITL DirectAncestorFemale
+1 RIN 4ccef9f8-c0dc-4ac7-8773-4d2dcb06ebd5
+1 _CREA 2020-04-04 21:42:24.000
+1 _USER bWkSM8HkXNaoH1U7pAkISm+YlHreEvDqxEtFoh9xsqo0GWGEycgx9ggmJxfeq/QFbgH3Tg/pW35oYfFMzRPO3w==
+2 _ENCR 1
+1 _CLON
+2 _TID 15791308
+2 _PID 351876134
+2 _OID 8c13cf08-cf5f-4f90-a3d2-db9ee3e5fc44
+2 _USER XymLajXmraOa7lJknJTIoKVZs8C+VBVgpqdby5sDEeO83WRT5yWDQGsk0tPDZy4AOMDLg0mBVcAvHgLndPmoAA==
+3 _ENCR 1
+2 _DATE 2017-01-27 16:25:30.000
+1 _ORIG u
+1 _ATL N
+0 @O24@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 380374
+3 _WDTH 1050
+3 _HGHT 1050
+2 TITL K
+1 RIN 53a50727-1e0c-4471-81dd-dcbc951e79f0
+1 _CREA 2020-04-04 21:14:04.000
+1 _USER +zAHmL+OnCjELXndeaf5iFWn0xioKal3xPcLZVY2Yl9gbqg6cV6xA3vtIBBjWCOyvilVy9U2rXE+BFlaYTrRVQ==
+2 _ENCR 1
+1 _CLON
+2 _TID 18320121
+2 _PID 19197853696
+2 _OID 9a32f2a9-2d00-49d2-833c-08bc2cecb603
+2 _USER n66thAjz8ek/FWWJV/woAeUiVMJ4G3OZ4ywV9KzNfzRA6Uuhbu8WKlOWIjG+scJTvFziLVxP2efmr77ws1KvAA==
+3 _ENCR 1
+2 _DATE 2012-04-16 00:55:06.000
+1 _ORIG u
+1 _ATL N
+0 @O25@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 9787
+3 _WDTH 156
+3 _HGHT 186
+2 TITL COA Bradshaw
+1 RIN 5a1d3f5e-64ad-4973-9e43-1f29023fff7c
+1 _CREA 2020-03-01 06:14:10.000
+1 _USER g3/0WgiEeqO4LC/XCcWVPNJLRLImlbG0iSx5HcLBJZmMJ9/PxgEOYOWtMx1ZrC7PRw8Ouj7e4faHkH3Pi0BpUQ==
+2 _ENCR 1
+1 _CLON
+2 _TID 155517745
+2 _PID 212050175852
+2 _OID cdf0017d-db14-455d-88a1-f2844bc77b88
+2 _USER OBakjYoA+gMSwpYkwCq9jPw/+2Tqwmti5RKXEgnVmEgO8RN7MPbtQswkmZ9awy/Zal1r7utefujmbZHnJnLwxQ==
+3 _ENCR 1
+2 _DATE 2019-01-16 20:38:48.000
+1 _ORIG u
+1 _ATL N
+0 @O26@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE png
+3 _SIZE 730699
+3 _WDTH 1275
+3 _HGHT 1650
+2 TITL Tait pictures 6
+1 RIN 5e64131b-538f-499a-a4d0-8c3551e3e0b1
+1 _CREA 2020-03-01 05:27:39.000
+1 _USER keVfFf4ytxV/Pil2rUd4vhS31Xcr1kOpjzqM/XS50fJfxFf+a7XrpLTaBS8QpJVavrqdxscBfaQCAktxBTXOGg==
+2 _ENCR 1
+1 _CLON
+2 _TID 11845143
+2 _PID 13790128279
+2 _OID 211b0689-107c-437c-b52c-930e1ba0109a
+2 _USER loetiaMp7yEICe83R5vbEvo4aj6n1VVZVlVqFsn5xEfkThbu5LNYD4upRlFOjbLtAd1vODcOnhE/4bGsIBD2CA==
+3 _ENCR 1
+2 _DATE 2013-04-26 22:16:46.000
+1 _ORIG u
+1 _ATL N
+0 @O27@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 4109
+3 _WDTH 160
+3 _HGHT 160
+2 TITL 1- Direct Ancestor
+1 RIN 5f8a63ad-a954-49c6-9648-4c129cdfc6d9
+1 _CREA 2020-03-01 06:22:30.000
+1 _USER tTj49gMnSEqDl0eLiMZkAwFtWia6+SbbjvOa0J/YzOGHfwT51jSeXPva3uv3u81Ws82LqBgIS2bgZPht6ZeX5w==
+2 _ENCR 1
+1 _CLON
+2 _TID 114426856
+2 _PID 362027141497
+2 _OID 9db90f60-7d12-41ea-ae01-517913cac343
+2 _USER Z+SHfTJIUP+EzQ+gQ4U8aziPL5jGSvV6dmdX1ECX4tM8uOGu1p0hRPtE9o1dxyOjiR51B3ZMuiEfydzdtTZheA==
+3 _ENCR 1
+2 _DATE 2018-07-25 05:54:20.000
+1 _ORIG u
+1 _ATL N
+0 @O28@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 21069
+3 _WDTH 240
+3 _HGHT 275
+2 TITL Carey coat of arms
+1 RIN 640547cd-4234-448c-b578-512c52e309af
+1 _CREA 2020-04-04 21:29:04.000
+1 _USER nxODpsP0OoAanrP30XPJPFDfQnSKPdvvT0rXc0ffAuQXM6lEuIY7TOn/wMrsLr8uLU6EW0hgZiXAuwCUaaYeLQ==
+2 _ENCR 1
+1 _CLON
+2 _TID 89432184
+2 _PID 222179157205
+2 _OID 65316ba4-0c70-475e-b7a9-87aa423f45dc
+2 _USER UujgxnGB9oag403rBTTAD9yWw0qsjzL8afHtXD/MYcvrXtujjIKQueSupnEp9rFzg3vqhFdRY8Fs4MWcQtqgFA==
+3 _ENCR 1
+2 _DATE 2020-03-25 20:07:06.000
+1 _ORIG u
+1 _ATL N
+0 @O29@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 3815972
+3 _WDTH 2953
+3 _HGHT 2074
+2 TITL Moses Moore Marriage Bond
+1 RIN 64ff720b-b595-424e-81df-0e5c76760c15
+1 DATE 1801
+1 PLAC Woodford, Kentucky, USA
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2020-04-04 21:06:02.000
+1 _USER 2aycdjp8+2qDKbqi3AIptbUwWWDSc1YPL8mMyX2fudfgQ+FtqfQzrOYlLOh6Xmscgw4EWDAEccK83ot/JCPIRw==
+2 _ENCR 1
+1 _CLON
+2 _TID 40727145
+2 _PID 28008954073
+2 _OID 9493a02c-7472-45a7-8686-22101ab75fb5
+2 _USER K7UVbWYDdPVgg2jnCTyPG5NCU3tCWF6xxgUyYiIGC4hJ9MHlT+OYem3R9YgTGhglRrdohs7eX5G+ebekA37YyA==
+3 _ENCR 1
+2 _DATE 2013-12-23 11:07:37.000
+1 _ORIG u
+1 _ATL N
+0 @O30@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE pjpeg
+3 _SIZE 70379
+3 _WDTH 500
+3 _HGHT 350
+2 TITL Nancy Lewis Steele
+1 RIN 6580f6a4-a833-4115-ae79-b14c95a6c095
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2020-03-01 05:39:10.000
+1 _USER hza//jVeqjSO5WDd+CvFAG+H9Cg22+RKdoIaA7H2C6ZyidPazAntdLTBvQW84SZoRbCc9GM9Ze0FwIOyAv/bJA==
+2 _ENCR 1
+1 _CLON
+2 _TID 961144
+2 _PID 1044487332
+2 _OID 372ea89b-f6ba-431a-9352-5aecfdf5e1f4
+2 _USER knZsJh6gc9zdmdYx9G6I8BPWlpgRKH3QjJpjAZjBxdpVBQBXjfcZD5rH8vashcfjTEFQWHCi2fKTh8r3hOUerg==
+3 _ENCR 1
+2 _DATE 2012-11-27 00:26:30.000
+1 _ORIG u
+1 _ATL N
+0 @O31@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 1156285
+3 _WDTH 1676
+3 _HGHT 2378
+2 TITL Samuel Steele
+1 RIN 6b5e465b-9f2c-493f-8d82-ffcdda945f84
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2020-03-01 05:16:58.000
+1 _USER tZPIOtmGF/LY0orzZhQuWSpZKxZ0owpEDwOdRseFFVHUV3K1QQgDCx2Qiw5OtsxX4tNseUioqgrkeVnQF9Y2gg==
+2 _ENCR 1
+1 _CLON
+2 _TID 14847016
+2 _PID 173594774
+2 _OID 1567061b-36aa-421c-9cc9-12b92992f671
+2 _USER teNfv92RdLILLbuFvmi+WwvrvjErta8/BS8SQ+rqG1tgAexMwwCiN9rV1nzdjKAoU0xfy3RDIZGo7fivSqmT+g==
+3 _ENCR 1
+2 _DATE 2013-01-29 20:26:08.000
+1 _ORIG u
+1 _ATL N
+0 @O32@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE png
+3 _SIZE 372381
+3 _WDTH 1104
+3 _HGHT 1499
+2 TITL IMG_5189.PNG
+1 RIN 6e23e931-7988-4f0a-96a9-c17b713485fd
+1 DATE 5 Mar 2017
+1 _CREA 2020-04-04 21:42:05.000
+1 _USER HsQP7q/aZTYqzhgxNp17qYZoPuYtKx4+QlCX40TwTqvNTusHXuiVdmofauGhRudSj1CGn2RWj/UGb5ZqLaypXA==
+2 _ENCR 1
+1 _CLON
+2 _TID 17620115
+2 _PID 535216064
+2 _OID 9c077290-a38d-40f4-8a90-b2838e713063
+2 _USER 7Bghtq2XfdIfM5LI3vA9cSv3GbO1mhPvbKD30890LnLpxAq6bIO6wKzRQVBHvuNTNhGJqJcX50dXAmGEH/NN0w==
+3 _ENCR 1
+2 _DATE 2017-03-05 15:03:11.000
+1 _ORIG u
+1 _ATL N
+0 @O33@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 14392
+3 _WDTH 250
+3 _HGHT 176
+2 TITL PVT Jacob Brimberry
+1 RIN 6f71817b-f4af-41b6-a703-29231ee24bd7
+1 DATE 1820
+1 _CREA 2023-07-12 22:12:14.928
+1 _USER YXVo85l/aMq2E/P2KoRYY5eqqxbak/Q4zUvkxeNANcQ0UFJWvtxWw3OkmMCR2180AXCOGuRymYjg5ZeT48NQmQ==
+2 _ENCR 1
+1 _CLON
+2 _TID 160016491
+2 _PID 232092566135
+2 _OID 31fd3a47-39ee-4391-9069-702adc9948a8
+2 _USER xHJyTVcViS7IvhpYEFSKeNRoTON+kSuKnAMYsb/EFC0DnBnQVbSH5/v16cDXSdCswvqZmW/8iIO3v5ZpQrtufA==
+3 _ENCR 1
+2 _DATE 2022-04-19 22:56:52.499
+1 _ORIG u
+2 _URL https://www.findagrave.com/memorial/207691458/jacob-brimberry
+1 _MSER
+2 _LKID 31fd3a47-39ee-4391-9069-702adc9948a8
+1 _ATL N
+0 @O34@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 397205
+3 _WDTH 574
+3 _HGHT 919
+2 TITL Marshall Steele and unknown boy on porch Jim?
+1 RIN 6fc4edd2-5ee1-4d68-aabf-f9a644df22ad
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2020-03-01 04:45:36.000
+1 _USER h/QfNDicSmyM/pFz3MGqWTfEqkSQAaDO3q2QjALhnuRCqOKurlEyAw5NhzNM157bF2ukIs+uDJyeQQEz4WGBgQ==
+2 _ENCR 1
+1 _CLON
+2 _TID 14847016
+2 _PID 173586133
+2 _OID f3aa33a5-fd35-4c05-bc30-09a0d8ad7207
+2 _USER ANqR71KcSk3v9aNvXqD1xFjF+wUYkOjRIQ7YawwZi4fVGHN34GqYYZa9M4yW1PS3nfYBhYsAIctZskaLDQotgA==
+3 _ENCR 1
+2 _DATE 2013-01-29 20:37:05.000
+1 _ORIG u
+1 _ATL N
+0 @O35@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 11474960
+3 _WDTH 4000
+3 _HGHT 4000
+2 TITL History of Lawrence & Monroe Counties Indiana usa
+1 RIN 6fcdb3e4-7b7c-4291-97af-f5695ff080e7
+1 _DSCR ancestry
+1 _CREA 2020-04-04 21:04:34.000
+1 _USER eJtQAAtZlpQ4rd2gd+9zMauax+ICl0PfXYxTKSSJ3K5fW9+xALaGDpvVbqNVf/S8qGNUF8aeAZklPq/BphJfKA==
+2 _ENCR 1
+1 _CLON
+2 _TID 104971880
+2 _PID 180045119451
+2 _OID 82646d08-cf80-4015-a67b-975c1c1ac32e
+2 _USER N9knv6qnzSUOX7xq6uSzTLs0HEX3aTopX0SgJJE061TvfZITl7RepnEqFEUxJx2VqRGeC0Zxi3ZLXaje+MCUvg==
+3 _ENCR 1
+2 _DATE 2016-10-24 17:39:57.000
+1 _ORIG u
+1 _ATL N
+0 @O36@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE headstone
+3 _STYPE jpeg
+3 _SIZE 41212
+3 _WDTH 250
+3 _HGHT 211
+2 TITL Owen Seaney
+1 RIN 730d219e-93ef-420d-8ed4-c4528cfad1a4
+1 PLAC Boston, Wayne, Indiana, USA
+1 _DSCR Birth: 	1745
+2 CONT Kent County
+2 CONT Delaware, USA
+2 CONT Death: 	1831
+2 CONT Boston
+2 CONT Wayne County
+2 CONT Indiana, USA
+2 CONT 
+2 CONT In 1954 the remains of Owen & Honor were removed from the family farm they started in 1809 before Indiana was a state. The farm is about 1/4 of a mile southwest of here.
+2 CONT 
+2 CONT Owen WAS NOT a Revolutionary War veteran as some have claimed but he was a Lt. in the Indiana State Militia in 1822.
+2 CONT 
+2 CONT The date of his birth (1745) was not originally on the stone. It was calculated from a statement made by his great-granddaughter Mildred Seaney. In a tribute to her grandfather Samuel she stated Owen's age as 86 when he died. 
+2 CONT  
+2 CONT Family links: 
+2 CONT  Spouse:
+2 CONT   Honor Esteb Seaney (1759 - 1838)*
+2 CONT  
+2 CONT  Children:
+2 CONT   Samuel Seaney (1781 - 1866)*
+2 CONT   Bryant Seaney (1786 - 1836)*
+2 CONT   Jacob Jefferson Seaney (1794 - 1869)*
+2 CONT   Catherine Seaney Brattain (1799 - 1839)*
+2 CONT  
+2 CONT *Calculated relationship
+2 CONT  
+2 CONT Burial:
+2 CONT Boston Cemetery
+2 CONT Boston
+2 CONT Wayne County
+2 CONT Indiana, USA
+1 _META <metadataxml><cemetery>Boston Cemetery</cemetery><transcription /><personas><persona><pname>Lt. Owen Seaney</pname><bdate>1745</bdate><bplace /><ddate>1831</ddate><dplace /></persona></personas></metadataxml>
+1 _CREA 2020-04-04 20:47:10.000
+1 _USER zPB+WmnDGX+2O1EivRDEFhz9mQOb3hNtnYo4k8eHbnNnWYNxlWeOcYkSXYDh1uXASR7FTbzRM3F7O4XfsQENrQ==
+2 _ENCR 1
+1 _CLON
+2 _TID 3015477
+2 _PID 37575427
+2 _OID 9f29eb27-ba9f-45bf-9a4e-952146880048
+2 _USER AybQxAhQMdJU8LGM/Dgjsj893w2AHO2qI8aXG9qWX47xEf2jQNbcluMz0kfkRcShElOO8zenpF/AeEmNvvNitg==
+3 _ENCR 1
+2 _DATE 2012-09-23 02:58:54.000
+1 _ORIG u
+1 _ATL N
+0 @O37@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 183649
+3 _WDTH 449
+3 _HGHT 645
+2 TITL Samuel Steele with Sport
+1 RIN 7642dba9-08fa-4d16-a747-f8b468d87d12
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2020-03-01 05:18:08.000
+1 _USER 5vmGy2BAPOPFdHHYEpcJv0VcheTztxxVS2UYevzjFNMNRRZI4dY4bdctSOaeqRr+6zoBdv18iztJ9460S+aZmA==
+2 _ENCR 1
+1 _CLON
+2 _TID 14847016
+2 _PID 173594774
+2 _OID 5c5611e3-e680-4897-b6cc-ae405cfb2a35
+2 _USER fkA02PeRDXKGABUtVgtSgz/SgTsXitfgAqu2W9Wg/NXeQiVHxngypcQqmLl74/uwXUL+ApI2+FOPqYu5MaXrMw==
+3 _ENCR 1
+2 _DATE 2013-10-11 20:49:37.000
+1 _ORIG u
+1 _ATL N
+0 @O38@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 3464938
+3 _WDTH 3844
+3 _HGHT 2872
+2 TITL 1806 PR Marriage St Stephen Edward Coad-Jane Best
+1 RIN 767b7cdb-92c1-4043-938a-84cecd2b8464
+1 DATE 1806 APR 29
+1 PLAC St. Stephen in Brannel, Cornwall, England
+1 _DSCR Parish Register: "1805" page "6"  "No 22" "Marriage by License between Edward Coad and Jane Best both of this Parish was Solemnized between the Parties on the twenty ninth of April 1806. They were married on the 29 day by me Tho T Furty. This marri
+2 CONC age was solemnized in Presence of : George Truscott & William Truscott.  Edward Coad (signed) sign of Jane Best "
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2020-04-04 21:18:26.000
+1 _USER bXQoBqmlRBnUsnKnQu68aIzBUsEenP8Tjo0T4fvxquF8rwRCIyR46W/9+TvqBA+Zot1vfEv5DR/FKofEAiJNRQ==
+2 _ENCR 1
+1 _CLON
+2 _TID 31420853
+2 _PID 18039762867
+2 _OID a601692f-0eae-4923-9d5e-da6473dfd9de
+2 _USER cqJzM2v4XyDNIotIT2lkOBT392kl0KjJITdiLl8oDEmxlVTWkl3c3FvFa9it8rlw7XA2USRQuG7XLmNOTy1VwA==
+3 _ENCR 1
+2 _DATE 2014-12-25 22:31:38.000
+1 _ORIG u
+1 _ATL N
+0 @O39@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 14048
+3 _WDTH 160
+3 _HGHT 76
+2 TITL Brimberry 1860
+1 RIN 775a923d-bde7-419d-931b-9e7384cda794
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2020-03-01 05:38:13.000
+1 _USER 5GRwtwpCCxTlvNzm2Iq6mUWph+sXD/tr3hFB6VIVz2RwPbi0T0/YZC1rrgOAmgKRtTtz6mzJYoI3OcdAuERKUw==
+2 _ENCR 1
+1 _CLON
+2 _TID 5779482
+2 _PID -1296711463
+2 _OID 2a0957f8-df11-443e-9f6c-670b228ca1b8
+2 _USER llpoqqvqGLrhR/aA/kYxHviq20yGqjLRUdrWxt3UgB7zK+S7RaKdIsi8jFpm4Emi68Wq/kHNIbUtH+iqZbJIKg==
+3 _ENCR 1
+2 _DATE 2012-04-15 19:23:00.000
+1 _ORIG u
+1 _ATL N
+0 @O40@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE place
+3 _STYPE jpeg
+3 _SIZE 14957
+3 _WDTH 330
+3 _HGHT 248
+2 TITL Haigh Hall
+1 RIN 7cba41a9-bbef-477b-8142-601d3971da05
+1 PLAC Haigh, Greater Manchester, Wigan Borough, England
+1 _DSCR Haigh Hall was the seat of the Bradshaw family, and located in Haigh, which adjoins Aspull and Wigan.
+2 CONT Haigh, Greater Manchester, Wigan Borough, England
+1 _CREA 2020-03-01 06:29:55.000
+1 _USER aSp750Dsvig4f/+Ac635+MgJ2/ElrumXMMVRKFJu2VyVrhuTCoUlSG7jILfHW41Ek7qjsWy2dEaiuaZYthWM4w==
+2 _ENCR 1
+1 _CLON
+2 _TID 162027849
+2 _PID 432125515385
+2 _OID 1681beb0-51fa-40af-ba95-409b714b4b62
+2 _USER 84Q7ngEWaY8L5tAx93WNBlb3ouzpGBX8qXjqC8gVOZO+Lzf8cS2B6FiBtFyJ3qdvb5JP4AIcn3DUT0YGK5uOrw==
+3 _ENCR 1
+2 _DATE 2020-02-24 22:24:19.000
+1 _ORIG u
+1 _ATL N
+0 @O41@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 411178
+3 _WDTH 552
+3 _HGHT 552
+2 TITL Robert Bradshaw
+1 RIN 7cd97d55-1abf-4da8-a6b5-18703dd4033e
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2020-03-01 04:53:22.000
+1 _USER V7i1KsN8eKZr1+9P6RHbvWz4N08aby9ypqqp6/jxRBwCtHYUdiv96uglopLG8Ka5U2EhDXuuRDgrBge33Qanrw==
+2 _ENCR 1
+1 _CLON
+2 _TID 14847016
+2 _PID 28028224122
+2 _OID 1b532ba7-7af2-460a-a262-3e399dcbbc7a
+2 _USER rpI9V3yGVYvjtO/DsqyYDjqZezMLRVgo6Bl0pflNoPLEogcXPTVBfvnRg5yvN7fhQx4+a77J+v3V0Qny2R5tHw==
+3 _ENCR 1
+2 _DATE 2015-06-04 08:13:26.000
+1 _ORIG u
+1 _ATL N
+0 @O42@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpg
+3 _SIZE 68679
+3 _WDTH 288
+3 _HGHT 288
+2 TITL Sarah Alice Deckard
+1 RIN 819a88f8-d720-46cf-9712-45f249c6d48c
+1 DATE 7/12/2018 12:33:27 PM
+1 _CREA 2020-09-12 22:25:35.000
+1 _USER Ijq3d1PPJNVO7uiqDk3GPRinqpZta/qKk+mC1AHOkzMh5wB1hWD5zkitBuud2Wq46xOULwfO7oVukChzjXhM+w==
+2 _ENCR 1
+1 _CLON
+2 _TID 30801216
+2 _PID 142018564139
+2 _OID 8eb03992-c42e-4add-992c-67e42e369011
+2 _USER vzeiQac0mCUdLDB3JGb7IR0xDq8pcwYg6sOtEt09QIFmNtlW19MmrS3l430J6EU4sMb42NvQnIcC+zb1Jw+l8g==
+3 _ENCR 1
+2 _DATE 2018-07-13 17:13:35.000
+1 _ORIG u
+1 _ATL N
+0 @O43@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 380374
+3 _WDTH 1050
+3 _HGHT 1050
+2 TITL K
+1 RIN 820d4d97-c42c-41be-bac4-61e5d26ac15f
+1 _CREA 2020-04-04 21:13:53.000
+1 _USER WGk1i/FR35DxLtvoPWchrxf/oMII6iIGnSUNtYc4nJnpoohapNXlMh+Ca7CW/GzEnldx0N83wLyWBMhpLpFeAg==
+2 _ENCR 1
+1 _CLON
+2 _TID 18320121
+2 _PID 1398151026
+2 _OID 938db032-56a0-4b89-a0f0-6d75fc23a093
+2 _USER AVr/MQ4ARk0F+x3jUV6GxPTuxq7doIPDvjL/MsQywv/LWuQtyM5aC5aPAh8wYKQXVTF25+DerdQntxsJq6BMSw==
+3 _ENCR 1
+2 _DATE 2011-01-12 02:44:16.000
+1 _ORIG u
+1 _ATL N
+0 @O44@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 61945
+3 _WDTH 836
+3 _HGHT 501
+2 TITL 5ft-x-3ft-st-georges-cross-charger-cross-of-st.-george-england-flag-100-denier-4723-p
+1 RIN 84de2641-0b4d-4547-bfe4-dd0e20e092e1
+1 _CREA 2020-03-01 06:41:07.000
+1 _USER /8kDRjTl3SzGfHaZktpGscxOmNGPFzp385F68icstDsiOAUyV1BQli8mbgopGp4gOG13kORUgcyPVhLBwXgV9w==
+2 _ENCR 1
+1 _CLON
+2 _TID 159420884
+2 _PID 282098281262
+2 _OID 7a4a2ac5-4970-4d47-a3dc-fce07bf6ac0b
+2 _USER puEuMM2mkoUYe6223gDkwautl42vQROVu589BO5iwBLkEfMigPEhWHb6VR92/VNM+CjE1CSghbwX933GzUFSvA==
+3 _ENCR 1
+2 _DATE 2019-04-24 01:50:36.000
+1 _ORIG u
+1 _ATL N
+0 @O45@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 248989
+3 _WDTH 616
+3 _HGHT 1016
+2 TITL Marshall and Effie Steele-original altered bw
+1 RIN 84f67961-06f4-4e78-a5fd-8f25273fb72b
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2020-03-01 04:45:20.000
+1 _USER Flj6KEEkffvGHGY/9Ney3tNM4NE+VsngaNvHQyFmKI3qE6e0SE28+KWpfiVfqMEGUSE/6wWi2IUnoGG/i8uj0Q==
+2 _ENCR 1
+1 _CLON
+2 _TID 14847016
+2 _PID 173588204
+2 _OID f844cf27-4ff0-4183-a7dc-766641d87d68
+2 _USER 2Iww4UCIn4g1nE/jWzUK4qog5p9/FtFGe3gf3iaNVZyQbKvxc2sUZ73b3SjmTas5Qrhu/EVOZRbg1oCtrDgWtQ==
+3 _ENCR 1
+2 _DATE 2013-10-11 04:25:38.000
+1 _ORIG u
+1 _ATL N
+0 @O46@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 2217943
+3 _WDTH 2000
+3 _HGHT 2778
+2 TITL 1860 US Census - Austin Deckard Family - Guthrie, Marshall Township, Lawrence County, Indiana
+1 RIN 8550cb00-1a04-4ba1-8c03-982a371a4916
+1 DATE 25 Jun 1860
+1 PLAC Guthrie, Marshall County, Indiana
+1 _DSCR Austin and Sarepha have two 2-years olds living with them. Christopher Columbus Deckard age 2 and George W. Covey age 2 near Guthrie, Marshall County, Indiana. [Reseracher: Relationship of Infant Covey to Austin and Sarepha is unknown].
+1 _META <metadataxml><cemetery /><transcription>Austin Deckard - Age 23 - Farmer
+2 CONT Sarepha Deckard - Age 19 [ill]
+2 CONT Christopher Deckard - Age 2
+2 CONT George W. Covey - Age 2</transcription></metadataxml>
+1 _CREA 2020-03-01 05:38:46.000
+1 _USER MD/o1h6A7G2ET5/48itYvMzD+/cpcNQaCSbsuOodmhLXAdSEod+TwRsqvWEhw36Kywj+NZnFUUW5g0Og9BTSOg==
+2 _ENCR 1
+1 _CLON
+2 _TID 18503902
+2 _PID 668442590
+2 _OID f8c3bf4d-4132-4c2b-be4c-790d749529f2
+2 _USER 8zJUBsBiuKf9vOGsRXvcZfjF0tk072Wyl62kl6Pk+krUbJYiWtqlumAIGKiS/q6uKko7Cih6wmEVC/tpTN9lKQ==
+3 _ENCR 1
+2 _DATE 2012-04-28 12:19:10.000
+1 _ORIG u
+1 _ATL N
+0 @O47@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 380374
+3 _WDTH 1050
+3 _HGHT 1050
+2 TITL K
+1 RIN 86523c59-7f99-43ab-9791-6b767d5eb257
+1 _CREA 2020-04-04 21:12:24.000
+1 _USER NT3R/ioP5soNgtpLzrKgjoRSWJ/y0ICt+AH+NSDHzYCCU8QvWJJY+qOxa6AwMwMhpAd2sd/WUSKjoicw8luOvQ==
+2 _ENCR 1
+1 _CLON
+2 _TID 18320121
+2 _PID 651533831
+2 _OID 283d6cbc-d809-4c6d-ad9c-0a65ca50affc
+2 _USER SiF1/OAodcJ1O9YRIsqMoWeJT0TLT7gGYmFSJUw+1L11S8HtrZFZuj5rQ+SPC+Wbqe2wQ59fu4Mo1w4uGt0DCA==
+3 _ENCR 1
+2 _DATE 2011-01-12 02:42:20.000
+1 _ORIG u
+1 _ATL N
+0 @O48@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 10276
+3 _WDTH 220
+3 _HGHT 165
+2 TITL St Erme Church Cornwall England
+1 RIN 8748fa0a-1383-41c7-a949-1e5bea6d00f5
+1 _DSCR Final resting place of Edward Coad and Elizabeth Ann Logan Coad in the St Erme Church Cemetery.
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2020-04-04 21:22:06.000
+1 _USER 0c5jOsehZmnQtUFX7bwGiiVvIQIr/YxOLRjGsCs7FSD4oLA/4DHWdv/Y7yMX57tJstr/lv3eVc9/rUxKPylfxg==
+2 _ENCR 1
+1 _CLON
+2 _TID 17620115
+2 _PID 565726979
+2 _OID 80b6b299-f976-4410-af90-6c222faafcac
+2 _USER 15tirB72lBzoU9DS8RY9io9VtqJcd3NtJOXg0GNyfbi/AMeOvEAQPKPQpXLmDKNP46aMtuXXkMKi7pCCHCZ/pQ==
+3 _ENCR 1
+2 _DATE 2010-07-17 02:53:48.000
+1 _ORIG u
+1 _ATL N
+0 @O49@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 126969
+3 _WDTH 740
+3 _HGHT 800
+2 TITL FriendsMeetingHouse
+1 RIN 8ae1058e-c31c-420c-a4cd-81776eea39ad
+1 PLAC Lancanshire
+1 _CREA 2020-03-01 06:17:01.000
+1 _USER yRhg6V3iJSvgwk/Kx8DL9ccr7lhSgmGYD94Ri+kCaU1/h6n4Xn2stB4JHAZyjvDrFSIL4z6THqEGEG0WeENF0A==
+2 _ENCR 1
+1 _CLON
+2 _TID 156948193
+2 _PID 212075213213
+2 _OID d22533cc-dfa2-4e23-8773-99e299701568
+2 _USER M2CMIqyIlVdM3gSq4u3mcdKVro5/HfU+kgts+9z1/Xh+mOHdsw5qZZVH8c1wYWlCGmw02QJVmpWkNB4270hqOQ==
+3 _ENCR 1
+2 _DATE 2019-03-17 16:44:58.000
+1 _ORIG u
+1 _ATL N
+0 @O50@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 22286
+3 _WDTH 250
+3 _HGHT 333
+2 TITL Thomas Arthur, 1749-1833 son of Ambrose, brother of Benjamin Arthur 1737
+1 RIN 8d881615-3aca-4721-9277-bc2e1ea3ae14
+1 _CREA 2020-04-04 21:03:44.000
+1 _USER kzKazD60G25CmzaH3SqaPyXziseRCbt6sUE5VV09EF/6etzLrMwZ3iA/BhvAWO3f6PBEDE2jlDnu8QsVPBGYSQ==
+2 _ENCR 1
+1 _CLON
+2 _TID 108283349
+2 _PID 230066220796
+2 _OID e598975d-86a0-4ab8-9dfb-b6309c94e772
+2 _USER plVuoGpfr6cizKa5C5zB3nTPmboxGDYw55pXevfea4+RI/qeBjgtxy29WknVZhB2gf8quUFZ+HBWijlszxg4JQ==
+3 _ENCR 1
+2 _DATE 2017-02-04 03:39:58.000
+1 _ORIG u
+1 _ATL N
+0 @O51@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE gif
+3 _SIZE 100582
+3 _WDTH 335
+3 _HGHT 453
+2 TITL IMG_1373.GIF
+1 RIN 8dc35209-a0bb-48ee-bb92-0ab5095f7151
+1 DATE 28 Oct 2018
+1 _CREA 2020-04-04 21:27:08.000
+1 _USER 9iJEjDTbZohU5tBmqVg3VDX9SrEAxRtplfbQXOCLaSycM55jEU5LMl0V2N7T7eSo0Iza+XR0fBuCb1FIAJJvhw==
+2 _ENCR 1
+1 _CLON
+2 _TID 2152170
+2 _PID 6013998747
+2 _OID 114311ca-abe8-40ca-880f-e601890eede8
+2 _USER EkuIlyAfRcghdlqk8ia/S/ONP/kzmFLaOlBY9PScdryj6QrWlVCtQuGLptcoZs7Atwd48lXuzZv8QbxWX2Rt1A==
+3 _ENCR 1
+2 _DATE 2018-10-28 09:59:31.000
+1 _ORIG u
+1 _ATL N
+0 @O52@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE png
+3 _SIZE 494944
+3 _WDTH 2000
+3 _HGHT 1370
+2 TITL Flag_of_Virginia
+1 RIN 9226e974-9507-40de-a613-010393e1dd37
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2020-04-04 21:04:46.000
+1 _USER U06m80IpdxWAQ+ESEsev9gG6hiYtUa1+1VFmHc7jMellzpW7Uo54B1y0I61IcOvQk2VWYuGKNucOWXOGse3QGQ==
+2 _ENCR 1
+1 _CLON
+2 _TID 64890617
+2 _PID 44402182076
+2 _OID cedebed5-e2ea-413d-9f00-aa25364b7c42
+2 _USER hQ8hzWWuoHS+C3XWIkVfX0vSd3QG84Rw7G41XEy55Pgu9rJzmrQfMtN6qGxF1aLZuRBhHw3MAGPbaerOJu8/tg==
+3 _ENCR 1
+2 _DATE 2015-04-19 18:58:17.000
+1 _ORIG u
+1 _ATL N
+0 @O53@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 169191
+3 _WDTH 800
+3 _HGHT 600
+2 TITL KENTON Kegg-Blasko HEYDEN House Old Bedford Village
+1 RIN 94ca3d15-31f6-4d68-b6d4-d164f0a83a60
+1 _DSCR Constructed from 2 homes: Kegg section believed to be built circa 1768 by Thomas Kinton; Blasko section believed to be built circa 1790 by James Heyden.
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2020-03-01 06:08:44.000
+1 _USER KRHAtoyKadJk0U/enwFR/UkqPEp9bNc9oYaxHVoyKNRLH4hqq1EYGNlbqzRkQMF98vOegMsFTLy/fYdfM1A+bQ==
+2 _ENCR 1
+1 _CLON
+2 _TID 63690466
+2 _PID 42109568913
+2 _OID 92907e2a-8dcf-4459-aba1-9b9496956b9b
+2 _USER Ob/5yJ6QNfoKxzVPyvn0F0vwsX6O5Iu06c5QXi0NHrsk9GpJSJCrzgM8SYbewK7MfC2FSV3KmSjli6MxNUlQQg==
+3 _ENCR 1
+2 _DATE 2013-11-23 16:45:28.000
+1 _ORIG u
+1 _ATL N
+0 @O54@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 65530
+3 _WDTH 800
+3 _HGHT 800
+2 TITL World Explorer England
+1 RIN 9630c373-724a-4a59-ba55-648677ee0721
+1 _CREA 2020-04-05 03:17:46.000
+1 _USER tFTcDfbWjZbOZ2iD7/vRCALfUt8aVVnJo7WcjPlPaRAGc15Q6CvpQhsJsjnGqachzfbry52Z5atYihADMchTmw==
+2 _ENCR 1
+1 _CLON
+2 _TID 71452429
+2 _PID 112026191380
+2 _OID 6474ef62-5e21-4e5f-a206-3c417a3956a3
+2 _USER ldq9h0a8KFK0bsEBKhWJaeMfEHX6Bg0cjqyjpa+kYIPSM/2AMc9KYeCvcmJU/R2/q/avUdmg/Zgt09Gr/rTTLw==
+3 _ENCR 1
+2 _DATE 2018-07-25 05:48:04.000
+1 _ORIG u
+1 _ATL N
+0 @O55@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 1104083
+3 _WDTH 2560
+3 _HGHT 1920
+2 TITL DSCN1086
+1 RIN a8605786-1367-4eda-a6cd-9277511906e2
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2020-03-01 05:38:33.000
+1 _USER 8JGQYciD2dH7K8ynU+wdh/DMTm+jBAYwrVIRUzZfgwxs6AwrIPKsR7j+WcbSE14TT1e0ffxatMFDoY+PvOKoHw==
+2 _ENCR 1
+1 _CLON
+2 _TID 170055
+2 _PID -2115735619
+2 _OID 46fbb169-7db8-4a9e-a2f0-58b62b3de1ef
+2 _USER 5H1NB8cijFASOBxDQtS6fHwKiezh7HfnsI/kgduW86B4Ee1bgt0oEz6M4xIPz4KEOyuUaQ6Jt8CstKhtD008ww==
+3 _ENCR 1
+2 _DATE 2012-05-12 20:39:17.000
+1 _ORIG u
+1 _ATL N
+0 @O56@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpg
+3 _SIZE 564647
+3 _WDTH 2141
+3 _HGHT 3375
+2 TITL Births from the Bristol Parish Register of Henrico, Prince George, and Dinwiddie Counties, Virginia, 1720-1798 - Anne Hamblin
+1 RIN af65ad65-4052-4f27-849c-b41ae231e0e6
+1 DATE 03/23/2019 14:55:47
+1 _CREA 2020-03-01 06:16:30.000
+1 _USER gJSM8ud7Mwc3USz41ouNz7dwDAAPlYs97bD+CR7PRUoqXDONQ+2jNCyHuDxD0Xi+7ORLzoHn2f1dSWLSv8Muxw==
+2 _ENCR 1
+1 _CLON
+2 _OID e159d6ed-0034-4b95-a0a8-d5e825c51eb7
+2 _USER nXYrlrt/2tCwtfW5qTPft0RxGMrq1vrl5qyLC8+2SouDUx5WXJ+/jKv8b3TD5iWLVP/6/WaRonMBQYWr/caJRg==
+3 _ENCR 1
+2 _DATE 2019-03-24 08:35:47.000
+1 _ORIG u
+1 _ATL N
+0 @O57@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 69785
+3 _WDTH 800
+3 _HGHT 283
+2 TITL J. Roberts & E. Bulmer (marriage)
+1 RIN b03059c2-7c7b-4ac5-bcc5-7723cfb722e3
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2020-04-04 21:20:41.000
+1 _USER iKHoQvq/vvCEyGGmE9D01zhq+l719DQEg2WT1JfRfQYceyENtR1uZaRg3yXjtEf6RSozlsHrDwQSjTiBY74Xrg==
+2 _ENCR 1
+1 _CLON
+2 _TID 74368918
+2 _PID 46359021186
+2 _OID 402d3559-ac97-4bb8-b26b-480f42b28cdb
+2 _USER j6pSdyqNMjEfHkGzwv2crdPB5wWe4XetUpVbORn5xVALMStm60z7Y6oTxZcNF3jtytTTq/1gS7QxzfAJxqrEWQ==
+3 _ENCR 1
+2 _DATE 2015-08-01 22:58:48.000
+1 _ORIG u
+1 _ATL N
+0 @O58@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE other
+3 _STYPE png
+3 _SIZE 32228
+3 _WDTH 1200
+3 _HGHT 720
+2 TITL Kingdom of Great Britian
+1 RIN b4d271bb-6d31-41f8-9987-693066fdc8d6
+1 _CREA 2020-03-01 06:09:01.000
+1 _USER tLO3iBgE4QPf96PlJZLYLiJlbi1ieLnA4Tfv106wj9dzJAt2GLWveS+lxB1Aldcq6Xsm+rYUIcd0m8UrGdBVvw==
+2 _ENCR 1
+1 _CLON
+2 _TID 155517745
+2 _PID 212050175717
+2 _OID 6ac1a1bd-cb08-4471-9492-3318f4e93931
+2 _USER k9I6SgjPzVeQ8l2Vc8K6vKRhExslBqSweM3wLX/8DcRxor3tjRbeaPFm5eA9Yks+1MsHicicXlb9booF2sVxag==
+3 _ENCR 1
+2 _DATE 2018-12-30 18:43:32.000
+1 _ORIG u
+1 _ATL N
+0 @O59@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 12380
+3 _WDTH 110
+3 _HGHT 150
+2 TITL Bassett
+1 RIN b65bc124-3bc2-44e2-9b0c-7ae11fedcf53
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2020-04-04 21:27:19.000
+1 _USER EGdJpMLgE4+0q6r/dIs2D3Mb0FO9CChxHP7yWAPc4/T245LrxC9yPJhCcCi/Bkr7dfLGpWc/6RgQ1Ying2Akow==
+2 _ENCR 1
+1 _CLON
+2 _TID 4832349
+2 _PID 25348406013
+2 _OID b74389c1-42e6-446d-9c2e-4c3b9b5b4237
+2 _USER XnFDAuTITfBEjNBpEd6Vbn3CzFViy3wAx3Vwoy24IIbgHdVVf3e8VqvNWMadPh/Ovinr8wzhCPBAfFP7uvp0zg==
+3 _ENCR 1
+2 _DATE 2015-09-18 14:21:25.000
+1 _ORIG u
+1 _ATL N
+0 @O60@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 16914
+3 _WDTH 191
+3 _HGHT 191
+2 TITL direct line ancestor male
+1 RIN b77829cf-6c97-4008-be33-e3e59ee312f6
+1 DATE 04/02/2015 14:06:03
+1 _CREA 2020-04-04 21:39:00.000
+1 _USER 6E6/tJ6szAn8es4X3Q0u+Ue80AqoviNnMSXlNFl9XR52bOn7gwua/G6FgqwJuFU5j5hzPG0n4UdgT5Twc28T7w==
+2 _ENCR 1
+1 _CLON
+2 _TID 51485157
+2 _PID 26896910410
+2 _OID 0d7366cc-3936-4e30-85b8-7cc53edc517f
+2 _USER iJf8I22geTpjEM+twMEUtUb5mDtj/VTuWuypDT34mquzDF5iIXXyKm4DtbvKpWE8Oq28aS8MYeS84UDxYERZ0A==
+3 _ENCR 1
+2 _DATE 2015-02-04 14:29:44.000
+1 _ORIG u
+1 _ATL N
+0 @O61@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 17330
+3 _WDTH 214
+3 _HGHT 210
+2 TITL direct line ancestor female
+1 RIN bb6d9f3b-f37d-4fe0-999d-d19c95627a68
+1 DATE 04/02/2015 14:05:39
+1 _CREA 2020-04-04 21:32:59.000
+1 _USER Ag8EQAPDSZ3CKa8zl6W95E10uH2O3pluWoHnPUtVWx8o9/4tbfwVAB+/oZdNMicZ+SQCIOywjFlUXZms71GUaA==
+2 _ENCR 1
+1 _CLON
+2 _TID 51485157
+2 _PID 210011366398
+2 _OID e1b73914-9c84-4cd4-930c-2dd6f219308c
+2 _USER eimMrmRFBVBd4WJPOFl0swtYGAR6Of7DhrVSVpMY3Ok165kfzaT4hijHv6Lz5id0vOWe3wC/zdHnbjCaM/WYNA==
+3 _ENCR 1
+2 _DATE 2015-02-04 14:29:45.000
+1 _ORIG u
+1 _ATL N
+0 @O62@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpg
+3 _SIZE 24875
+3 _WDTH 172
+3 _HGHT 268
+2 TITL orrelcoa
+1 RIN c33359b2-3182-43bd-8bba-725b1b93296a
+1 _CREA 2020-03-01 06:34:30.000
+1 _USER m87dQVYXPahOh9P3LXVEU2tDOP1AqPYpaYDgOmg1W0Yz9j9mCbQJcVafB5rPoZpwcE9w5tDhkXAmN7u9jaDpcA==
+2 _ENCR 1
+1 _CLON
+2 _TID 114426856
+2 _PID 360131302217
+2 _OID af155615-a9a3-4ae4-899a-c70806aa5c47
+2 _USER 0q8vLfjimueJnTKJlx7NC/1vbq6QIgS70WGCh4wnYsPHsgI1Zu70yDJVPx/yPRx+o/kofwG8SpCT4FwzI5wAUQ==
+3 _ENCR 1
+2 _DATE 2017-08-12 22:20:59.000
+1 _ORIG u
+1 _ATL N
+0 @O63@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 864137
+3 _WDTH 1632
+3 _HGHT 1224
+2 TITL Hole House
+1 RIN c3980084-f9de-4ff5-9a9e-c88c667e9584
+1 DATE September 2008
+1 PLAC Howgill Sedbergh
+1 _DSCR The Ancestral Home
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2020-04-04 21:47:21.000
+1 _USER +u34CaX0gCDKwqyY2Jq5dSdTYpsrVIhFJh8KolDGzUPB8dZ3V0lEoikwmCcxWMIA69b3QNfhF/Z37My9IyBJyg==
+2 _ENCR 1
+1 _CLON
+2 _TID 322703
+2 _PID 468687751
+2 _OID 9a79b985-7d32-460e-b948-2e67f728c31f
+2 _USER Mnf/tPUx927YI++8pd1R8vV96DDBCMQglj4xMH48esMOMexTx29EJ5vBENrBqhZsPc69/+IgPMqKUrwCOUgklQ==
+3 _ENCR 1
+2 _DATE 2009-03-31 16:55:18.000
+1 _ORIG u
+1 _ATL N
+0 @O64@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 666205
+3 _WDTH 1744
+3 _HGHT 2216
+2 TITL 1850 Census KY - Hezekiah Steele
+1 RIN cb96c653-88fd-49e9-9fbc-b3b5577ce7ec
+1 DATE 1/23/2014 2:47:07 PM
+1 _CREA 2020-04-04 20:58:02.000
+1 _USER vCUfeFxTL3fbyLyn9FaV+Oof3kXrIO44rLI6Kz1jcIT8OnJ6dM0zSS5K4Qwqx3UsPPno91zaINlc7+536USDnA==
+2 _ENCR 1
+1 _CLON
+2 _TID 80424451
+2 _PID 32425585498
+2 _OID d1a30649-b44d-4393-ac4f-68456a774a04
+2 _USER OtFIbfZxsfteRzxNhAixZDSeFOEKQLrA8oD/I1oRCdFt+W19jixvsHhpctzJbxaj8EyxmBWt86j37BYwMPHxlA==
+3 _ENCR 1
+2 _DATE 2015-05-22 19:54:06.000
+1 _ORIG u
+1 _ATL N
+0 @O65@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 950321
+3 _WDTH 941
+3 _HGHT 2648
+2 TITL Samuel Steele
+1 RIN cd6654bf-acbd-45db-91f6-b9772238c7b8
+1 DATE 7 Nov 2014
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2020-03-01 05:16:47.000
+1 _USER muaRA1XIlS4uvmribTf1xO+doKk7o2zCQ7UVBt+mXX+3B8PKPutBnn4BNC0oj/7P1hs2S5ALbGXgUQRcqPFAmA==
+2 _ENCR 1
+1 _CLON
+2 _TID 41613029
+2 _PID 29106996334
+2 _OID d67e29ed-6829-4c51-ba51-75e7039c7961
+2 _USER 0LqdjECeVZ/Uf+EhmwoROZAn60mSYOcjQTGxNCu8EP7QTztzRPkG0zrRRvd0KkjJCKoav9tNNEG7EokWr8EHsw==
+3 _ENCR 1
+2 _DATE 2014-11-08 05:03:53.000
+1 _ORIG u
+1 _ATL N
+0 @O66@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 16854
+3 _WDTH 278
+3 _HGHT 180
+2 TITL Turton Tower Turton Lancashire - approx 1850
+1 RIN cf396090-59aa-466b-853b-0ee309a1c872
+1 _CREA 2020-04-05 03:25:22.000
+1 _USER Ftzgbhn51uyReovWqnxcfSu53Xr2WeT4bS2nzUSKCoAsIfrgBqk8xIUsX0ozKpoRYXZdEFO1B7dkdoydbl1OkQ==
+2 _ENCR 1
+1 _CLON
+2 _TID 40367499
+2 _PID 19482695966
+2 _OID a584004b-c2a2-43e4-8095-104878682d2c
+2 _USER 7TzNpJRlPa/WJOj66FDvVIcQTg151ScJPR7MqWmKSvFHaUEQ6HqsOVA2KLoKcAbToGF9JcWIQkuBVPdKReuINw==
+3 _ENCR 1
+2 _DATE 2012-04-21 10:34:03.000
+1 _ORIG u
+1 _ATL N
+0 @O67@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 49172
+3 _WDTH 641
+3 _HGHT 738
+2 TITL coaShakerley
+1 RIN d13e7ac8-e4d6-4e17-9d98-0cdd43fe6a6c
+1 _CREA 2020-04-05 03:25:39.000
+1 _USER mOf3fiYeu/Z6UXY9zfF2OyIKPFd4tSGQBQV0reE6eyJ0k+xbxonwB6d9t4N4v+L7s/tS5F2Rkftb2pGUvit05A==
+2 _ENCR 1
+1 _CLON
+2 _TID 6747436
+2 _PID 100092358517
+2 _OID 5452e1ed-ce35-4c7e-97cf-106400b963ca
+2 _USER lbsyimUjNhAjgSGsAz0SloxZTF2Fs7CSK5qZ1Gjo0HQByT67zSSHh7EIMtiEa0+BiU0ixBT1sKQ/lUg10WkWYQ==
+3 _ENCR 1
+2 _DATE 2017-05-11 16:30:12.000
+1 _ORIG u
+1 _ATL N
+0 @O68@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 8159
+3 _WDTH 292
+3 _HGHT 172
+2 TITL Virginia Flag
+1 RIN d7569210-f24d-4d90-9cd4-238cfc4beb39
+1 _CREA 2020-04-05 03:16:45.000
+1 _USER Bld21Cy460l2GYkcKBwjgHmcu/TxotiP4mrVDdkhGXF1QcHiAKwAijKn4xhDDlBd4vfii5R/7QBDz2nZmVn53Q==
+2 _ENCR 1
+1 _CLON
+2 _TID 77243347
+2 _PID 44359352068
+2 _OID fac943a3-47c8-4d28-a777-589c2e7ea003
+2 _USER RUsZ+O6087ISBLWKoifc+G64fpE0L1tjoLfmzzykZ4eYcpkWqOTsNHQrg3DE3zm14Ke11gmho7TmyhHPHpZ/Rw==
+3 _ENCR 1
+2 _DATE 2015-02-08 02:55:50.000
+1 _ORIG u
+1 _ATL N
+0 @O69@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 240534
+3 _WDTH 768
+3 _HGHT 1025
+2 TITL Matilda Frances McMackin Headstone
+1 RIN d82df10d-e261-4dd3-af6b-2dcdd312c982
+1 PLAC Posey Cemetery, Wayne Couny, IL 
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2020-03-01 05:55:54.000
+1 _USER 5Np3fWSdqDA/ZRd0qDm/WsH2vRW+3iLaeLeRwIedS3Quk2w+rG/eM6STyf10XNckOABayb8v15A03cMkPoEo4w==
+2 _ENCR 1
+1 _CLON
+2 _TID 39887
+2 _PID -2138980393
+2 _OID 379c74e8-f761-4e94-8a49-9e3ce065824d
+2 _USER yT72Tv4Oe1QIbPry3cX48EP0wtCagwMF0ZgA8p9ShlCWSGE+OsNssZEG2FRDd3h+r8XE4+9MHF98p5hMVovy6w==
+3 _ENCR 1
+2 _DATE 2015-01-02 03:58:05.000
+1 _ORIG u
+1 _ATL N
+0 @O70@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 69785
+3 _WDTH 800
+3 _HGHT 283
+2 TITL E. Bulmer & J. Roberts (marriage)
+1 RIN d9885c7d-a5a0-47d3-96f8-381097736aa3
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2020-04-04 21:20:26.000
+1 _USER lJLJMd9Zp9878HOBnP4rsowAVmpJNiH/C4pcy5mHSiGKP86XQa46OK9ojtS2ep6BKFQmKuh1z8pDcIE/vKnZwA==
+2 _ENCR 1
+1 _CLON
+2 _TID 74368918
+2 _PID 46359546083
+2 _OID 36a72565-eeeb-49ec-ad1d-b26ca1dc341c
+2 _USER umlZdz/rmZwRIO1FhpuTr+KFYJa8gnZfKuRhOVjrlt6iHxJafBVEP2FFZINxDxOcVRGypLHqNlZSF99co91p3g==
+3 _ENCR 1
+2 _DATE 2015-08-01 23:00:06.000
+1 _ORIG u
+1 _ATL N
+0 @O71@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE other
+3 _STYPE jpeg
+3 _SIZE 4571
+3 _WDTH 155
+3 _HGHT 160
+2 TITL AAA Direct Line Image
+1 RIN dc1be4c1-5ed1-42f8-bc43-8555f6355894
+1 _CREA 2020-04-05 03:09:37.000
+1 _USER ddBnQYuQbTSGmY/tdeXd3+6WZBOLa3/cQQNbD8XfIH/8oqqjWvitTkSqCBWcmIQvGrVIqDXSBofgK20hHcRrAg==
+2 _ENCR 1
+1 _CLON
+2 _TID 109646908
+2 _PID 120076247673
+2 _OID 8c084404-9eba-45c3-970d-b4061acf51ae
+2 _USER qwF5+zFkWOPUE1SnDhybNoisHn7+z79yfNbM4y+zFJ6WjgfFm66wkTVGjpF5k5SUxKcj6d8PvrgK58Wmz3zynw==
+3 _ENCR 1
+2 _DATE 2017-11-29 01:03:57.000
+1 _ORIG u
+1 _ATL N
+0 @O72@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 22068
+3 _WDTH 236
+3 _HGHT 330
+2 TITL american rangers
+1 RIN dd74e418-5843-4642-841f-89e2204e9b95
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2020-03-01 06:08:21.000
+1 _USER frBXCVTmLHXisLt178e/wn0HjPdNcqhZ49vJPtVGvbTs8EmtRT56cvfwNBRw3ClIpiWhIB5YiRSbjVz8ObBojw==
+2 _ENCR 1
+1 _CLON
+2 _TID 34860186
+2 _PID 28114356574
+2 _OID 63fd81a6-3e6a-44f0-8f08-382fc5a12399
+2 _USER OIs0Szf9/uUB5aCE54ui8bBs+QO2dfKJJr7tjU2g4w1mokqsz45FUJVyRjF0CgXrWmJG4F6jRDZqrD7X5IFIcA==
+3 _ENCR 1
+2 _DATE 2015-01-05 07:18:49.000
+1 _ORIG u
+1 _ATL N
+0 @O73@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 3247879
+3 _WDTH 2181
+3 _HGHT 1211
+2 TITL Moses  Moore & Elizabeth Davis Marraige Bond Greene Co, Tn 1782
+1 RIN dec98a28-d0a2-49c4-b72f-4e8bf9c1452e
+1 DATE 1782
+1 PLAC Greene Co, Tn
+1 _DSCR Recieved from John Moore
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2020-04-04 21:07:39.000
+1 _USER 96aTmY+HootRbyYJkLZnU6DAvyRvk7GMgOZnCp9MrkduZz41BtkSpQZvh4i8CyB1PBy3yiR9eK0ybHzUNuVrDQ==
+2 _ENCR 1
+1 _CLON
+2 _TID 22496151
+2 _PID 18035552302
+2 _OID 374f5f12-29f0-49bc-98b5-365ba5580cae
+2 _USER BxgXLJKjUVkQKKPjybWigGjjWyCCE/DyO+2oCQ2ukl0aZjpVeStLmjR1l5yB3ng1xjg/0qpg8D65mIqUUvAPeQ==
+3 _ENCR 1
+2 _DATE 2011-10-26 04:01:50.000
+1 _ORIG u
+1 _ATL N
+0 @O74@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE png
+3 _SIZE 18796
+3 _WDTH 2000
+3 _HGHT 1200
+2 TITL Union Jack
+1 RIN e391fd57-8d70-4487-8781-2c859088a5a6
+1 _CREA 2020-03-01 06:43:17.000
+1 _USER hEa+7aGK8xLAeY0Qz7VtrdPhceHaY0JZEywWSgAUJEKX+uNwy0D59mUQ82loGCBFtSDPNPbaZiW8/RFpAmCP+g==
+2 _ENCR 1
+1 _CLON
+2 _TID 9175997
+2 _PID 192061815273
+2 _OID 6e357ea4-77ae-44dc-aa93-a9016f0f4822
+2 _USER C80lMU9S5rctttjwQg0OjicQUWUQQTNb43NZSD7Z1cQ96uXgZvngutXjiDjHczoJJydELR5ZUUIEx2vfGIrXCQ==
+3 _ENCR 1
+2 _DATE 2018-12-17 23:47:20.000
+1 _ORIG u
+1 _ATL N
+0 @O75@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 1353548
+3 _WDTH 784
+3 _HGHT 960
+2 TITL Robert Bradshaw
+1 RIN ea089dd9-eaf3-48a1-9887-aec70838365a
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2020-03-01 04:53:26.000
+1 _USER 5Uy1Ej6VHc8XgxQvI48SDMuLlRCiIZJBfcFBHFXNuxK1XyntH0ZVkH+VFSYzY6MXF2Wkla+kOB8mEW1+qedYXg==
+2 _ENCR 1
+1 _CLON
+2 _TID 14847016
+2 _PID 28028224122
+2 _OID d5762ef0-6a2e-4a0f-9075-27b13f2b93bb
+2 _USER 3qCsGoUwCnmCg7qa1flDDToBX8bS+nzcXqMVCeQ724HZ+SFxIi6Hk2wmDllHxMv6fmclIwRUmk0icxaGtlEF9A==
+3 _ENCR 1
+2 _DATE 2015-06-04 07:47:33.000
+1 _ORIG u
+1 _ATL N
+0 @O76@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 3216714
+3 _WDTH 2111
+3 _HGHT 3199
+2 TITL Samuel Steele
+1 RIN ec01fe7d-aa99-47ec-80bb-c9a3f53c24d1
+1 _DSCR Photo from a tin type photo.  
+2 CONT 
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2020-03-01 05:16:56.000
+1 _USER ECE8cD+qDOzNLixPxF5UuZkBs3YMvCi7WvbLtwk6oLxBVZ25EJM6FnFmZ7Sqa1qQjBq8IUS697grVqeHe4+UIQ==
+2 _ENCR 1
+1 _CLON
+2 _TID 14847016
+2 _PID 173594774
+2 _OID 6577eb24-513f-4cdc-bf2b-54f63f5f0acd
+2 _USER wFioGzRdQuICGpvdiagtp88ElQXf+nImedaR2TQbAYogrnYJN05QROIpP3iZIwwhbC1DstBAZ85VLfrJ98coIw==
+3 _ENCR 1
+2 _DATE 2013-01-29 20:22:08.000
+1 _ORIG u
+1 _ATL N
+0 @O77@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE headstone
+3 _STYPE tiff
+3 _SIZE 1685262
+3 _WDTH 1173
+3 _HGHT 1752
+2 TITL Margaret Owens Lewis headstone
+1 RIN f573a2dc-eba8-4a08-948b-d3817573bb46
+1 PLAC Heltonville, IN
+1 _DSCR Old 37 on left
+1 _META <metadataxml><cemetery>Hopkins</cemetery><transcription /><personas><persona><pname>Margaret Lewis</pname><bdate /><bplace /><ddate /><dplace /></persona></personas></metadataxml>
+1 _CREA 2020-04-04 20:57:27.000
+1 _USER rtEVMLu9EfEpGwqeVWZN9EQIg2BKMW/D8NitXi9UVnytXuIpV038uKyj3Zadpne2+FTOKRg6BFFzdIg/cGIwmQ==
+2 _ENCR 1
+1 _CLON
+2 _TID 41613029
+2 _PID 19683292192
+2 _OID dc2647f0-8d67-4f74-9705-81070d6b1221
+2 _USER qednMy9ZUjR4p+SaDZLMrqDre/oferZvoRcQVkAYsQf6oSHvCd5u/zMTP6SLZCy5qthq9uy5K6yiUrZY+4X4LA==
+3 _ENCR 1
+2 _DATE 2012-06-07 03:40:54.000
+1 _ORIG u
+1 _ATL N
+0 @O78@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 1362113
+3 _WDTH 1706
+3 _HGHT 2545
+2 TITL expanded coad first home
+1 RIN f75cf8b1-4974-454e-b9a0-b56591ab30c6
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2020-04-04 21:18:36.000
+1 _USER qW3vs8FfsHWgtfWn3VxhXdvHz661CsaQMsMSsWbgYnw6AzNMa9EP96A8zmJoJR94qsOU4feSJ6/1gnNgLy4dWQ==
+2 _ENCR 1
+1 _CLON
+2 _TID 17620115
+2 _PID 565721747
+2 _OID fdd2c28e-6f08-43e0-a1a8-26d160e2db8e
+2 _USER /c51PIagCkwzsF2HvWxQ4QtnFX6zAr3fZin81gAt37+WpqTMAvazHhMPUjTtIiGB7nyl+fjv0mh/2vwgOS71vQ==
+3 _ENCR 1
+2 _DATE 2010-07-17 00:44:13.000
+1 _ORIG u
+1 _ATL N
+0 @O79@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE png
+3 _SIZE 18514
+3 _WDTH 107
+3 _HGHT 145
+2 TITL ann r
+1 RIN fb294e8e-5c62-4f91-bb67-444baa8ef8a4
+1 _CREA 2020-04-04 21:46:53.000
+1 _USER Zs2lVuYm8M3Hy3tI3qpRRjgEgCB9JcKDEufc2CD/O1ig/yPte9C9QNReV/fEwjdYqRXB7AzIR/J4gh25+O/YVw==
+2 _ENCR 1
+1 _CLON
+2 _TID 110480786
+2 _PID 400155631811
+2 _OID ef91142b-ff25-4650-b087-69b514221fc9
+2 _USER cJe5AW/jqA0+HQFEkykDqGmyaxlBovoUOJuoyd/v/I9enHzoEbdctEof4inMUpjbjcGx0BX24z15PT7QjbASzg==
+3 _ENCR 1
+2 _DATE 2018-04-04 17:55:55.000
+1 _ORIG u
+1 _ATL N
+0 @O80@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE headstone
+3 _STYPE jpeg
+3 _SIZE 153123
+3 _WDTH 640
+3 _HGHT 540
+2 TITL Grave stone Owen Seaney
+1 RIN fefe590e-3c11-4700-b14c-5be6517aaa37
+1 PLAC Wayne County Indiana
+1 _META <metadataxml><cemetery>Boston Cemetery</cemetery><transcription /><personas><persona><pname>Owen Seaney</pname><bdate>1745</bdate><bplace /><ddate>1831</ddate><dplace /></persona></personas></metadataxml>
+1 _CREA 2020-04-04 20:48:15.000
+1 _USER 3t3RGjX6IThgvkxZCNteYrXsGdUlG0SY+cuH1kMtX8e6YWR4/yjePpLTkpVOxr0q5moD1ORe6lUezbJWZp568Q==
+2 _ENCR 1
+1 _CLON
+2 _TID 26202892
+2 _PID 1802121105
+2 _OID 9521bc3d-c92e-4f6a-b175-c30cee5eaca6
+2 _USER 1PNVkQzCE2crRPBEG4H+MH9hmeIw5+jmx2A/1OiFWDw0v6jhJEq3EP2UoRUvjG6h5nDK96zl1IBYNmRasEwGig==
+3 _ENCR 1
+2 _DATE 2012-09-03 00:48:27.000
+1 _ORIG u
+1 _ATL N
+0 @S1394132693@ SOUR
+1 TITL U.S., Find A Grave Index, 1600s-Current
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2012
+2 PLAC Provo, UT, USA
+1 _APID 1,60525::0
+1 REPO @R1353941594@
+0 @S1395600801@ SOUR
+1 TITL Ancestry Family Trees
+1 PUBL Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.
+1 _APID 1,1030::0
+1 REPO @R1353941594@
+0 @S1395601563@ SOUR
+1 TITL U.S., Social Security Death Index, 1935-2014
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+2 DATE 2014
+2 PLAC Provo, UT, USA
+1 _APID 1,3693::0
+1 REPO @R1353941594@
+0 @S1402009691@ SOUR
+1 TITL Illinois, Marriage Index, 1860-1920
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2015
+2 PLAC Provo, UT, USA
+1 _APID 1,60984::0
+1 REPO @R1353941594@
+0 @S1402009816@ SOUR
+1 TITL Illinois, County Marriage Records, 1800-1940
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2016
+2 PLAC Lehi, UT, USA
+1 _APID 1,61370::0
+1 REPO @R1353941594@
+0 @S1402010911@ SOUR
+1 TITL Web: Illinois, Databases of Illinois Veterans Index, 1775-1995
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2015
+2 PLAC Provo, UT, USA
+1 _APID 1,9759::0
+1 REPO @R1353941594@
+0 @S1402010963@ SOUR
+1 TITL 1850 United States Federal Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2009
+2 PLAC Provo, UT, USA
+1 _APID 1,8054::0
+1 REPO @R1353941594@
+0 @S1402011108@ SOUR
+1 TITL U.S. Public Records Index, 1950-1993, Volume 2
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2010
+2 PLAC Provo, UT, USA
+1 _APID 1,1732::0
+1 REPO @R1353941594@
+0 @S1402011127@ SOUR
+1 TITL Newspapers.com Obituary Index, 1800s-current
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+2 DATE 2019
+2 PLAC Lehi, UT, USA
+1 _APID 1,61843::0
+1 REPO @R1353941594@
+0 @S1402011144@ SOUR
+1 TITL U.S. Public Records Index, 1950-1993, Volume 1
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2010
+2 PLAC Provo, UT, USA
+1 _APID 1,1788::0
+1 REPO @R1353941594@
+0 @R1353941594@ REPO
+1 NAME Ancestry.com
+0 TRLR
